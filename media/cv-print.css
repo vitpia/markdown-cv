@@ -156,16 +156,16 @@ h3 {
 
 a {
 	/*color: #fad;*/
-	text-decoration:underline;
+	/*text-decoration:underline;*/
 }
 
 a:visited {
-	text-decoration:underline;
+	/*text-decoration:underline;*/
 }
 
 
 a:hover {
-	color:#39f
+	color:#2B439C
 }
 
 #webaddress {
