@@ -2,18 +2,18 @@
 layout: cv
 title: Vitória Piai's CV
 ---
-# Vitória Piai
+# Vitória Piai  
 Associate Principal Investigator, Radboud University   
 Junior Principal Investigator, Radboud University Medical Center
 
 Donders Institute for Brain, Cognition and Behaviour  
 Montessorilaan 3  
-6525HR Nijmegen, the Netherlands  
+6525 HR Nijmegen, the Netherlands  
 
-<a href="v.piai@donders.ru.nl"><i class="fa-li fas fa-envelope fa-2x"></i>v.piai@donders.ru.nl</a> 
-<i class="fa-li fas fa-phone fa-2x"></i> +31 (0)24 361 5497
+<a href="mailto:v.piai@donders.ru.nl"><i class="fa-li fas fa-envelope"></i>v.piai@donders.ru.nl</a> 
+<a href="tel:&#43;31%2024%203615497"><i class="fa-li fas fa-phone"></i>&#43;31 24 3615497</a>
 
-<div id="webaddress">
+<div id="webaddress"> 
   <a href="http://vitoriapiai.ruhosting.nl/"><i class="fas fa-home"></i> Personal website</a> 
   <a href="https://www.ru.nl/languagedysfunction/"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a> 
   <a href="https://orcid.org/0000-0002-4860-5952"><i class="ai ai-orcid"></i> 0000-0002-4860-5952</a><br/>
