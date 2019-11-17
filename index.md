@@ -2,9 +2,9 @@
 layout: cv
 title: Vitória Piai's CV
 ---
-# Vitória Piai  
-Associate Principal Investigator, Radboud University   
-Junior Principal Investigator, Radboud University Medical Center
+# Vitória Piai    
+Associate Principal Investigator, Radboud University, Donders Centre for Cognition   
+Junior Principal Investigator, Radboud University Medical Center, Donders Centre for Medical Neuroscience
 
 Donders Institute for Brain, Cognition and Behaviour  
 Montessorilaan 3  
@@ -25,8 +25,7 @@ Montessorilaan 3
 </div>
 
 ## Research Summary  
-As a PhD candidate at Radboud University, supervised by Ardi Roelofs and Herbert Schriefers, I did research on the role of executive control in word production using behavioural methods, scalp electrophysiology, and functional MRI.  
-Halfway into my PhD, I initiated my own, independent, research programme on the electrophysiology of language production in healthy speakers. I then obtained personal post-doctoral funding to go to the University of California Berkeley and expand my research towards populations with acquired language impairment. Under the mentoring of Prof. Robert T. Knight, Prof. Nina F. Dronkers, I used intracranial and scalp electrophysiology to investigate the neurophysiological underpinnings of language and its neuroplasticity.  
+As a PhD candidate at Radboud University, supervised by Ardi Roelofs and Herbert Schriefers, I did research on the role of executive control in word production using behavioural methods, scalp electrophysiology, and functional MRI. Halfway into my PhD, I initiated my own, independent, research programme on the electrophysiology of language production in healthy speakers. I then obtained personal post-doctoral funding to go to the University of California Berkeley and expand my research towards populations with acquired language impairment. Under the mentoring of Prof. Robert T. Knight, Prof. Nina F. Dronkers, I used intracranial and scalp electrophysiology to investigate the neurophysiological underpinnings of language and its neuroplasticity.    
 Since 2017, I head the Language Function and Dysfunction group at the Donders Centre for Cognition and Donders Centre for Medical Neuroscience in Nijmegen. My research programme focuses on the neuropsychological and neurophysiological basis of language in healthy adults and the impairment of language functioning after brain injury or damage to the speech organs. My research is further characterised by bridging across the domains of language, memory, and executive control and by the way I use my strong fundamental and methodological background to approach the study of language disorders. Electrophysiology holds an important place in my research programme, which I combine with behavioural measures, non-invasive brain stimulation and lesion-symptom models.
 
 ## Positions  
