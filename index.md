@@ -447,11 +447,11 @@ __Cecilia Husta__, _University of Groningen_
 **Ingeborg Roete**, *Radboud University*
 
 ## Teaching
-_Research Master’s Programme in Cognitive Neuroscience, Radboud University, Nijmegen_
+_Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
 `2017-present`
 Lecturer for “Cognitive Neuroscience of Memory” (2017-2018) and “Trends in Cognitive Sciences” (2018-2019)
 
-_Bachelor’s Programme in Psychology, Radboud University, Nijmegen_
+_Bachelor’s Programme in Psychology, Radboud University_  
 `2017-2018`
 Lecturer for “Brain and Cognition”
 
@@ -486,32 +486,39 @@ Lecturer for “Applied Research Methods in Brain Studies”
 `2018`
 Radio interview: [Relatie Brein En Taal](https://soundcloud.com/gl8-media/relatie-brein-en-taal-vitoria-piai), _GL8 Media_  
 Public talk: Hoe werkt ons taalsysteem? Over de relatie tussen taal en hersenen, _Loop- en Ontmoetingscentrum, Molenhoek_  
+
 `2017`
 Laureate presentation at Rubicon information meeting, _Radboud University, Nijmegen_  
+
 `2016-2017`
 Interview and demo to high school students (Profielwerkstuk)  
+
 `2014-2016`
 Co-facilitator for Aphasia Stroke Support Group, _Veterans Affairs Hospital, Martinez, California, USA_  
+
 `2008`
 Team member for De Jonge Akademie on Wheels, _Openbaar Zeister Lyceum, Zeist_
 
 ## Professional Activities
 ### Doctoral Examination Board
 `2019-present`
-Amie Fairs, _Radboud University, Nijmegen_
+Amie Fairs, _Radboud University, Nijmegen_  
 Ana Murteira, _Macquarie University, Sydney, Australia_
 
 ### PhD Opposition
 `2019-present`
-Flora Vanlangendonck - Ashley Lewis - Jim Herring  
-_Radboud University, Nijmegen_
+_Radboud University, Nijmegen_  
+Flora Vanlangendonck  
+Ashley Lewis  
+Jim Herring  
+
 
 ### Recruiting Committees
 `2016-present`
 _Radboud University_, _Max Planck Institute for Psycholinguistics_
 
 ### Ad-hoc Reviewer
-See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile for details 
+See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile for details  
 `2012-present`
 BMC Psychology, Brain and Language, Brain Topography, Cerebral Cortex, Cognition, Collabra, Cortex, Emotion, Frontiers in Human Neuroscience, Frontiers in Language Sciences, Human Brain Mapping, Journal of Cognitive Neuroscience, Journal of Experiment Psychology: General, Journal of Experimental Psychology: Human Perception and Performance, Journal of Experimental Psychology: Learning, Memory, and Cognition, Journal of the International Neuropsychological Society, Journal of Neurolinguistics, Journal of Neuroscience, Language and Speech, Language, Cognition and Neuroscience, Nature Communications, Neuropsychologia, PLoS ONE, Proceedings of the National Academy of Sciences, Psychonomic Bulletin & Review, Quarterly Journal of Experimental Psychology
 
