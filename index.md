@@ -118,8 +118,7 @@ Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production 
 
 
 ### Journals Articles
-
-`2019`    
+`2019`  
 Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/k7juy/"><i class="ai ai-osf"></i> Open data</a>  
 
 __Piai, V.__, et al. (2019). Assessment of neurocognitive impairment and speech functioning before head and neck cancer treatment. _JAMA Otolaryngology-Head & Neck Surgery_, _145_, 251-257. doi: [10.1001/jamaoto.2018.3981](https://doi.org/10.1001/jamaoto.2018.3981)  
@@ -155,7 +154,7 @@ __Piai, V.__, Riès, S. K., & Swick, D. (2016). Lesions to lateral prefrontal co
 
 __Piai, V.__ (2016). The role of electrophysiology in informing theories of word production: a critical standpoint. _Language, Cognition and Neuroscience_, _31_, 471-473. doi: [10.1080/23273798.2015.1100749](https://doi.org/10.1080/23273798.2015.1100749)  
 
-Roelofs, A., __Piai, V.__, Garrido Rodriguez, G., & Chwilla, D. J. (2016). Electrophysiology of cross-language interference and facilitation in picture naming. _Cortex_, _76_, 1-16. doi: [10.1016/j.cortex.2015.12.003](https://doi.org/10.1016/j.cortex.2015.12.003)  
+Roelofs, A., __Piai, V.__, Garrido Rodriguez, G., & Chwilla, D. J. (2016). Electrophysiology of cross-language interference and facilitation in picture naming. _Cortex_, _76_, 1-16. doi: [10.1016/j.cortex.2015.12.003](https://doi.org/10.1016/j.cortex.2015.12.003)    
 `2015`  
 __Piai, V.__, Roelofs, A., Rommers, J., Dahlslätt, K., & Maris, E. (2015). Withholding planned speech is reflected in synchronized beta-band oscillations. _Frontiers in Human Neuroscience_, _9_, 549. doi: [10.3389/fnhum.2015.00549](https://doi.org/10.3389/fnhum.2015.00549)  
 
@@ -222,10 +221,10 @@ __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic str
 
 
 ## Invited talks
-`2020`  
-Terwijl we praten. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.  
-`2019`  
-The effects of head and neck tumours on neurocognition before and after treatment. Autumn Conference of the Dutch Workgroup for Head and Neck Tumours. Maastricht, the Netherlands. October, 2019.  
+`2020`
+__Terwijl we praten__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.
+`2019`
+__The effects of head and neck tumours on neurocognition before and after treatment__. Autumn Conference of the Dutch Workgroup for Head and Neck Tumours. Maastricht, the Netherlands. October, 2019.  
 
 As we speak. Eleventh Annual Meeting of the Society for the Neurobiology of Language, Early Career Award talk. Helsinki, Finland. August, 2019.  
 
@@ -268,8 +267,6 @@ Comprehending particle verbs. Experimental Linguistics Talks Utrecht. Utrecht, t
 
 ## Conference Presentations
 _Past 5 years. See a complete list [here](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ). Asterisks indicate (graduate or undergraduate) student lead authors._
-
-
 ### Oral presentations
 `2019`  
 \*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__. White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
@@ -387,9 +384,9 @@ __Arushi Garg__, _Radboud University_
 
 
 ### Master's Students
-***Main supervision***  
+__Main supervision__  
 `2019`
-__Cecilia Husta__, _University of Groningen_  
+Cecilia Husta, _University of Groningen_  
 
 `2018-2019`
 **Anna Dewenter**, *Radboud University*  
@@ -409,7 +406,7 @@ __Cecilia Husta__, _University of Groningen_
 **Nathalie Meyer**, *École Polytechnique Fédérale de Lausanne, Switzerland*  
 **Tessa Ruijs**, *University of Amsterdam*
     
-***Co-supervision***  
+Co-supervision  
 `2019-present`
 **Giulio Severijnen**, *Radboud University*, with James McQueen  
 
