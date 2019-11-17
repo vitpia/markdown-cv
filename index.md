@@ -226,44 +226,45 @@ __Terwijl we praten__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amst
 `2019`
 __The effects of head and neck tumours on neurocognition before and after treatment__. Autumn Conference of the Dutch Workgroup for Head and Neck Tumours. Maastricht, the Netherlands. October, 2019.  
 
-As we speak. Eleventh Annual Meeting of the Society for the Neurobiology of Language, Early Career Award talk. Helsinki, Finland. August, 2019.  
+__As we speak__. Eleventh Annual Meeting of the Society for the Neurobiology of Language, Early Career Award talk. Helsinki, Finland. August, 2019.  
 
-Interfering and facilitating contexts in spoken word production. Brownbag Lab Seminars. University of Geneva, Switzerland. June, 2019.  
+__Interfering and facilitating contexts in spoken word production__. Brownbag Lab Seminars. University of Geneva, Switzerland. June, 2019.  
 
-Context effects in language production examined with electrophysiology. International Symposium on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
+__Context effects in language production examined with electrophysiology__. International Symposium on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
 
-Comprehending and producing words: scalp and intracranial electrophysiology. Satellite Seminar on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.   
-`2018`  
-Context-driven word production through an electrophysiological lens. Queensland University of Technology, Brisbane, Australia. November, 2018.  
+__Comprehending and producing words: scalp and intracranial electrophysiology__. Satellite Seminar on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.
+`2018`
+__Context-driven word production through an electrophysiological lens__. Queensland University of Technology, Brisbane, Australia. November, 2018.  
 
-Language and speech functioning through an electrophysiological lens. CLaS-CCD Colloquium Series. Macquarie University. November, 2018.  
-Key considerations for EEG and language studies. School of Psychology and Clinical Language Sciences, University of Reading, UK. June, 2018.  
+__Language and speech functioning through an electrophysiological lens__. CLaS-CCD Colloquium Series. Macquarie University. November, 2018.  
 
-Oscillations in language research. Summer Neurolinguistics School, National Research University Higher School of Economics, Moscow, Russia. May, 2018.  
+__Key considerations for EEG and language studies__. School of Psychology and Clinical Language Sciences, University of Reading, UK. June, 2018.  
 
-Neuropsychologie en de Psychologie van Taal. Nederlandse Vereniging voor Neuropsychologie Voorjaarsconferentie 2018. Utrecht, the Netherlands. April, 2018.  
-`2017`  
-Intracranial electrophysiology in language research. National Research University, Higher School of Economics, Moscow, Russia. November, 2017.  
+__Oscillations in language research__. Summer Neurolinguistics School, National Research University Higher School of Economics, Moscow, Russia. May, 2018.  
 
-Taalverwerking in relatie tot geheugen: Van fundamenteel onderzoek naar klinische toepassing. Afasieconferentie "State of the Art 2017". Zeist, the Netherlands. October, 2017.  
+__Neuropsychologie en de Psychologie van Taal__. Nederlandse Vereniging voor Neuropsychologie Voorjaarsconferentie 2018. Utrecht, the Netherlands. April, 2018.
+`2017`
+__Intracranial electrophysiology in language research__. National Research University, Higher School of Economics, Moscow, Russia. November, 2017.  
 
-Language production and acquired language disorders. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2017.   
+__Taalverwerking in relatie tot geheugen: Van fundamenteel onderzoek naar klinische toepassing__. Afasieconferentie "State of the Art 2017". Zeist, the Netherlands. October, 2017.  
 
-Oscillations as a bridge between language and other cognitive domains. International Symposium on Neural Oscillations in Speech and Language Processing. Harnack Haus of the Max Planck Society, Berlin, Germany. May, 2017.  
-`2016`  
-Context-driven word production. Department of Neuropsychology, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. October, 2016.  
+__Language production and acquired language disorders__. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2017.   
 
-Context-driven word production in the healthy and stroke populations. Introduction to International Max Planck Research School PhD students. Nijmegen, the Netherlands. September, 2016.  
+__Oscillations as a bridge between language and other cognitive domains__. International Symposium on Neural Oscillations in Speech and Language Processing. Harnack Haus of the Max Planck Society, Berlin, Germany. May, 2017.
+`2016`
+__Context-driven word production__. Department of Neuropsychology, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. October, 2016.  
 
-Language production and acquired language disorders. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2016.  
+__Context-driven word production in the healthy and stroke populations__. Introduction to International Max Planck Research School PhD students. Nijmegen, the Netherlands. September, 2016.  
 
-Electrophysiology measured over the scalp and intracranially: examples from context-driven word production. Summer School - Human Language: From Genes and Brains to Behaviour. Berg en Dal, the Netherlands. July, 2016.  
+__Language production and acquired language disorders__. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2016.  
 
-Where language production meets memory (or how). Center for Mind and Brain, Davis, USA. February, 2016.  
-`2011 and earlier`  
-The N450 in picture-word interference tasks. Donders Discussion. Nijmegen, the Netherlands. October, 2011.  
+__Electrophysiology measured over the scalp and intracranially: examples from context-driven word production__. Summer School - Human Language: From Genes and Brains to Behaviour. Berg en Dal, the Netherlands. July, 2016.  
 
-Comprehending particle verbs. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.
+__Where language production meets memory (or how)__. Center for Mind and Brain, Davis, USA. February, 2016.
+`2011 and earlier`
+__The N450 in picture-word interference tasks__. Donders Discussion. Nijmegen, the Netherlands. October, 2011.  
+
+__Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.
 
 ## Conference Presentations
 _Past 5 years. See a complete list [here](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ). Asterisks indicate (graduate or undergraduate) student lead authors._
@@ -359,82 +360,81 @@ __Piai, V.__, Roelofs, A., Rommers, J., & Maris, E. Beta oscillations reflect me
 
 ### Postdoctoral researchers
 `2018-present`
-__Joanna Sierpowska__, _Radboud University_  
+Joanna Sierpowska, _Radboud University_  
 
 `2017-2018`
-__Jana Klaus__, _Radboud University_
+Jana Klaus, _Radboud University_
 
 ### PhD Candidates
 `2019-present`
-__Natascha Roos__, _Radboud University_  
-__Yang Cao__, _Radboud University_  
+Natascha Roos, _Radboud University_  
+Yang Cao, _Radboud University_  
 
 `2018-present`
-__Matteo Mascelloni__, _Queensland University of Technology_, Australia  
-__Adrian Jodzio__, _Radboud University_  
-__Lara Todorova__, _Radboud University_  
+Matteo Mascelloni, _Queensland University of Technology_, Australia  
+Adrian Jodzio, _Radboud University_  
+Lara Todorova, _Radboud University_  
 
 `2017-present`
-__João Ferreira__, _Radboud University_  
-__Ileana Camerino__, _Radboud University_  
-__Nikki Janssen__, _Radboud University_  
+João Ferreira, _Radboud University_  
+Ileana Camerino, _Radboud University_  
+Nikki Janssen, _Radboud University_  
 
 `2017-present`
-__Arushi Garg__, _Radboud University_
-
+Arushi Garg, _Radboud University_
 
 ### Master's Students
-__Main supervision__  
+__Main supervision__    
 `2019`
 Cecilia Husta, _University of Groningen_  
 
 `2018-2019`
-**Anna Dewenter**, *Radboud University*  
+Anna Dewenter, *Radboud University*  
 
 `2018`
-**Laura ten Dijke**, *University of Amsterdam*  
-**Karleen van Dijk**, *Radboud University*  
+Laura ten Dijke, *University of Amsterdam*  
+Karleen van Dijk, *Radboud University*  
 
 `2017-2018`
-**Elena Rossetto**, *University of Trento*  
-**Natascha Roos**, *Radboud University*  
-**Rosanne Abrahamse**, *Radboud University*  
+Elena Rossetto, *University of Trento*  
+Natascha Roos, *Radboud University*  
+Rosanne Abrahamse, *Radboud University*  
 
 `2017`
-**Anne Billot**, *Pierre-and-Marie-Curie University, France*  
-**Manon Jacobs**, *Radboud University*  
-**Nathalie Meyer**, *École Polytechnique Fédérale de Lausanne, Switzerland*  
-**Tessa Ruijs**, *University of Amsterdam*
+Anne Billot, *Pierre-and-Marie-Curie University, France*  
+Manon Jacobs, *Radboud University*  
+Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*  
+Tessa Ruijs, *University of Amsterdam*
     
-Co-supervision  
+__Co-supervision__    
 `2019-present`
-**Giulio Severijnen**, *Radboud University*, with James McQueen  
+Giulio Severijnen, *Radboud University*, with James McQueen
 
 `2018-2019`
-**Margot Magnus**, *Radboud University*, with Nikki Janssen  
+Margot Magnus, *Radboud University*, with Nikki Janssen
 
 `2017-2018`
-**Manon Hendriks**, *Radboud University*, with Ton Dijkstra  
+Manon Hendriks, *Radboud University*, with Ton Dijkstra
 
 `2010-2011`
-**Svetlana Gerakakis**, *Radboud University*, with Ardi Roelofs   
+Svetlana Gerakakis, *Radboud University*, with Ardi Roelofs
 
 `2009-2010`
-**Gabriela Garrido Rodriguez**, *Radboud University*, with Ardi Roelofs  
+Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs  
 
 ### Bachelor's Students
 `2019-present`
-**Laurie Marsman**, *Radboud University*, honours  
-**Joran Muller**, *Radboud University*, honours  
+Laurie Marsman, *Radboud University*, honours  
+Joran Muller, *Radboud University*, honours  
 
 `2018-2019`
-**Tamar Ardesch**, *Radboud University*, honours  
+Tamar Ardesch, *Radboud University*, honours  
 
 `2017-2018`
-**Rosemarije Weterings**, *Radboud University*, honours  
+Rosemarije Weterings, *Radboud University*, honours  
 
 `2012`
-**Ingeborg Roete**, *Radboud University*
+Ingeborg Roete, *Radboud University*
 
 ## Teaching
 _Research Master’s Programme in Cognitive Neuroscience, Radboud University_
@@ -475,16 +475,16 @@ Lecturer for “Applied Research Methods in Brain Studies”
 ## Outreach
 `2018`
 Radio interview: [Relatie Brein En Taal](https://soundcloud.com/gl8-media/relatie-brein-en-taal-vitoria-piai), _GL8 Media_  
-Public talk: Hoe werkt ons taalsysteem? Over de relatie tussen taal en hersenen, _Loop- en Ontmoetingscentrum, Molenhoek_  
+Public talk: Hoe werkt ons taalsysteem? Over de relatie tussen taal en hersenen, _Loop- en Ontmoetingscentrum, Molenhoek_
 
 `2017`
-Laureate presentation at Rubicon information meeting, _Radboud University, Nijmegen_  
+Laureate presentation at Rubicon information meeting, _Radboud University, Nijmegen_
 
 `2016-2017`
-Interview and demo to high school students (Profielwerkstuk)  
+Interview and demo to high school students (Profielwerkstuk)
 
 `2014-2016`
-Co-facilitator for Aphasia Stroke Support Group, _Veterans Affairs Hospital, Martinez, California, USA_  
+Co-facilitator for Aphasia Stroke Support Group, _Veterans Affairs Hospital, Martinez, California, USA_
 
 `2008`
 Team member for De Jonge Akademie on Wheels, _Openbaar Zeister Lyceum, Zeist_
@@ -496,7 +496,7 @@ Amie Fairs, _Radboud University, Nijmegen_
 Ana Murteira, _Macquarie University, Sydney, Australia_
 
 ### PhD Opposition
-`2019-present`
+`2017-present`
 _Radboud University, Nijmegen_  
 Flora Vanlangendonck  
 Ashley Lewis  
@@ -514,9 +514,9 @@ BMC Psychology, Brain and Language, Brain Topography, Cerebral Cortex, Cognition
 
 ## Organisation
 `2016-present`
-Research committee, _Department of Medical Psychology, Radboudumc, Nijmegen_  
+Research committee, _Department of Medical Psychology, Radboudumc, Nijmegen_
 `2012`
-Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherlands_  
+Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherlands_
 `2010-2013`
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
