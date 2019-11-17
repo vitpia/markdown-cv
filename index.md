@@ -373,7 +373,8 @@ Nikki Janssen, _Radboud University_
 Arushi Garg, _Radboud University_
 
 ### Master's Students
-__Main supervision__    
+__Main supervision__  
+<br/>
 `2019`
 Cecilia Husta, _University of Groningen_  
 
@@ -395,7 +396,8 @@ Manon Jacobs, *Radboud University*
 Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*  
 Tessa Ruijs, *University of Amsterdam*
     
-__Co-supervision__    
+__Co-supervision__  
+<br/>
 `2019-present`
 Giulio Severijnen, *Radboud University*, with James McQueen
 
@@ -464,17 +466,13 @@ Lecturer for “Applied Research Methods in Brain Studies”
 ## Outreach
 `2018`
 Radio interview: [Relatie Brein En Taal](https://soundcloud.com/gl8-media/relatie-brein-en-taal-vitoria-piai), _GL8 Media_  
-Public talk: Hoe werkt ons taalsysteem? Over de relatie tussen taal en hersenen, _Loop- en Ontmoetingscentrum, Molenhoek_
-
+Public talk: Hoe werkt ons taalsysteem? Over de relatie tussen taal en hersenen, _Loop- en Ontmoetingscentrum, Molenhoek_  
 `2017`
-Laureate presentation at Rubicon information meeting, _Radboud University, Nijmegen_
-
+Laureate presentation at Rubicon information meeting, _Radboud University, Nijmegen_  
 `2016-2017`
-Interview and demo to high school students (Profielwerkstuk)
-
+Interview and demo to high school students (Profielwerkstuk)  
 `2014-2016`
-Co-facilitator for Aphasia Stroke Support Group, _Veterans Affairs Hospital, Martinez, California, USA_
-
+Co-facilitator for Aphasia Stroke Support Group, _Veterans Affairs Hospital, Martinez, California, USA_  
 `2008`
 Team member for De Jonge Akademie on Wheels, _Openbaar Zeister Lyceum, Zeist_
 
@@ -503,9 +501,9 @@ BMC Psychology, Brain and Language, Brain Topography, Cerebral Cortex, Cognition
 
 ## Organisation
 `2016-present`
-Research committee, _Department of Medical Psychology, Radboudumc, Nijmegen_
+Research committee, _Department of Medical Psychology, Radboudumc, Nijmegen_  
 `2012`
-Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherlands_
+Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherlands_  
 `2010-2013`
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
