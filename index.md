@@ -11,8 +11,8 @@ Montessorilaan 3
 6525 HR Nijmegen, the Netherlands  
 
 <div id="webaddress"> 
-  <a href="mailto:v.piai@donders.ru.nl"><i class="fa-li fas fa-envelope"></i>v.piai@donders.ru.nl</a>  
-  <a href="tel:&#43;31%2024%203615497"><i class="fa-li fas fa-phone"></i>&#43;31 24 3615497</a><br/>
+  <a href="mailto:v.piai@donders.ru.nl"><i class="fa-li fas fa-envelope"></i> v.piai@donders.ru.nl</a>  
+  <a href="tel:&#43;31%2024%203615497"><i class="fa-li fas fa-phone"></i> +31 24 3615497</a><br/>
   <a href="http://vitoriapiai.ruhosting.nl/"><i class="fas fa-home"></i> Personal website</a> 
   <a href="https://www.ru.nl/languagedysfunction/"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a> 
   <a href="https://orcid.org/0000-0002-4860-5952"><i class="ai ai-orcid"></i> 0000-0002-4860-5952</a><br/>
@@ -449,15 +449,16 @@ __Cecilia Husta__, _University of Groningen_
 
 ## Media Coverage
 ### Newspapers and Magazines
+  [Science Today on CBS Radio News](http://tiny.cc/u17iqy)
   <a href="http://archive.is/AYHK0/">De Volkskrant</a> | 
   <a href="http://archive.is/sRnn8">The Asha Leader</a> | 
   <a href="http://archive.is/WypMz/">The Daily Californian</a> |  
   <a href="http://archive.is/Fnjws">California Magazine</a>  | 
   <a href="http://archive.is/AiugC">Donders Newsletter</a>  | 
-  <a href="http://archive.is/hyJXw">Algemeen Dagblad</a>  |
+  <a href="http://archive.is/hyJXw">Algemeen Dagblad</a>
 
 ### Radio
-    <a href="http://tiny.cc/u17iqy">Science Today on CBS Radio News</a>
+    [Science Today on CBS Radio News](http://tiny.cc/u17iqy)
 
 ### Websites
     <a href="http://archive.is/l8qYT">Nemo Kennislink 1</a> | 
