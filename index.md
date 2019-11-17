@@ -220,12 +220,18 @@ __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic str
 ## Invited talks
 `2020`
 __Terwijl we praten__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.  
+
 `2019`
 __The effects of head and neck tumours on neurocognition before and after treatment__. Autumn Conference of the Dutch Workgroup for Head and Neck Tumours. Maastricht, the Netherlands. October, 2019.  
+
 __As we speak__. Eleventh Annual Meeting of the Society for the Neurobiology of Language, Early Career Award talk. Helsinki, Finland. August, 2019.  
+
 __Interfering and facilitating contexts in spoken word production__. Brownbag Lab Seminars. University of Geneva, Switzerland. June, 2019.  
+
 __Context effects in language production examined with electrophysiology__. International Symposium on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
+
 __Comprehending and producing words: scalp and intracranial electrophysiology__. Satellite Seminar on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
+
 `2018`
 __Context-driven word production through an electrophysiological lens__. Queensland University of Technology, Brisbane, Australia. November, 2018.  
 
@@ -241,17 +247,24 @@ __Intracranial electrophysiology in language research__. National Research Unive
 
 __Taalverwerking in relatie tot geheugen: Van fundamenteel onderzoek naar klinische toepassing__. Afasieconferentie "State of the Art 2017". Zeist, the Netherlands. October, 2017.  
 
-__Language production and acquired language disorders__. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2017.   
+__Language production and acquired language disorders__. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2017. 
 
 __Oscillations as a bridge between language and other cognitive domains__. International Symposium on Neural Oscillations in Speech and Language Processing. Harnack Haus of the Max Planck Society, Berlin, Germany. May, 2017.  
+
 `2016`
 __Context-driven word production__. Department of Neuropsychology, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. October, 2016.  
+
 __Context-driven word production in the healthy and stroke populations__. Introduction to International Max Planck Research School PhD students. Nijmegen, the Netherlands. September, 2016.  
+
 __Language production and acquired language disorders__. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2016.  
+
 __Electrophysiology measured over the scalp and intracranially: examples from context-driven word production__. Summer School - Human Language: From Genes and Brains to Behaviour. Berg en Dal, the Netherlands. July, 2016.  
+
 __Where language production meets memory (or how)__. Center for Mind and Brain, Davis, USA. February, 2016.  
+
 `2011 and earlier`
 __The N450 in picture-word interference tasks__. Donders Discussion. Nijmegen, the Netherlands. October, 2011.  
+
 __Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.  
 
 ## Conference Presentations
