@@ -11,8 +11,8 @@ Montessorilaan 3
 6525 HR Nijmegen, the Netherlands  
 
 <div id="webaddress"> 
-  <a href="mailto:v.piai@donders.ru.nl"><i class="fa-li fas fa-envelope"></i> v.piai@donders.ru.nl</a>  
-  <a href="tel:&#43;31%2024%203615497"><i class="fa-li fas fa-phone"></i> +31 24 3615497</a><br/>
+  <a href="mailto:v.piai@donders.ru.nl"><i class="fas fa-envelope"></i> v.piai@donders.ru.nl</a>  
+  <a href="tel:&#43;31%2024%203615497"><i class="fas fa-phone"></i> +31 24 3615497</a><br/>
   <a href="http://vitoriapiai.ruhosting.nl/"><i class="fas fa-home"></i> Personal website</a> 
   <a href="https://www.ru.nl/languagedysfunction/"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a> 
   <a href="https://orcid.org/0000-0002-4860-5952"><i class="ai ai-orcid"></i> 0000-0002-4860-5952</a><br/>
@@ -449,27 +449,26 @@ __Cecilia Husta__, _University of Groningen_
 
 ## Media Coverage
 ### Newspapers and Magazines
+  [De Volkskrant](http://archive.is/AYHK0/) | 
+  [The Asha Leader](http://archive.is/sRnn8) | 
+  [The Daily Californian](http://archive.is/WypMz/) |  
+  [California Magazine](http://archive.is/Fnjws)  | 
+  [Donders Newsletter](http://archive.is/AiugC) | 
+  [Algemeen Dagblad](http://archive.is/hyJXw")
+  
+  ### Radio
   [Science Today on CBS Radio News](http://tiny.cc/u17iqy)
-  <a href="http://archive.is/AYHK0/">De Volkskrant</a> | 
-  <a href="http://archive.is/sRnn8">The Asha Leader</a> | 
-  <a href="http://archive.is/WypMz/">The Daily Californian</a> |  
-  <a href="http://archive.is/Fnjws">California Magazine</a>  | 
-  <a href="http://archive.is/AiugC">Donders Newsletter</a>  | 
-  <a href="http://archive.is/hyJXw">Algemeen Dagblad</a>
-
-### Radio
-    [Science Today on CBS Radio News](http://tiny.cc/u17iqy)
 
 ### Websites
-    <a href="http://archive.is/l8qYT">Nemo Kennislink 1</a> | 
-    <a href="http://archive.is/tQuX6">Nemo Kennislink 2</a> | 
-    <a href="http://archive.is/eIuxM">Nemo Kennislink 3</a> | 
-    <a href="http://archive.is/cBeYi">M.D./Alert</a> | 
-    <a href="http://archive.is/PDGmF">Quartz</a> | 
-    <a href="http://archive.is/GQWIP">NWO</a> | 
-    <a href="http://archive.is/LUfbS">ZME Science</a> | 
-    <a href="http://archive.is/gKSEH">Science Alert</a> | 
-    <a href="http://archive.is/Z4itB">Fanpage.it</a> | 
+[Nemo Kennislink 1](http://archive.is/l8qYT) | 
+[Nemo Kennislink 2](http://archive.is/tQuX6) | 
+[Nemo Kennislink 3](http://archive.is/eIuxM) | 
+[M.D./Alert](http://archive.is/cBeYi) | 
+[Quartz](http://archive.is/PDGmF) | 
+[NWO](http://archive.is/GQWIP) | 
+[ZME Science](http://archive.is/LUfbS) | 
+[Science Alert](http://archive.is/gKSEH) | 
+[Fanpage.it](http://archive.is/Z4itB)
     
      
 
