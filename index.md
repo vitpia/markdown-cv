@@ -4,6 +4,7 @@ title: Vitória Piai's CV
 ---
 # Vitória Piai    
 
+  
 Associate Principal Investigator, Radboud University, Donders Centre for Cognition   
 Junior Principal Investigator, Radboud University Medical Center, Donders Centre for Medical Neuroscience
 
@@ -98,11 +99,8 @@ __Top 10% of review contributions to field of Psychology__, _Publons_
 `2012`
 __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most promising female researchers across Radboud University
 
-
 ## Publications
-
-*Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). All published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
-
+*Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
 ### Submitted with open data and code
 __Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i></a>  
 
@@ -225,13 +223,9 @@ __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic str
 __Terwijl we praten__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.
 `2019`
 __The effects of head and neck tumours on neurocognition before and after treatment__. Autumn Conference of the Dutch Workgroup for Head and Neck Tumours. Maastricht, the Netherlands. October, 2019.  
-
 __As we speak__. Eleventh Annual Meeting of the Society for the Neurobiology of Language, Early Career Award talk. Helsinki, Finland. August, 2019.  
-
 __Interfering and facilitating contexts in spoken word production__. Brownbag Lab Seminars. University of Geneva, Switzerland. June, 2019.  
-
 __Context effects in language production examined with electrophysiology__. International Symposium on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
-
 __Comprehending and producing words: scalp and intracranial electrophysiology__. Satellite Seminar on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.
 `2018`
 __Context-driven word production through an electrophysiological lens__. Queensland University of Technology, Brisbane, Australia. November, 2018.  
@@ -250,24 +244,19 @@ __Taalverwerking in relatie tot geheugen: Van fundamenteel onderzoek naar klinis
 
 __Language production and acquired language disorders__. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2017.   
 
-__Oscillations as a bridge between language and other cognitive domains__. International Symposium on Neural Oscillations in Speech and Language Processing. Harnack Haus of the Max Planck Society, Berlin, Germany. May, 2017.
+__Oscillations as a bridge between language and other cognitive domains__. International Symposium on Neural Oscillations in Speech and Language Processing. Harnack Haus of the Max Planck Society, Berlin, Germany. May, 2017.  
 `2016`
 __Context-driven word production__. Department of Neuropsychology, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. October, 2016.  
-
 __Context-driven word production in the healthy and stroke populations__. Introduction to International Max Planck Research School PhD students. Nijmegen, the Netherlands. September, 2016.  
-
 __Language production and acquired language disorders__. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2016.  
-
 __Electrophysiology measured over the scalp and intracranially: examples from context-driven word production__. Summer School - Human Language: From Genes and Brains to Behaviour. Berg en Dal, the Netherlands. July, 2016.  
-
-__Where language production meets memory (or how)__. Center for Mind and Brain, Davis, USA. February, 2016.
+__Where language production meets memory (or how)__. Center for Mind and Brain, Davis, USA. February, 2016.  
 `2011 and earlier`
 __The N450 in picture-word interference tasks__. Donders Discussion. Nijmegen, the Netherlands. October, 2011.  
-
-__Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.
+__Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.  
 
 ## Conference Presentations
-_Past 5 years. See a complete list [here](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ). Asterisks indicate (graduate or undergraduate) student lead authors._
+_Past 5 years. Asterisks indicate (graduate or undergraduate) student lead authors._
 ### Oral presentations
 `2019`  
 \*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__. White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
