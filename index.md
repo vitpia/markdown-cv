@@ -122,107 +122,154 @@ Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production 
 
 `2019`    
 Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/c236w/"><i class="ai ai-osf"></i>Open data</a>  
+
 __Piai, V.__, et al. (2019). Assessment of neurocognitive impairment and speech functioning before head and neck cancer treatment. _JAMA Otolaryngology-Head & Neck Surgery_, _145_, 251-257. doi: [10.1001/jamaoto.2018.3981](https://doi.org/10.1001/jamaoto.2018.3981)  
+
 __Piai, V.__, Vos, S. H., Idelberger, R., Gans, P., Doorduin, J., & ter Laan, M. (2019). Awake surgery for a violin player: monitoring motor and music performance, a case report. _Archives of Clinical Neuropsychology_, _34_, 132–137. doi: [10.1093/arclin/acy009](https://doi.org/10.1093/arclin/acy009)  
+
 Riès, S. K., __Piai, V.__, Perry, D., Griffin, S., Jordan, K., Henry, R., Knight, R. T., & Berger, M. S. (2019). Roles of ventral versus dorsal pathways in language production: an awake language mapping study. _Brain & Language_, _191_, 17-27. doi: [10.1016/j.bandl.2019.01.001](https://doi.org/10.1016/j.bandl.2019.01.001)  
-De Witte, E., __Piai, V.__, Kurteff, G., Cai, R., Mariën, P., Dronkers, N., Chang, E., & Berger, M. (2019). A valid alternative for in-person language assessments in brain tumor patients: feasibility and validity measures of the new TeleLanguage test. _Neuro-Oncology Practice_, _6_, 93-102. doi: [10.1093/nop/npy020](https://doi.org/10.1093/nop/npy020)    
-  
-  `2018`  
+
+De Witte, E., __Piai, V.__, Kurteff, G., Cai, R., Mariën, P., Dronkers, N., Chang, E., & Berger, M. (2019). A valid alternative for in-person language assessments in brain tumor patients: feasibility and validity measures of the new TeleLanguage test. _Neuro-Oncology Practice_, _6_, 93-102. doi: [10.1093/nop/npy020](https://doi.org/10.1093/nop/npy020)  
+
+`2018`  
 __Piai, V.__, Rommers, J., & Knight, R. T. (2018). Lesion evidence for a critical role of left posterior but not frontal areas in alpha-beta power decreases during context-driven word production. _European Journal of Neuroscience_, _48_, 2622-2629. doi: [10.1111/ejn.13695](https://doi.org/10.1111/ejn.13695)  
+
 __Piai, V.__, & Knight, R. T. (2018). Lexical selection with competing distractors: Evidence from left temporal lobe lesions. _Psychonomic Bulletin & Review_, _25_, 710-717. doi: [10.3758/s13423-017-1301-0](https://doi.org/10.3758/s13423-017-1301-0)  
+
 Baldo, J. V., Kacinik, N., Ludy, C., Paulraj, S., Moncrief, A., __Piai, V.__, Curran, B., Turken, A., Herron, T., & Dronkers, N. F. (2018). Voxel-based lesion analysis of brain regions underlying reading and writing. _Neuropsychologia_, _115_, 51-59. doi: [10.1016/j.neuropsychologia.2018.03.021](https://doi.org/10.1016/j.neuropsychologia.2018.03.021)  
+
 Wesdorp, M., et al. (2018). Heterozygous missense variants of LMX1A lead to nonsyndromic hearing impairment and vestibular dysfunction. _Human Genetics_, _137_, 389-400. doi: [10.1007/s00439-018-1880-5](https://doi.org/10.1007/s00439-018-1880-5)  
+
 Singh, T., Phillip, L., Behroozmand, R., Gleichgerrcht, E., __Piai, V.__, Fridriksson, J., & Bonilha, L. (2018). Pre-articulatory electrical activity associated with correct naming in individuals with aphasia. _Brain & Language_, _177-178_, 1-6. doi: [10.1016/j.bandl.2018.01.002](https://doi.org/10.1016/j.bandl.2018.01.002)  
 
-  `2017`  
+`2017`  
 __Piai, V.__, Meyer, L., Dronkers, N. F., & Knight, R. T. (2017). Neuroplasticity of language in left-hemisphere stroke: subsecond electrophysiology and structural connections. _Human Brain Mapping_, _38_, 3151-3162. doi: [10.1002/hbm.23581](https://doi.org/10.1002/hbm.23581)  
+
 Jafarpour, A., __Piai, V.__, Lin, J. J., & Knight, R. T. (2017). Human hippocampal pre-activation predicts behavior. _Scientific Reports_, _7_, 5959. doi: [10.1038/s41598-017-06477-5](https://doi.org/10.1038/s41598-017-06477-5)  
+
 Roelofs, A., & __Piai, V.__ (2017). Distributional analysis of semantic interference in picture naming. _Quarterly Journal of Experimental Psychology_, _70_, 782-792. doi: [10.1080/17470218.2016.1165264](https://doi.org/10.1080/17470218.2016.1165264)  
 
-  `2016`  
+`2016`  
 __Piai, V.__, Anderson, K.L., Lin, J. J., Dewar, C., Parvizi, J., Dronkers, N. F., & Knight, R. T. (2016). Direct brain recordings reveal hippocampal rhythm underpinnings of language processing. _Proceedings of the National Academy of Sciences_, _113_, 11366–11371. doi: [10.1073/pnas.1603312113](https://doi.org/10.1073/pnas.1603312113)  
+
 __Piai, V.__, Riès, S. K., & Swick, D. (2016). Lesions to lateral prefrontal cortex impair interference control in word production. _Frontiers in Human Neuroscience_, _9_, 721. doi: [10.3389/fnhum.2015.00721](https://doi.org/10.3389/fnhum.2015.00721)  
+
 __Piai, V.__ (2016). The role of electrophysiology in informing theories of word production: a critical standpoint. _Language, Cognition and Neuroscience_, _31_, 471-473. doi: [10.1080/23273798.2015.1100749](https://doi.org/10.1080/23273798.2015.1100749)  
+
 Roelofs, A., __Piai, V.__, Garrido Rodriguez, G., & Chwilla, D. J. (2016). Electrophysiology of cross-language interference and facilitation in picture naming. _Cortex_, _76_, 1-16. doi: [10.1016/j.cortex.2015.12.003](https://doi.org/10.1016/j.cortex.2015.12.003)  
-  
-  `2015`  
+`2015`  
 __Piai, V.__, Roelofs, A., Rommers, J., Dahlslätt, K., & Maris, E. (2015). Withholding planned speech is reflected in synchronized beta-band oscillations. _Frontiers in Human Neuroscience_, _9_, 549. doi: [10.3389/fnhum.2015.00549](9. https://doi.org/10.3389/fnhum.2015.00549)  
+
 __Piai, V.__, Roelofs, A., Rommers, J., & Maris, E. (2015). Beta oscillations reflect memory and motor aspects of spoken word production. _Human Brain Mapping_, _36_, 2767–2780. doi: [10.1002/hbm.22806](https://doi.org/10.1002/hbm.22806)  
+
 __Piai, V.__, Roelofs, A. & Roete, I. (2015). Semantic interference in picture naming does not vary with reading ability. _Quarterly Journal of Experimental Psychology_, _68_, 1758-1768. doi: [10.1080/17470218.2014.985689](https://doi.org/10.1080/17470218.2014.985689)  
 __Piai, V.__, Roelofs, A., & Schriefers, H. (2015). Task choice and semantic interference in picture naming. _Acta Psychologica_, _157_, 13-22. doi: [10.1016/j.actpsy.2015.02.003](https://doi.org/10.1016/j.actpsy.2015.02.003)  
+
 __Piai, V.__, Riès, S. K., & Knight, R. T. (2015). The electrophysiology of language production: What could be improved. _Frontiers in Human Neuroscience_, _5_, 5160. doi: [10.3389/fpsyg.2014.01560](https://doi.org/10.3389/fpsyg.2014.01560)  
+
 __Piai, V.__, Dahlslätt, K., & Maris, E. (2015). Statistically comparing EEG/MEG waveforms on the basis of successive univariate test statistics: How bad can it be? _Psychophysiology_, _52_, 440-443. doi: [10.1111/psyp.12335](https://doi.org/10.1111/psyp.12335)  
+
 Roelofs, A., & __Piai, V.__ (2015). Aspects of competition in word production: Reply to Mahon and Navarrete. _Cortex_, _69_, 420-424. doi: [10.1016/j.cortex.2014.10.016](https://doi.org/10.1016/j.cortex.2014.10.016)  
-  
-  `2014`  
+
+`2014`  
 __Piai, V.__, Roelofs, A., Jensen, O., Schoffelen, J. M., & Bonnefond, M. (2014). Distinct patterns of brain activity characterise lexical activation and competition in spoken word production. _PLoS ONE_ 9(2): e88674. doi: [10.1371/journal.pone.0088674](https://doi.org/10.1371/journal.pone.0088674)  
+
 __Piai, V.__, Roelofs, A., & Schriefers, H. (2014). Locus of semantic interference in picture naming: Evidence from dual-task performance. _Journal of Experimental Psychology: Learning, Memory, and Cognition_, _40_, 147-165. doi: [10.1037/a0033745](https://doi.org/10.1037/a0033745)  
+
 __Piai, V.__, Roelofs, A., & Maris, E. (2014). Oscillatory brain responses in spoken word production reflect lexical frequency and sentential constraint. _Neuropsychologia_, _53_, 146-156. doi: [10.1016/j.neuropsychologia.2013.11.014](https://doi.org/10.1016/j.neuropsychologia.2013.11.014)  
-__Piai, V.__, Roelofs, A., Acheson, D. J., & Takashima, A. (2013). Attention for speaking: Domain-general control from anterior cingulate cortex in spoken word production. _Frontiers in Human Neuroscience_, 7:832. doi: [10.3389/fnhum.2013.00832](https://doi.org/10.3389/fnhum.2013.00832)  
-  
-  `2013`    
+
+__Piai, V.__, Roelofs, A., Acheson, D. J., & Takashima, A. (2013). Attention for speaking: Domain-general control from anterior cingulate cortex in spoken word production. _Frontiers in Human Neuroscience_, 7:832. doi: [10.3389/fnhum.2013.00832](https://doi.org/10.3389/fnhum.2013.00832)    
+
+`2013`  
 __Piai, V.__, Meyer, L., Schreuder, R., & Bastiaansen, M. C. M. (2013). Sit down and read on: Working memory and long-term memory in particle-verb processing. _Brain & Language_, _127_, 296-306. doi: [10.1016/j.bandl.2013.09.015](https://doi.org/10.1016/j.bandl.2013.09.015)  
+
 __Piai, V.__ & Roelofs, A. (2013). Working memory capacity and dual-task interference in picture naming. _Acta Psychologica_, _142_, 332-342. doi: [10.1016/j.actpsy.2013.01.006](https://doi.org/10.1016/j.actpsy.2013.01.006)  
+
 Roelofs, A., & __Piai, V.__ (2013). Associative facilitation in the stroop task: Comment on Mahon et al. (2012). _Cortex_, _49_, 1767-1769. doi: [10.1016/j.cortex.2013.03.001]( https://doi.org/10.1016/j.cortex.2013.03.001)  
+
 Roelofs, A., __Piai, V.__, & Schriefers, H. (2013). Context effects and selective attention in picture naming and word reading: Competition versus response exclusion. _Language and Cognitive Processes_, _28_, 655-671. doi: [10.1080/01690965.2011.615663](https://doi.org/10.1080/01690965.2011.615663)  
+
 Roelofs, A., __Piai, V.__, & Schriefers, H. (2013). Selection by competition in word production: Rejoinder to Janssen (2012). _Language and Cognitive Processes_, _28_, 679-683. doi: [10.1080/01690965.2013.770890](https://doi.org/10.1080/01690965.2013.770890)  
-  
-  `2012`  
+
+`2012`  
 __Piai, V.__, Roelofs, A., & Schriefers, H. (2012). Distractor strength and selective attention in picture naming performance. _Memory & Cognition_, _40_, 614-627. doi: [10.3758/s13421-011-0171-3](https://doi.org/10.3758/s13421-011-0171-3)  
-__Piai, V.__, Roelofs, A., & Van der Meij, R. (2012). Event-related potentials and oscillatory brain responses associated with semantic and Stroop-like interference effects in overt naming. _Brain Research_, _1450_, 87–101. doi: [10.1016/j.brainres.2012.02.050](https://doi.org/10.1016/j.brainres.2012.02.050)    
-  
-  `2011`  
+
+__Piai, V.__, Roelofs, A., & Van der Meij, R. (2012). Event-related potentials and oscillatory brain responses associated with semantic and Stroop-like interference effects in overt naming. _Brain Research_, _1450_, 87–101. doi: [10.1016/j.brainres.2012.02.050](https://doi.org/10.1016/j.brainres.2012.02.050)  
+
+`2011`  
 __Piai, V.__, Roelofs, A., & Schriefers, H. (2011). Semantic interference in immediate and delayed naming and reading: Attention and task decisions. _Journal of Memory and Language_, _64_, 404-423. doi: [10.1016/j.jml.2011.01.004](https://doi.org/10.1016/j.jml.2011.01.004)  
+
 Roelofs A., & __Piai, V.__ (2011). Attention demands of spoken word planning: A review. _Frontiers in Psychology_, _2_:307. doi: [10.3389/fpsyg.2011.00307](https://doi.org/10.3389/fpsyg.2011.00307)  
+
 Roelofs, A., __Piai, V.__, & Garrido Rodriguez, G. (2011). Attentional inhibition in bilingual naming performance: Evidence from delta-plot analyses. _Frontiers in Psychology_, _2_:184. doi: [10.3389/fpsyg.2011.00184](https://doi.org/10.3389/fpsyg.2011.00184)  
-Roelofs, A., __Piai, V.__, & Schriefers, H. (2011). Selective attention and distractor frequency in naming performance: Comment on Dhooge and Hartsuiker (2010). _Journal of Experimental Psychology: Learning, Memory, and Cognition_, _37_, 1032-1038. doi: [10.1037/a0023328](https://doi.org/10.1037/a0023328)    
+
+Roelofs, A., __Piai, V.__, & Schriefers, H. (2011). Selective attention and distractor frequency in naming performance: Comment on Dhooge and Hartsuiker (2010). _Journal of Experimental Psychology: Learning, Memory, and Cognition_, _37_, 1032-1038. doi: [10.1037/a0023328](https://doi.org/10.1037/a0023328)  
   
 ### Book chapters
 __Piai, V.__, & Zheng, X. (2019). Speaking waves: neuronal oscillations in language production. _Psychology of Learning and Motivation_, _71_, 265-302. doi: [10.1016/bs.plm.2019.07.002](https://doi.org/10.1016/bs.plm.2019.07.002)  
+
 de Zubicaray, G., & __Piai, V.__ (2019). Investigating the spatial and temporal components of speech production. In G. de Zubicaray, & N. O. Schiller (Eds.), _The Oxford Handbook of Neurolinguistics_. Oxford University Press. doi: [10.1093/oxfordhb/9780190672027.013.19](https://doi.org/10.1093/oxfordhb/9780190672027.013.19)  
+
 Flinker, A., __Piai, V.__, & Knight, R. T. (2018). Intracranial electrophysiology in language research. In S-A. Rueschemeyer, & M. G. Gaskell (Eds.), _The Oxford Handbook of Psycholinguistics_. Oxford University Press. doi: [10.1093/oxfordhb/9780198786825.013.43](https://doi.org/10.1093/oxfordhb/9780198786825.013.43)  
 
-##Products
+
+## Products
 ### Released
-__“SimpTell”__, an application for the training of elliptical language production style by patients with chronic Broca’s aphasia _(Co-developer)_
+__“SimpTell”__, an application for the training of elliptical language production style by patients with chronic Broca’s aphasia _(Co-developer)_  
 ### Under development
-__“TeleLanguage”__, Dutch version, a telephone-based language test battery to assess patients with mild language disorders
-__“Syntest”__, a Dutch test for the comprehension of (complex) syntactic structures	
+__“TeleLanguage”__, Dutch version, a telephone-based language test battery to assess patients with mild language disorders  
+__“Syntest”__, a Dutch test for the comprehension of (complex) syntactic structures	 
 
 
 ## Invited talks
-`2020`     
-Terwijl we praten. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.
+`2020`  
+Terwijl we praten. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.  
 
 `2019`  
 The effects of head and neck tumours on neurocognition before and after treatment. Autumn Conference of the Dutch Workgroup for Head and Neck Tumours. Maastricht, the Netherlands. October, 2019.  
+
 As we speak. Eleventh Annual Meeting of the Society for the Neurobiology of Language, Early Career Award talk. Helsinki, Finland. August, 2019.  
+
 Interfering and facilitating contexts in spoken word production. Brownbag Lab Seminars. University of Geneva, Switzerland. June, 2019.  
+
 Context effects in language production examined with electrophysiology. International Symposium on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
+
 Comprehending and producing words: scalp and intracranial electrophysiology. Satellite Seminar on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.   
 
-`2018`
+`2018`  
 Context-driven word production through an electrophysiological lens. Queensland University of Technology, Brisbane, Australia. November, 2018.  
+
 Language and speech functioning through an electrophysiological lens. CLaS-CCD Colloquium Series. Macquarie University. November, 2018.  
+
 Key considerations for EEG and language studies. School of Psychology and Clinical Language Sciences, University of Reading, UK. June, 2018.  
+
 Oscillations in language research. Summer Neurolinguistics School, National Research University Higher School of Economics, Moscow, Russia. May, 2018.  
+
 Neuropsychologie en de Psychologie van Taal. Nederlandse Vereniging voor Neuropsychologie Voorjaarsconferentie 2018. Utrecht, the Netherlands. April, 2018.  
 
 `2017`  
 Intracranial electrophysiology in language research. National Research University, Higher School of Economics, Moscow, Russia. November, 2017.  
+
 Taalverwerking in relatie tot geheugen: Van fundamenteel onderzoek naar klinische toepassing. Afasieconferentie "State of the Art 2017". Zeist, the Netherlands. October, 2017.  
+
 Language production and acquired language disorders. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2017.   
+
 Oscillations as a bridge between language and other cognitive domains. International Symposium on Neural Oscillations in Speech and Language Processing. Harnack Haus of the Max Planck Society, Berlin, Germany. May, 2017.  
 
 `2016`  
 Context-driven word production. Department of Neuropsychology, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany. October, 2016.  
+
 Context-driven word production in the healthy and stroke populations. Introduction to International Max Planck Research School PhD students. Nijmegen, the Netherlands. September, 2016.  
+
 Language production and acquired language disorders. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2016.  
+
 Electrophysiology measured over the scalp and intracranially: examples from context-driven word production. Summer School - Human Language: From Genes and Brains to Behaviour. Berg en Dal, the Netherlands. July, 2016.  
+
 Where language production meets memory (or how). Center for Mind and Brain, Davis, USA. February, 2016.  
 
 `2011 and earlier`  
 The N450 in picture-word interference tasks. Donders Discussion. Nijmegen, the Netherlands. October, 2011.  
+
 Comprehending particle verbs. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.
 
 ## Conference Presentations
