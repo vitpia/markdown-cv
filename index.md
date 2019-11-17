@@ -367,30 +367,71 @@ __Piai, V.__, Roelofs, A., Rommers, J., & Maris, E. Beta oscillations reflect me
 ## Supervision
 
 ### Postdoctoral researchers
+`2018-present`
 __Joanna Sierpowska__, _Radboud University_
-
 `2017-2018`
 __Jana Klaus__, _Radboud University_
 
-### Doctoral students
+### PhD Candidates
 `2019-present`
 __Natascha Roos__, _Radboud University_  
 __Yang Cao__, _Radboud University_  
 
 `2018-present`
-__Matteo Mascelloni__, _Queensland University of Technology_, Australia
-__Adrian Jodzio__, _Radboud University_
-__Lara Todorova__, _Radboud University_
+__Matteo Mascelloni__, _Queensland University of Technology_, Australia  
+__Adrian Jodzio__, _Radboud University_  
+__Lara Todorova__, _Radboud University_  
 
 `2017-present`  
-__João Ferreira__, _Radboud University_
-__Ileana Camerino__, _Radboud University_
-__Nikki Janssen__, _Radboud University_
+__João Ferreira__, _Radboud University_  
+__Ileana Camerino__, _Radboud University_  
+__Nikki Janssen__, _Radboud University_  
 
 `2017-present`  
 __Arushi Garg__, _Radboud University_
 
 
+### Master's students
+_Main supervision_
+`2019`
+__Cecilia Husta__, _University of Groningen_  
+`2018-2019`
+**Anna Dewenter**, *Radboud University*
+`2018`
+**Laura ten Dijke**, *University of Amsterdam*  
+**Karleen van Dijk**, *Radboud University*  
+`2017-2018`
+**Elena Rossetto**, *University of Trento*  
+**Natascha Roos**, *Radboud University*  
+**Rosanne Abrahamse**, *Radboud University*
+`2017`
+**Anne Billot**, *Pierre-and-Marie-Curie University, France*  
+**Manon Jacobs**, *Radboud University*  
+**Nathalie Meyer**, *École Polytechnique Fédérale de Lausanne, Switzerland*  
+**Tessa Ruijs**, *University of Amsterdam*
+
+_Co-supervision_
+`2019-present`
+**Giulio Severijnen**, *Radboud University*, with James McQueen  
+`2018-2019`
+**Margot Magnus**, *Radboud University*, with Nikki Janssen  
+`2017-2018`
+**Manon Hendriks**, *Radboud University*, with Ton Dijkstra  
+`2010-2011`
+**Svetlana Gerakakis**, *Radboud University*, with Ardi Roelofs   
+`2009-2010`
+**Gabriela Garrido Rodriguez**, *Radboud University*, with Ardi Roelofs  
+
+### Bachelor's students
+`2019-present`
+**Laurie Marsman**, *Radboud University*, honours  
+**Joran Muller**, *Radboud University*, honours
+`2018-2019`
+**Tamar Ardesch**, *Radboud University*, honours
+`2017-2018`
+**Rosemarije Weterings**, *Radboud University*, honours
+`2012`
+**Ingeborg Roete**, *Radboud University*
 
 
 <br/>Last updated: November 2019<br/><br/>
