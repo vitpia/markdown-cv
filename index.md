@@ -10,10 +10,9 @@ Donders Institute for Brain, Cognition and Behaviour
 Montessorilaan 3  
 6525 HR Nijmegen, the Netherlands  
 
-<a href="mailto:v.piai@donders.ru.nl"><i class="fa-li fas fa-envelope"></i>v.piai@donders.ru.nl</a> 
-<a href="tel:&#43;31%2024%203615497"><i class="fa-li fas fa-phone"></i>&#43;31 24 3615497</a>
-
 <div id="webaddress"> 
+  <a href="mailto:v.piai@donders.ru.nl"><i class="fa-li fas fa-envelope"></i>v.piai@donders.ru.nl</a>  
+  <a href="tel:&#43;31%2024%203615497"><i class="fa-li fas fa-phone"></i>&#43;31 24 3615497</a><br/>
   <a href="http://vitoriapiai.ruhosting.nl/"><i class="fas fa-home"></i> Personal website</a> 
   <a href="https://www.ru.nl/languagedysfunction/"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a> 
   <a href="https://orcid.org/0000-0002-4860-5952"><i class="ai ai-orcid"></i> 0000-0002-4860-5952</a><br/>
@@ -393,7 +392,7 @@ __Nikki Janssen__, _Radboud University_
 __Arushi Garg__, _Radboud University_
 
 
-### Master's students
+### Master's Students
 ***Main supervision***  
 `2019`
 __Cecilia Husta__, _University of Groningen_  
@@ -416,6 +415,7 @@ __Cecilia Husta__, _University of Groningen_
 **Nathalie Meyer**, *École Polytechnique Fédérale de Lausanne, Switzerland*  
 **Tessa Ruijs**, *University of Amsterdam*
 
+
 ***Co-supervision***  
 `2019-present`
 **Giulio Severijnen**, *Radboud University*, with James McQueen  
@@ -432,7 +432,7 @@ __Cecilia Husta__, _University of Groningen_
 `2009-2010`
 **Gabriela Garrido Rodriguez**, *Radboud University*, with Ardi Roelofs  
 
-### Bachelor's students
+### Bachelor's Students
 `2019-present`
 **Laurie Marsman**, *Radboud University*, honours  
 **Joran Muller**, *Radboud University*, honours  
@@ -445,6 +445,33 @@ __Cecilia Husta__, _University of Groningen_
 
 `2012`
 **Ingeborg Roete**, *Radboud University*
+
+
+## Media Coverage
+### Newspapers and Magazines
+  <a href="http://archive.is/AYHK0/">De Volkskrant</a> | 
+  <a href="http://archive.is/sRnn8">The Asha Leader</a> | 
+  <a href="http://archive.is/WypMz/">The Daily Californian</a> |  
+  <a href="http://archive.is/Fnjws">California Magazine</a>  | 
+  <a href="http://archive.is/AiugC">Donders Newsletter</a>  | 
+  <a href="http://archive.is/hyJXw">Algemeen Dagblad</a>  |
+
+### Radio
+    <a href="http://tiny.cc/u17iqy">Science Today on CBS Radio News</a>
+
+### Websites
+    <a href="http://archive.is/l8qYT">Nemo Kennislink 1</a> | 
+    <a href="http://archive.is/tQuX6">Nemo Kennislink 2</a> | 
+    <a href="http://archive.is/eIuxM">Nemo Kennislink 3</a> | 
+    <a href="http://archive.is/cBeYi">M.D./Alert</a> | 
+    <a href="http://archive.is/PDGmF">Quartz</a> | 
+    <a href="http://archive.is/GQWIP">NWO</a> | 
+    <a href="http://archive.is/LUfbS">ZME Science</a> | 
+    <a href="http://archive.is/gKSEH">Science Alert</a> | 
+    <a href="http://archive.is/Z4itB">Fanpage.it</a> | 
+    
+     
+
 
 
 <br/>Last updated: November 2019<br/><br/>
