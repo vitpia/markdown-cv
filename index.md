@@ -24,16 +24,10 @@ Montessorilaan 3
   <a href="https://profiles.impactstory.org/u/0000-0002-4860-5952"><i class="ai ai-osf"></i> Impact Story</a>
 </div>
 
-<!-- 
 ## Research Summary  
-
-As a PhD Student at Radboud University, I did research on the role of executive functioning in word production using behavioural methods, scalp electrophysiology, and functional MRI (Advisors: Prof. Herbert Schriefers, Prof. Ardi Roelofs)
-
-I used research on brain organisation in relation to language and memory (Postdoctoral Fellow University of California, Berkeley, USA) using intracranial and scalp electrophysiology with Prof. Robert T. Knight, Prof. Nina F. Dronkers
-
-My research programme focuses on the neuropsychological basis of language in healthy adults and the impairment of language functioning after brain injury or damage to the speech organs. I use models from cognitive neuroscience to better understand language functioning in populations with speech or language impairment. One of the main goals of this approach is to develop novel diagnostic tools and methods to improve language capacity in those populations. Conversely, I use observations of the breakdown of language and/or communicative abilities following damage to the brain or to speech organs to obtain unique insights informative for cognitive neuroscience models.
-
--->
+As a PhD candidate at Radboud University, supervised by Ardi Roelofs and Herbert Schriefers, I did research on the role of executive control in word production using behavioural methods, scalp electrophysiology, and functional MRI.  
+Halfway into my PhD, I initiated my own, independent, research programme on the electrophysiology of language production in healthy speakers. I then obtained personal post-doctoral funding to go to the University of California Berkeley and expand my research towards populations with acquired language impairment. Under the mentoring of Prof. Robert T. Knight, Prof. Nina F. Dronkers, I used intracranial and scalp electrophysiology to investigate the neurophysiological underpinnings of language and its neuroplasticity.  
+Since 2017, I head the Language Function and Dysfunction group at the Donders Centre for Cognition and Donders Centre for Medical Neuroscience in Nijmegen. My research programme focuses on the neuropsychological and neurophysiological basis of language in healthy adults and the impairment of language functioning after brain injury or damage to the speech organs. My research is further characterised by bridging across the domains of language, memory, and executive control and by the way I use my strong fundamental and methodological background to approach the study of language disorders. Electrophysiology holds an important place in my research programme, which I combine with behavioural measures, non-invasive brain stimulation and lesion-symptom models.
 
 ## Positions  
 `2016-present`
@@ -47,7 +41,8 @@ __Neurosurgery Department Affiliate__, _University of California, San Francisco_
 
 ## Clinical Duties
 `2016-present`
-Monitoring of function during awake craniotomies, developing and improving protocols for intraoperative assessments, _Radboud University Medical Centre_, Nijmegen
+Monitoring of function during awake craniotomies, developing and improving protocols for intraoperative assessments  
+_Radboud University Medical Centre_
 
 ## Education
 `2009-2013`
@@ -414,8 +409,7 @@ __Cecilia Husta__, _University of Groningen_
 **Manon Jacobs**, *Radboud University*  
 **Nathalie Meyer**, *École Polytechnique Fédérale de Lausanne, Switzerland*  
 **Tessa Ruijs**, *University of Amsterdam*
-
-
+    
 ***Co-supervision***  
 `2019-present`
 **Giulio Severijnen**, *Radboud University*, with James McQueen  
@@ -447,13 +441,13 @@ __Cecilia Husta__, _University of Groningen_
 **Ingeborg Roete**, *Radboud University*
 
 ## Teaching
-_Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
+_Research Master’s Programme in Cognitive Neuroscience, Radboud University_
 `2017-present`
-Lecturer for “Cognitive Neuroscience of Memory” (2017-2018) and “Trends in Cognitive Sciences” (2018-2019)
+Lecturer for “Cognitive Neuroscience of Memory” (2017-2018) and “Trends in Cognitive Sciences” (2018-2019)  
 
-_Bachelor’s Programme in Psychology, Radboud University_  
+_Bachelor’s Programme in Psychology, Radboud University_
 `2017-2018`
-Lecturer for “Brain and Cognition”
+Lecturer for “Brain and Cognition”  
 
 `2010-2013`
 Instructor for “Health Psychology”, “Introduction to Brain Studies”, “Introduction to General Psychology”, “Theoretical Psychology” 
