@@ -12,7 +12,7 @@ Montessorilaan 3
 
 <div id="webaddress"> 
   <a href="mailto:v.piai@donders.ru.nl"><i class="fas fa-envelope"></i> v.piai@donders.ru.nl</a>  
-  <a href="tel:&#43;31%2024%203615497"><i class="fas fa-phone"></i> +31 24 3615497</a><br/>
+  <a href="tel:&#43;31%2024%203615497"><i class="fas fa-phone"></i> +31 24 3615497</a><br/><br/>
   <a href="http://vitoriapiai.ruhosting.nl/"><i class="fas fa-home"></i> Personal website</a> 
   <a href="https://www.ru.nl/languagedysfunction/"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a> 
   <a href="https://orcid.org/0000-0002-4860-5952"><i class="ai ai-orcid"></i> 0000-0002-4860-5952</a><br/>
@@ -446,24 +446,36 @@ __Cecilia Husta__, _University of Groningen_
 `2012`
 **Ingeborg Roete**, *Radboud University*
 
+## Teaching
+### Research Master’s Programme in Cognitive Neuroscience, _Radboud University, Nijmegen_
+`2017-present`
+Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-2019)
+
+### Bachelor’s Programme in Psychology, _Radboud University, Nijmegen_
+`2017-2018`
+Lecturer for “Brain and Cognition”
+
+`2010-2013`
+Instructor for “Health Psychology”, “Introduction to Brain Studies”, “Introduction to General Psychology”, “Theoretical Psychology” 
+Lecturer for “Applied Research Methods in Brain Studies”
 
 ## Media Coverage
 ### Newspapers and Magazines
-  [De Volkskrant](http://archive.is/AYHK0/) | 
-  [The Asha Leader](http://archive.is/sRnn8) | 
-  [The Daily Californian](http://archive.is/WypMz/) |  
-  [California Magazine](http://archive.is/Fnjws)  | 
-  [Donders Newsletter](http://archive.is/AiugC) | 
-  [Algemeen Dagblad](http://archive.is/hyJXw")
+[De Volkskrant](http://archive.is/AYHK0/) | 
+[The Asha Leader](http://archive.is/sRnn8) | 
+[The Daily Californian](http://archive.is/WypMz/) |  
+[California Magazine](http://archive.is/Fnjws)  | 
+[Donders Newsletter](http://archive.is/AiugC) | 
+[Algemeen Dagblad](http://archive.is/hyJXw)
   
-  ### Radio
-  [Science Today on CBS Radio News](http://tiny.cc/u17iqy)
+### Radio
+[Science Today on CBS Radio News](http://tiny.cc/u17iqy)
 
 ### Websites
 [Nemo Kennislink 1](http://archive.is/l8qYT) | 
 [Nemo Kennislink 2](http://archive.is/tQuX6) | 
 [Nemo Kennislink 3](http://archive.is/eIuxM) | 
-[M.D./Alert](http://archive.is/cBeYi) | 
+[M.D./Alert](http://archive.is/cBeYi) | <br/>
 [Quartz](http://archive.is/PDGmF) | 
 [NWO](http://archive.is/GQWIP) | 
 [ZME Science](http://archive.is/LUfbS) | 
