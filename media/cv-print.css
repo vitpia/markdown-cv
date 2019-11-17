@@ -159,13 +159,13 @@ a {
 	text-decoration:none;
 }
 
-a:visited {
+/*a:visited {
 	text-decoration:none;
-}
+}*/
 
 
 a:hover {
-	color:#2B439C
+	color:#39f
 }
 
 #webaddress {
