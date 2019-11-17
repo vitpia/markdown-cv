@@ -3,6 +3,7 @@ layout: cv
 title: Vitória Piai's CV
 ---
 # Vitória Piai    
+
 Associate Principal Investigator, Radboud University, Donders Centre for Cognition   
 Junior Principal Investigator, Radboud University Medical Center, Donders Centre for Medical Neuroscience
 
@@ -25,8 +26,8 @@ Montessorilaan 3
 </div>
 
 ## Research Summary  
-As a PhD candidate at Radboud University, supervised by Ardi Roelofs and Herbert Schriefers, I did research on the role of executive control in word production using behavioural methods, scalp electrophysiology, and functional MRI. Halfway into my PhD, I initiated my own, independent, research programme on the electrophysiology of language production in healthy speakers. I then obtained personal post-doctoral funding to go to the University of California Berkeley and expand my research towards populations with acquired language impairment. Under the mentoring of Prof. Robert T. Knight, Prof. Nina F. Dronkers, I used intracranial and scalp electrophysiology to investigate the neurophysiological underpinnings of language and its neuroplasticity.    
-Since 2017, I head the Language Function and Dysfunction group at the Donders Centre for Cognition and Donders Centre for Medical Neuroscience in Nijmegen. My research programme focuses on the neuropsychological and neurophysiological basis of language in healthy adults and the impairment of language functioning after brain injury or damage to the speech organs. My research is further characterised by bridging across the domains of language, memory, and executive control and by the way I use my strong fundamental and methodological background to approach the study of language disorders. Electrophysiology holds an important place in my research programme, which I combine with behavioural measures, non-invasive brain stimulation and lesion-symptom models.
+As a PhD candidate at Radboud University, supervised by Ardi Roelofs and Herbert Schriefers, I did research on the role of executive control in word production using behavioural methods, scalp electrophysiology, and functional MRI. Halfway into my PhD, I initiated my own, independent, research programme on the electrophysiology of language production in healthy speakers. I then obtained personal post-doctoral funding to go to the University of California Berkeley and expand my research towards populations with acquired language impairment. Under the mentoring of Bob Knight and Nina Dronkers, I used intracranial and scalp electrophysiology to investigate the neurophysiological underpinnings of language and language neuroplasticity.    
+Since 2017, I head the Language Function and Dysfunction group at the Donders Institute for Brain, Cognition and Behaviour in Nijmegen. My research programme focuses on the neuropsychological and neurophysiological basis of language in healthy adults and the impairment of language functioning after brain injury or damage to the speech organs. My research is characterised by bridging across the domains of language, memory, and executive control and by the way I use my strong fundamental and methodological background to approach the study of language disorders. Electrophysiology holds an important place in my research programme, which I combine with behavioural measures, non-invasive brain stimulation and lesion-symptom models.
 
 ## Positions  
 `2016-present`
@@ -52,7 +53,6 @@ __M.Sc. in Cognitive Neuroscience__ (distinction: “bene meritum”), _Radboud 
 
 `2004-2007`
 __B.A. in Linguistics__ (distinction: “cum laude”), _Utrecht University_, Utrecht, the Netherlands  
-`2004-2007`
 __B.A. in Portuguese Language and Culture__ (distinction: “cum laude”), _Utrecht University_, Utrecht, the Netherlands
 
 ## Certificates
@@ -101,7 +101,7 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ## Publications
 
-*Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952)*
+*Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). All published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
 
 ### Submitted with open data and code
 __Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i></a>  
@@ -117,10 +117,10 @@ Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional
 Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i></a>  
 
 
-### Journals
+### Journals Articles
 
 `2019`    
-Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/c236w/"><i class="ai ai-osf"></i>Open data</a>  
+Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/k7juy/"><i class="ai ai-osf"></i> Open data</a>  
 
 __Piai, V.__, et al. (2019). Assessment of neurocognitive impairment and speech functioning before head and neck cancer treatment. _JAMA Otolaryngology-Head & Neck Surgery_, _145_, 251-257. doi: [10.1001/jamaoto.2018.3981](https://doi.org/10.1001/jamaoto.2018.3981)  
 
