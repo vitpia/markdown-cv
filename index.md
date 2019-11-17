@@ -13,14 +13,14 @@ Montessorilaan 3
 <a href="v.piai@donders.ru.nl">v.piai@donders.ru.nl</a> - +31 (0)24 361 5497
 
 <div id="webaddress">
-  <a href="http://vitoriapiai.ruhosting.nl/"><i class="fas fa-home"></i> Personal website</a> - 
-  <a href="https://www.ru.nl/languagedysfunction/"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a> - 
-  <a href="https://orcid.org/0000-0002-4860-5952"><i class="ai ai-orcid"></i> 0000-0002-4860-5952</a></br>
-  <a href="https://www.researchgate.net/profile/Vitoria_Piai"><i class="ai ai-researchgate"></i> Vitória Piai</a> -   
-  <a href="https://twitter.com/vipiai"><i class="fab fa-twitter"></i> @vipiai</a> - 
-  <a href="https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a> - 
-  <a href="https://osf.io/fxpe7/"><i class="ai ai-osf"></i> OSF</a> - 
-  <a href="https://publons.com/researcher/469708/vitoria-piai/"><i class="ai ai-publons"></i> Publons</a> - 
+  <a href="http://vitoriapiai.ruhosting.nl/"><i class="fas fa-home"></i> Personal website</a> 
+  <a href="https://www.ru.nl/languagedysfunction/"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a> 
+  <a href="https://orcid.org/0000-0002-4860-5952"><i class="ai ai-orcid"></i> 0000-0002-4860-5952</a><br/>
+  <a href="https://www.researchgate.net/profile/Vitoria_Piai"><i class="ai ai-researchgate"></i> Vitória Piai</a> 
+  <a href="https://twitter.com/vipiai"><i class="fab fa-twitter"></i> @vipiai</a> 
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a> 
+  <a href="https://osf.io/fxpe7/"><i class="ai ai-osf"></i> OSF</a> 
+  <a href="https://publons.com/researcher/469708/vitoria-piai/"><i class="ai ai-publons"></i> Publons</a> 
   <a href="https://profiles.impactstory.org/u/0000-0002-4860-5952"><i class="ai ai-osf"></i> Impact Story</a>
 </div>
 
@@ -49,7 +49,6 @@ __Neurosurgery Department Affiliate__, _University of California, San Francisco_
 `2016-present`
 Monitoring of function during awake craniotomies, developing and improving protocols for intraoperative assessments, _Radboud University Medical Centre_, Nijmegen
 
-
 ## Education
 `2009-2013`
 __Ph.D. in Cognitive Neuroscience__ (distinction: “cum laude”), _Radboud University, Donders Graduate School for Cognitive Neuroscience & International Max Planck Research School for Language Sciences_, Nijmegen, the Netherlands
@@ -64,7 +63,7 @@ __B.A. in Portuguese Language and Culture__ (distinction: “cum laude”), _Utr
 
 ## Certificates
 `2016`
-Basic course on Regulations and Organisation for clinical investigators (BROK)
+Basic course on Regulations and Organisation for clinical investigators (BROK)  
 `2013`
 Dutch University Teaching Qualification
 
@@ -95,13 +94,13 @@ Dutch University Teaching Qualification
 
 ## Awards and Prizes
 `2019`
-__Early Career Award__, _Society for the Neurobiology of Language_
+__Early Career Award__, _Society for the Neurobiology of Language_  
 `2018`
-__Early Career Award__, _Dutch Society of Neuropsychology_
+__Early Career Award__, _Dutch Society of Neuropsychology_  
 `2017`
-__Top reviewer for Radboud University (Arts and Humanities)__, _Publons_
+__Top reviewer for Radboud University (Arts and Humanities)__, _Publons_  
 `2016`
-__Top 10% of review contributions to field of Psychology__, _Publons_
+__Top 10% of review contributions to field of Psychology__, _Publons_  
 `2012`
 __Frye Stipend__, _Radboud University, Nijmegen_, Awarded to ten most promising female researchers
 
@@ -111,18 +110,18 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded to ten most promising 
 *Publication list also available [in Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952)*
 
 ### Submitted with open data and code
-__Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i></a> 
-__Piai, V.__, De Witte, E., Sierpowska, J., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i></a> 
-__Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscillations in context-driven word production. <a href="https://osf.io/fk6hq/"><i class="ai ai-osf"></i></a> 
-Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i></a> 
-Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. <a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i></a> 
-Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i></a>
+__Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i></a>  
+__Piai, V.__, De Witte, E., Sierpowska, J., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i></a>  
+__Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscillations in context-driven word production. <a href="https://osf.io/fk6hq/"><i class="ai ai-osf"></i></a>  
+Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i></a>  
+Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. <a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i></a>  
+Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i></a>  
 
 
 ### Journals
 
 `2019`    
-Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/c236w/"><i class="ai ai-osf"></i>Open data</a> 
+Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/c236w/"><i class="ai ai-osf"></i>Open data</a>  
 __Piai, V.__, et al. (2019). Assessment of neurocognitive impairment and speech functioning before head and neck cancer treatment. _JAMA Otolaryngology-Head & Neck Surgery_, _145_, 251-257. doi: [10.1001/jamaoto.2018.3981](https://doi.org/10.1001/jamaoto.2018.3981)  
 __Piai, V.__, Vos, S. H., Idelberger, R., Gans, P., Doorduin, J., & ter Laan, M. (2019). Awake surgery for a violin player: monitoring motor and music performance, a case report. _Archives of Clinical Neuropsychology_, _34_, 132–137. doi: [10.1093/arclin/acy009](https://doi.org/10.1093/arclin/acy009)  
 Riès, S. K., __Piai, V.__, Perry, D., Griffin, S., Jordan, K., Henry, R., Knight, R. T., & Berger, M. S. (2019). Roles of ventral versus dorsal pathways in language production: an awake language mapping study. _Brain & Language_, _191_, 17-27. doi: [10.1016/j.bandl.2019.01.001](https://doi.org/10.1016/j.bandl.2019.01.001)  
