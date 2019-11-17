@@ -68,7 +68,7 @@ Basic course on Regulations and Organisation for clinical investigators (BROK)
 Dutch University Teaching Qualification
 
 ## Competitive Funding
-### Principle Investigator
+### Principal Investigator
 `2020–2024`
 **Junior Principal Investigator premium**, *Radboud University Medical Center*, Radboudumc funds dedicated to research excellence (€ 125,000)	
 
