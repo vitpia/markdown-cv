@@ -155,9 +155,14 @@ h3 {
 }
 
 a {
-	color: inherit;
+	/*color: inherit;*/
 	text-decoration:underline;
 }
+
+a:visited {
+	text-decoration:underline;
+}
+
 
 a:hover {
 	color:#39f
