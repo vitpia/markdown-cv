@@ -3,8 +3,7 @@ layout: cv
 title: Vitória Piai's CV
 ---
 # Vitória Piai    
-
-  
+<br/>
 Associate Principal Investigator, Radboud University, Donders Centre for Cognition   
 Junior Principal Investigator, Radboud University Medical Center, Donders Centre for Medical Neuroscience
 
@@ -220,13 +219,13 @@ __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic str
 
 ## Invited talks
 `2020`
-__Terwijl we praten__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.
+__Terwijl we praten__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.  
 `2019`
 __The effects of head and neck tumours on neurocognition before and after treatment__. Autumn Conference of the Dutch Workgroup for Head and Neck Tumours. Maastricht, the Netherlands. October, 2019.  
 __As we speak__. Eleventh Annual Meeting of the Society for the Neurobiology of Language, Early Career Award talk. Helsinki, Finland. August, 2019.  
 __Interfering and facilitating contexts in spoken word production__. Brownbag Lab Seminars. University of Geneva, Switzerland. June, 2019.  
 __Context effects in language production examined with electrophysiology__. International Symposium on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
-__Comprehending and producing words: scalp and intracranial electrophysiology__. Satellite Seminar on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.
+__Comprehending and producing words: scalp and intracranial electrophysiology__. Satellite Seminar on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
 `2018`
 __Context-driven word production through an electrophysiological lens__. Queensland University of Technology, Brisbane, Australia. November, 2018.  
 
@@ -236,7 +235,7 @@ __Key considerations for EEG and language studies__. School of Psychology and Cl
 
 __Oscillations in language research__. Summer Neurolinguistics School, National Research University Higher School of Economics, Moscow, Russia. May, 2018.  
 
-__Neuropsychologie en de Psychologie van Taal__. Nederlandse Vereniging voor Neuropsychologie Voorjaarsconferentie 2018. Utrecht, the Netherlands. April, 2018.
+__Neuropsychologie en de Psychologie van Taal__. Nederlandse Vereniging voor Neuropsychologie Voorjaarsconferentie 2018. Utrecht, the Netherlands. April, 2018.  
 `2017`
 __Intracranial electrophysiology in language research__. National Research University, Higher School of Economics, Moscow, Russia. November, 2017.  
 
@@ -374,7 +373,7 @@ Arushi Garg, _Radboud University_
 
 ### Master's Students
 __Main supervision__  
-<br/>
+
 `2019`
 Cecilia Husta, _University of Groningen_  
 
@@ -395,9 +394,9 @@ Anne Billot, *Pierre-and-Marie-Curie University, France*
 Manon Jacobs, *Radboud University*  
 Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*  
 Tessa Ruijs, *University of Amsterdam*
-    
+<br/>    
 __Co-supervision__  
-<br/>
+
 `2019-present`
 Giulio Severijnen, *Radboud University*, with James McQueen
 
@@ -428,11 +427,11 @@ Rosemarije Weterings, *Radboud University*, honours
 Ingeborg Roete, *Radboud University*
 
 ## Teaching
-_Research Master’s Programme in Cognitive Neuroscience, Radboud University_
+_Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
 `2017-present`
 Lecturer for “Cognitive Neuroscience of Memory” (2017-2018) and “Trends in Cognitive Sciences” (2018-2019)  
 
-_Bachelor’s Programme in Psychology, Radboud University_
+_Bachelor’s Programme in Psychology, Radboud University_  
 `2017-2018`
 Lecturer for “Brain and Cognition”  
 
