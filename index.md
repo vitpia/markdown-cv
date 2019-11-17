@@ -10,7 +10,8 @@ Donders Institute for Brain, Cognition and Behaviour
 Montessorilaan 3  
 6525HR Nijmegen, the Netherlands  
 
-<a href="v.piai@donders.ru.nl">v.piai@donders.ru.nl</a> +31 (0)24 361 5497
+<a href="v.piai@donders.ru.nl"><i class="fa-li fas fa-envelope fa-2x"></i>v.piai@donders.ru.nl</a> 
+<i class="fa-li fas fa-phone fa-2x"></i> +31 (0)24 361 5497
 
 <div id="webaddress">
   <a href="http://vitoriapiai.ruhosting.nl/"><i class="fas fa-home"></i> Personal website</a> 
