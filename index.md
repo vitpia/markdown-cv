@@ -381,19 +381,19 @@ __Yang Cao__, _Radboud University_
 `2018-present`
 __Matteo Mascelloni__, _Queensland University of Technology_, Australia  
 __Adrian Jodzio__, _Radboud University_  
-__Lara Todorova__, _Radboud University_
+__Lara Todorova__, _Radboud University_  
 
-`2017-present`  
+`2017-present`
 __João Ferreira__, _Radboud University_  
 __Ileana Camerino__, _Radboud University_  
-__Nikki Janssen__, _Radboud University_
+__Nikki Janssen__, _Radboud University_  
 
-`2017-present`  
+`2017-present`
 __Arushi Garg__, _Radboud University_
 
 
 ### Master's students
-_Main supervision_  
+***Main supervision***  
 `2019`
 __Cecilia Husta__, _University of Groningen_  
 
@@ -415,7 +415,7 @@ __Cecilia Husta__, _University of Groningen_
 **Nathalie Meyer**, *École Polytechnique Fédérale de Lausanne, Switzerland*  
 **Tessa Ruijs**, *University of Amsterdam*
 
-_Co-supervision_  
+***Co-supervision***  
 `2019-present`
 **Giulio Severijnen**, *Radboud University*, with James McQueen  
 
