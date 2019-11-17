@@ -3,26 +3,28 @@ layout: cv
 title: Vitória Piai's CV
 ---
 # Vitória Piai
-Associate Principal Investigator, Radboud University and Radboud University Medical Center
+Associate Principal Investigator, Radboud University   
+Junior Principal Investigator, Radboud University Medical Center
 
-Donders Institute for Brain, Cognition and Behaviour
-Montessorilaan 3<br/>
-6525HR Nijmegen, the Netherlands<br/>
+Donders Institute for Brain, Cognition and Behaviour  
+Montessorilaan 3  
+6525HR Nijmegen, the Netherlands  
 
 <a href="v.piai@donders.ru.nl">v.piai@donders.ru.nl</a> - +31 (0)24 361 5497
 
 <div id="webaddress">
-  <a href="http://vitoriapiai.ruhosting.nl/"><i class="fas fa-home"></i> Personal website</a>
-  <a href="https://www.ru.nl/languagedysfunction/"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a>
-  <a href="https://orcid.org/0000-0002-4860-5952"><i class="ai ai-orcid"></i> 0000-0002-4860-5952</a>
-  <a href="https://www.researchgate.net/profile/Vitoria_Piai"><i class="ai ai-researchgate"></i> Vitória Piai</a>
-  <a href="https://twitter.com/vipiai"><i class="fab fa-twitter"></i> @vipiai</a>
-  <a href="https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a>
-  <a href="https://osf.io/fxpe7/"><i class="ai ai-osf"></i> OSF</a>
-  <a href="https://publons.com/researcher/469708/vitoria-piai/"><i class="ai ai-publons"></i> Publons</a>
+  <a href="http://vitoriapiai.ruhosting.nl/"><i class="fas fa-home"></i> Personal website</a> - 
+  <a href="https://www.ru.nl/languagedysfunction/"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a> - 
+  <a href="https://orcid.org/0000-0002-4860-5952"><i class="ai ai-orcid"></i> 0000-0002-4860-5952</a></br>
+  <a href="https://www.researchgate.net/profile/Vitoria_Piai"><i class="ai ai-researchgate"></i> Vitória Piai</a> -   
+  <a href="https://twitter.com/vipiai"><i class="fab fa-twitter"></i> @vipiai</a> - 
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ"><i class="ai ai-google-scholar"></i> Google Scholar</a> - 
+  <a href="https://osf.io/fxpe7/"><i class="ai ai-osf"></i> OSF</a> - 
+  <a href="https://publons.com/researcher/469708/vitoria-piai/"><i class="ai ai-publons"></i> Publons</a> - 
   <a href="https://profiles.impactstory.org/u/0000-0002-4860-5952"><i class="ai ai-osf"></i> Impact Story</a>
 </div>
 
+<!-- 
 ## Research Summary  
 
 As a PhD Student at Radboud University, I did research on the role of executive functioning in word production using behavioural methods, scalp electrophysiology, and functional MRI (Advisors: Prof. Herbert Schriefers, Prof. Ardi Roelofs)
@@ -31,7 +33,7 @@ I used research on brain organisation in relation to language and memory (Postdo
 
 My research programme focuses on the neuropsychological basis of language in healthy adults and the impairment of language functioning after brain injury or damage to the speech organs. I use models from cognitive neuroscience to better understand language functioning in populations with speech or language impairment. One of the main goals of this approach is to develop novel diagnostic tools and methods to improve language capacity in those populations. Conversely, I use observations of the breakdown of language and/or communicative abilities following damage to the brain or to speech organs to obtain unique insights informative for cognitive neuroscience models.
 
-
+-->
 
 ## Positions  
 `2016-present`
