@@ -447,11 +447,11 @@ __Cecilia Husta__, _University of Groningen_
 **Ingeborg Roete**, *Radboud University*
 
 ## Teaching
-### Research Master’s Programme in Cognitive Neuroscience, _Radboud University, Nijmegen_
+_Research Master’s Programme in Cognitive Neuroscience, Radboud University, Nijmegen_
 `2017-present`
-Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-2019)
+Lecturer for “Cognitive Neuroscience of Memory” (2017-2018) and “Trends in Cognitive Sciences” (2018-2019)
 
-### Bachelor’s Programme in Psychology, _Radboud University, Nijmegen_
+_Bachelor’s Programme in Psychology, Radboud University, Nijmegen_
 `2017-2018`
 Lecturer for “Brain and Cognition”
 
@@ -463,7 +463,7 @@ Lecturer for “Applied Research Methods in Brain Studies”
 ### Newspapers and Magazines
 [De Volkskrant](http://archive.is/AYHK0/) | 
 [The Asha Leader](http://archive.is/sRnn8) | 
-[The Daily Californian](http://archive.is/WypMz/) |  
+[The Daily Californian](http://archive.is/WypMz/) | 
 [California Magazine](http://archive.is/Fnjws)  | 
 [Donders Newsletter](http://archive.is/AiugC) | 
 [Algemeen Dagblad](http://archive.is/hyJXw)
@@ -475,15 +475,53 @@ Lecturer for “Applied Research Methods in Brain Studies”
 [Nemo Kennislink 1](http://archive.is/l8qYT) | 
 [Nemo Kennislink 2](http://archive.is/tQuX6) | 
 [Nemo Kennislink 3](http://archive.is/eIuxM) | 
-[M.D./Alert](http://archive.is/cBeYi) | <br/>
+[M.D./Alert](http://archive.is/cBeYi) | 
 [Quartz](http://archive.is/PDGmF) | 
 [NWO](http://archive.is/GQWIP) | 
 [ZME Science](http://archive.is/LUfbS) | 
 [Science Alert](http://archive.is/gKSEH) | 
 [Fanpage.it](http://archive.is/Z4itB)
-    
-     
 
+## Outreach
+`2018`
+Radio interview: [Relatie Brein En Taal](https://soundcloud.com/gl8-media/relatie-brein-en-taal-vitoria-piai), _GL8 Media_  
+Public talk: Hoe werkt ons taalsysteem? Over de relatie tussen taal en hersenen, _Loop- en Ontmoetingscentrum, Molenhoek_  
+`2017`
+Laureate presentation at Rubicon information meeting, _Radboud University, Nijmegen_  
+`2016-2017`
+Interview and demo to high school students (Profielwerkstuk)  
+`2014-2016`
+Co-facilitator for Aphasia Stroke Support Group, _Veterans Affairs Hospital, Martinez, California, USA_  
+`2008`
+Team member for De Jonge Akademie on Wheels, _Openbaar Zeister Lyceum, Zeist_
+
+## Professional Activities
+### Doctoral Examination Board
+`2019-present`
+Amie Fairs, _Radboud University, Nijmegen_
+Ana Murteira, _Macquarie University, Sydney, Australia_
+
+### PhD Opposition
+`2019-present`
+Flora Vanlangendonck - Ashley Lewis - Jim Herring  
+_Radboud University, Nijmegen_
+
+### Recruiting Committees
+`2016-present`
+_Radboud University_, _Max Planck Institute for Psycholinguistics_
+
+### Ad-hoc Reviewer
+See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile for details 
+`2012-present`
+BMC Psychology, Brain and Language, Brain Topography, Cerebral Cortex, Cognition, Collabra, Cortex, Emotion, Frontiers in Human Neuroscience, Frontiers in Language Sciences, Human Brain Mapping, Journal of Cognitive Neuroscience, Journal of Experiment Psychology: General, Journal of Experimental Psychology: Human Perception and Performance, Journal of Experimental Psychology: Learning, Memory, and Cognition, Journal of the International Neuropsychological Society, Journal of Neurolinguistics, Journal of Neuroscience, Language and Speech, Language, Cognition and Neuroscience, Nature Communications, Neuropsychologia, PLoS ONE, Proceedings of the National Academy of Sciences, Psychonomic Bulletin & Review, Quarterly Journal of Experimental Psychology
+
+## Organisation
+`2016-present`
+Research committee, _Department of Medical Psychology, Radboudumc, Nijmegen_  
+`2012`
+Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherlands_  
+`2010-2013`
+Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 
 <br/>Last updated: November 2019<br/><br/>
