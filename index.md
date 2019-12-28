@@ -79,6 +79,9 @@ Dutch University Teaching Qualification
 **Niels Stensen Fellowship**, *Niels Stensen Stichting*, “Towards a neuronal mechanism of context-dependent memory access in spoken word production” (€ 43,736).  Declined due to Rubicon
 
 ### Co-Investigator
+`2020-2024`
+**Discovery Project**, *Australian Research Council*, "How the brain produces speech: Neuronal oscillations to neuromodulation"  
+
 `2016–2020`
 **Internal PhD-grant round**, *Radboud University, Donders Centre for Cognition*, “The lexical interface in the brain” (€ 234,000)	
 
@@ -88,6 +91,7 @@ Dutch University Teaching Qualification
 
 ## Awards and Prizes
 `2019`
+__Early Career Award__, _Dutch Psychonomic Society_  
 __Early Career Award__, _Society for the Neurobiology of Language_  
 `2018`
 __Early Career Award__, _Dutch Society of Neuropsychology_  
@@ -115,6 +119,9 @@ Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production 
 
 
 ### Journals Articles
+`2020`  
+Jongman, S. R., __Piai, V.__, & Meyer, A. S. (2020). Planning for language production: the electrophysiological signature of attention to the cue to speak. Language, Cognition and Neuroscience. doi: [10.1080/23273798.2019.1690153](https://doi.org/10.1080/23273798.2019.1690153)  
+
 `2019`  
 Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/k7juy/"><i class="ai ai-osf"></i> Open data</a>  
 
@@ -381,11 +388,17 @@ João Ferreira, _Radboud University_
 Ileana Camerino, _Radboud University_  
 Nikki Janssen, _Radboud University_  
 
-`2017-present`
+`2016-present`
 Arushi Garg, _Radboud University_
 
 ### Master's Students
 __Main supervision__  
+
+`2020`
+Priscila Borges, _European Master in Clinical Linguistics_  
+Irina Chupina, _European Master in Clinical Linguistics_  
+Christina Papoutsi, _Utrecht University_  
+Imke Wets,  *Radboud University*  
 
 `2019`
 Cecilia Husta, _University of Groningen_  
@@ -411,7 +424,8 @@ Tessa Ruijs, *University of Amsterdam*
 __Co-supervision__  
 
 `2019-present`
-Giulio Severijnen, *Radboud University*, with James McQueen
+Giulio Severijnen, *Radboud University*, with James McQueen  
+Nikita Boers, *Radboud University*, with Kristin Lemhofer
 
 `2018-2019`
 Margot Magnus, *Radboud University*, with Nikki Janssen
@@ -497,7 +511,8 @@ Ana Murteira, _Macquarie University, Sydney, Australia_
 ### PhD Opposition
 `2017-present`
 _Radboud University, Nijmegen_  
-Flora Vanlangendonck  
+Flora Vanlangendonck
+Natalia Shitova  
 Ashley Lewis  
 Jim Herring  
 
