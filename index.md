@@ -511,7 +511,7 @@ Ana Murteira, _Macquarie University, Sydney, Australia_
 ### PhD Opposition
 `2017-present`
 _Radboud University, Nijmegen_  
-Flora Vanlangendonck
+Flora Vanlangendonck  
 Natalia Shitova  
 Ashley Lewis  
 Jim Herring  
@@ -535,4 +535,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 
-<br/>Last updated: November 2019<br/><br/>
+<br/>Last updated: January 2020<br/><br/>
