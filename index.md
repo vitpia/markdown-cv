@@ -226,7 +226,7 @@ __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic str
 
 ## Invited talks
 `2020`
-__Terwijl we praten__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.  
+__Neurale processen tijdens het spreken__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.  
 
 `2019`
 __The effects of head and neck tumours on neurocognition before and after treatment__. Autumn Conference of the Dutch Workgroup for Head and Neck Tumours. Maastricht, the Netherlands. October, 2019.  
@@ -424,8 +424,7 @@ Tessa Ruijs, *University of Amsterdam*
 __Co-supervision__  
 
 `2019-present`
-Giulio Severijnen, *Radboud University*, with James McQueen  
-Nikita Boers, *Radboud University*, with Kristin Lemhofer
+Giulio Severijnen, *Radboud University*, with James McQueen
 
 `2018-2019`
 Margot Magnus, *Radboud University*, with Nikki Janssen
