@@ -457,7 +457,7 @@ Joran Muller, *Radboud University*
 Tamar Ardesch, *Radboud University*  
 
 `2017-2018`
-Rosemarije Weterings, *Radboud University*, honours  
+Rosemarije Weterings, *Radboud University*  
 
 __Thesis__  
 
