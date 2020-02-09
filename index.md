@@ -226,6 +226,8 @@ __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic str
 
 ## Invited talks
 `2020`
+__Memory and control in spoken word production: evidence from electrophysiology and brain lesions__. Institute of Cognitive Neuroscience, University College London. February, 2020.  
+
 __Neurale processen tijdens het spreken__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.  
 
 `2019`
@@ -276,94 +278,94 @@ __Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrech
 _Past 5 years. Asterisks indicate (graduate or undergraduate) student lead authors._
 ### Oral presentations
 `2019`  
-\*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__. White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
+\*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__. _White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
 
-Sierpowska, J., Bryant, K., Römkens, M., Mangnus, M., Janssen, N., Kessels, R., Roelofs, A., Mars, R., & __Piai, V.__. The functional neuroanatomy of the left temporal lobe white matter – an interdisciplinary approach based on intraoperative and comparative studies. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
+Sierpowska, J., Bryant, K., Römkens, M., Mangnus, M., Janssen, N., Kessels, R., Roelofs, A., Mars, R., & __Piai, V.__. _The functional neuroanatomy of the left temporal lobe white matter – an interdisciplinary approach based on intraoperative and comparative studies_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
 
-Sierpowska, J., Rofes, A., Mandonnet, E., ter Laan, M., & __Piai, V.__. The AFTERCARE survey - The assessment and intervention survey for professionals working with individuals after brain surgery. 14th European Low Grade Glioma Network Meeting. London, UK. June, 2019.  
+Sierpowska, J., Rofes, A., Mandonnet, E., ter Laan, M., & __Piai, V.__. _The AFTERCARE survey - The assessment and intervention survey for professionals working with individuals after brain surgery_. 14th European Low Grade Glioma Network Meeting. London, UK. June, 2019.  
 
-__Piai, V.__ Reconfiguration of the language network after brain damage. Symposium “Cognitive Networks: Trends in Multimodal Approaches and Connectomics” at the 26th Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2019.    
+__Piai, V.__ _Reconfiguration of the language network after brain damage_. Symposium “Cognitive Networks: Trends in Multimodal Approaches and Connectomics” at the 26th Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2019.    
 
 `2018`  
-\*Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The perception-production interface: Insights from cumulative semantic effects. 26th Annual Conference on Architectures and Mechanisms for Language Processing. Hyderabad, India. February, 2018.   
+\*Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. _The perception-production interface: Insights from cumulative semantic effects_. 26th Annual Conference on Architectures and Mechanisms for Language Processing. Hyderabad, India. February, 2018.   
 
 `2017`  
-__Piai, V.__ Cognitive function in relation to speech problems in head and neck cancer prior to treatment. 2nd NET-QUBIC Symposium. Utrecht, the Netherlands. November, 2017.  
+__Piai, V.__ _Cognitive function in relation to speech problems in head and neck cancer prior to treatment_. 2nd NET-QUBIC Symposium. Utrecht, the Netherlands. November, 2017.  
 
 `2016`  
-__Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity. 54th Annual Meeting of the Academy of Aphasia. Llandudno, Wales. October, 2016.  
+__Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity_. 54th Annual Meeting of the Academy of Aphasia. Llandudno, Wales. October, 2016.  
 ### Poster presentations
 `2020`  
-__Piai, V.__, Dahlslätt, K., Verdonck-de Leeuw, I., Prins, J., Takes, R., NET-QUBIC Consortium, & Kessels, R. Cognitive and speech functioning in HNC: baseline prevalence and possible causes. Meeting of the International Cognition and Cancer Task Force. Denver, USA. February, 2020.  
+__Piai, V.__, Dahlslätt, K., Verdonck-de Leeuw, I., Prins, J., Takes, R., NET-QUBIC Consortium, & Kessels, R. _Cognitive and speech functioning in HNC: baseline prevalence and possible causes_. Meeting of the International Cognition and Cancer Task Force. Denver, USA. February, 2020.  
   
 `2019`  
-\*Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: Producing the past tense. 25th Annual Conference on Architectures and Mechanisms for Language Processing. Moscow, Russia. September, 2019.  
+\*Ferreira, J., Roelofs, A., & __Piai, V.__ _The role of inhibition in inflectional encoding: Producing the past tense_. 25th Annual Conference on Architectures and Mechanisms for Language Processing. Moscow, Russia. September, 2019.  
 
-\*Janssen, N., Mangnus, M., Roelofs, A., Sierpowska, J., Kessels, R. P. C., & __Piai, V.__ The role of the uncinate fasciculus and inferior longitudinal fasciculus in healthy and disordered language production. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
+\*Janssen, N., Mangnus, M., Roelofs, A., Sierpowska, J., Kessels, R. P. C., & __Piai, V.__ _The role of the uncinate fasciculus and inferior longitudinal fasciculus in healthy and disordered language production_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
 
-\*Garg, A., __Piai, V.__, Takashima, A., McQueen, J.M., & Roelofs, A. Linking production and comprehension – Investigating the lexical interface. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
+\*Garg, A., __Piai, V.__, Takashima, A., McQueen, J.M., & Roelofs, _A. Linking production and comprehension – Investigating the lexical interface_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
 
-Vos, S., Kessels, R. P. C., & __Piai, V.__ The effect of deep brain stimulation of the subthalamic nucleus on language processing in Parkinson’s Disease: a review. 7th Scientific Meeting of the Federation of the European Societies of Neuropsychology. Milan, Italy, September 2019.  
+Vos, S., Kessels, R. P. C., & __Piai, V.__ _The effect of deep brain stimulation of the subthalamic nucleus on language processing in Parkinson’s Disease: a review_. 7th Scientific Meeting of the Federation of the European Societies of Neuropsychology. Milan, Italy, September 2019.  
 
-\*Garg, A., __Piai, V.__, Takashima, A., McQueen, J.M., & Roelofs, A. Linking production and comprehension – Investigating the lexical interface. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
+\*Garg, A., __Piai, V.__, Takashima, A., McQueen, J.M., & Roelofs, A. _Linking production and comprehension – Investigating the lexical interface_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
 
-\*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
+\*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ _White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
 
-\*Dewenter, A. F., Sierpowska, J., Kessels, R. P. C., & __Piai, V.__ Investigating the semantic control network and its structural decline in mild cognitive impairment and mild dementia. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
+\*Dewenter, A. F., Sierpowska, J., Kessels, R. P. C., & __Piai, V.__ _Investigating the semantic control network and its structural decline in mild cognitive impairment and mild dementia_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
 
-Sierpowska, J., Janssen, N., Kessels, R. P. C., Roelofs, A., & __Piai, V.__ The frontal aslant white matter tract (FAT) and semantic selection in word production. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
+Sierpowska, J., Janssen, N., Kessels, R. P. C., Roelofs, A., & __Piai, V.__ _The frontal aslant white matter tract (FAT) and semantic selection in word production_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
 
-\*Mangnus, M., Roelofs, A., Sierpowska, J., Kessels, R. P. C., __Piai, V.__, & Janssen, N. The role of ventral fiber pathways in healthy and disordered language production. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
+\*Mangnus, M., Roelofs, A., Sierpowska, J., Kessels, R. P. C., __Piai, V.__, & Janssen, N. _The role of ventral fiber pathways in healthy and disordered language production_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
 
-\*Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: Producing the past tense. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
+\*Ferreira, J., Roelofs, A., & __Piai, V.__ _The role of inhibition in inflectional encoding: Producing the past tense_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
 
-\*Abrahamse, R., Beynon, A. J., & __Piai, V.__ Auditory discrimination in prelingually deaf early implanted cochlear implant users: an ERP study. XXVIth Biennial Symposium of the International Evoked Response Audiometry Study Group (IERASG). Sydney, Australia. June, 2019.  
+\*Abrahamse, R., Beynon, A. J., & __Piai, V.__ _Auditory discrimination in prelingually deaf early implanted cochlear implant users: an ERP study_. XXVIth Biennial Symposium of the International Evoked Response Audiometry Study Group (IERASG). Sydney, Australia. June, 2019.  
 
-\*Todorova, L., Neville, D., Knight, R.T., & Piai, V. Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. 26th Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2019.  
+\*Todorova, L., Neville, D., Knight, R.T., & __Piai, V.__ _Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective_. 26th Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2019.  
 
 `2018`  
-\*Garg, A., __Piai, V.__, McQueen, J.M., & Roelofs, A. The perception-production interface: Insights from cumulative semantic effects. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
+\*Garg, A., __Piai, V.__, McQueen, J.M., & Roelofs, A. _The perception-production interface: Insights from cumulative semantic effects_. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
 
-\*Camerino, I. L., Meyer, N. H., Sierpowska, J. M., Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ Role of white matter lesions in cerebral small vessel disease: A voxel-based lesion symptom mapping study of language production. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
+\*Camerino, I. L., Meyer, N. H., Sierpowska, J. M., Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ _Role of white matter lesions in cerebral small vessel disease: A voxel-based lesion symptom mapping study of language production_. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
 
-Rossetto, E., Klaus, J., & __Piai, V.__ The lexical nature of alpha-beta desynchronisation in context-driven word production. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
+Rossetto, E., Klaus, J., & __Piai, V.__ _The lexical nature of alpha-beta desynchronisation in context-driven word production_. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
 
-Klaus, J., Schutter, D., & __Piai, V.__ Oscillatory brain responses in language production following transient disruption of the left middle temporal gyrus: A cTBS-EEG study. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
+Klaus, J., Schutter, D., & __Piai, V.__ _Oscillatory brain responses in language production following transient disruption of the left middle temporal gyrus: A cTBS-EEG study_. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
 
-\*Roos, N. & __Piai, V.__ Context-dependent language processing: towards a clinical tool. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
+\*Roos, N. & __Piai, V.__ _Context-dependent language processing: towards a clinical tool_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
 
-\*Camerino, I. L., Meyer, N. H., Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ Role of white matter hyperintensity at specific locations in cerebral small vessel disease: A voxel-based lesion symptom mapping study. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
+\*Camerino, I. L., Meyer, N. H., Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ _Role of white matter hyperintensity at specific locations in cerebral small vessel disease: A voxel-based lesion symptom mapping study_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
 
-\*Abrahamse, S., A., Langereis, M., Vermeulen, A., Beynon, A., & __Piai, V.__ P300 versus MMN: The clinical potential of ERPs to assess auditory discrimination abilities. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
+\*Abrahamse, S., A., Langereis, M., Vermeulen, A., Beynon, A., & __Piai, V.__ _P300 versus MMN: The clinical potential of ERPs to assess auditory discrimination abilities_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
 
-\*Ferreira, J., Roelofs, A., & __Piai, V.__ Role of basal ganglia in producing inflections. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
+\*Ferreira, J., Roelofs, A., & __Piai, V.__ _Role of basal ganglia in producing inflections_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
 
-\*Garg, A., __Piai, V.__, McQueen, J.M., & Roelofs, A. The perception-production interface: Insights from cumulative semantic effects. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
+\*Garg, A., __Piai, V.__, McQueen, J.M., & Roelofs, A. _The perception-production interface: Insights from cumulative semantic effects_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
 
-Jongman, S. R., __Piai, V.__, & Meyer, A. S. Withholding speech: does the EEG signal reflect planning for production or attention? 31st Annual CUNY Conference on Human Sentence Processing. Davis, USA. March, 2018.  
+Jongman, S. R., __Piai, V.__, & Meyer, A. S. _Withholding speech: does the EEG signal reflect planning for production or attention?_ 31st Annual CUNY Conference on Human Sentence Processing. Davis, USA. March, 2018.  
 
 `2017`  
-__Piai, V.__, Rommers, J., & Knight, R. T. Evidence for a causal link between left temporoparietal alpha-beta desynchronisation and context-driven word production. Ninth Annual Meeting of the Society for the Neurobiology of Language. Baltimore, USA. November, 2017.
+__Piai, V.__, Rommers, J., & Knight, R. T. _Evidence for a causal link between left temporoparietal alpha-beta desynchronisation and context-driven word production_. Ninth Annual Meeting of the Society for the Neurobiology of Language. Baltimore, USA. November, 2017.
 
-Riès, S. K., __Piai, V.__, Perry, D., Griffin, S., Jordan, K., Knight, R. T., & Berger, M. S. Dissociating the roles of ventral versus dorsal pathways in language production: an awake language mapping study. Ninth Annual Meeting of the Society for the Neurobiology of Language. Baltimore, USA. November, 2017.  
+Riès, S. K., __Piai, V.__, Perry, D., Griffin, S., Jordan, K., Knight, R. T., & Berger, M. S. _Dissociating the roles of ventral versus dorsal pathways in language production: an awake language mapping study_. Ninth Annual Meeting of the Society for the Neurobiology of Language. Baltimore, USA. November, 2017.  
 
-Williams, S. T., Shah, P. A., __Piai, V.__, Gatens, H., Krieger, A., Lucas, T. H., &, Litt, B. Spatiotemporal neuronal activation patterns during verbal fluency tasks. Ninth Annual Meeting of the Society for the Neurobiology of Language. Baltimore, USA. November, 2017.  
+Williams, S. T., Shah, P. A., __Piai, V.__, Gatens, H., Krieger, A., Lucas, T. H., &, Litt, B. _Spatiotemporal neuronal activation patterns during verbal fluency tasks_. Ninth Annual Meeting of the Society for the Neurobiology of Language. Baltimore, USA. November, 2017.  
 
-Jafarpour, A., __Piai, V.__, Lin, J. J., & Knight, R. T. Human hippocampal pre-activation predicts behavior. Neuroscience 2017. Washington, USA. November, 2017.  
+Jafarpour, A., __Piai, V.__, Lin, J. J., & Knight, R. T. _Human hippocampal pre-activation predicts behavior_. Neuroscience 2017. Washington, USA. November, 2017.  
 
-Hoy, C., Anderson, K. L., __Piai, V.__, Lin, J. J., Millan, J. D. R., & Knight, R. T. Conflict-sensitive high frequency activity and event-related potentials in medial and lateral prefrontal cortex during a Stroop task. Neuroscience 2017. Washington, USA. November, 2017.  
+Hoy, C., Anderson, K. L., __Piai, V.__, Lin, J. J., Millan, J. D. R., & Knight, R. T. _Conflict-sensitive high frequency activity and event-related potentials in medial and lateral prefrontal cortex during a Stroop task_. Neuroscience 2017. Washington, USA. November, 2017.  
 
 `2016`  
-__Piai, V.__, Meyer, L., Dronkers, N. F., & Knight, R. T. Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity. Eighth Annual Meeting of the Society for the Neurobiology of Language. London, UK. August, 2016.  
+__Piai, V.__, Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity_. Eighth Annual Meeting of the Society for the Neurobiology of Language. London, UK. August, 2016.  
 
 `2015`  
-__Piai, V.__, Dronkers, N. F., & Knight, R. T. Priming and competition of associated memory representations: A comparison between response times and event-related potentials following lesions to left temporal cortex. 53rd Annual Meeting of the Academy of Aphasia. Tucson, USA. October, 2015.  
+__Piai, V.__, Dronkers, N. F., & Knight, R. T. _Priming and competition of associated memory representations: A comparison between response times and event-related potentials following lesions to left temporal cortex_. 53rd Annual Meeting of the Academy of Aphasia. Tucson, USA. October, 2015.  
 
-__Piai, V.__, Riès, S. K., & Swick, D. Lesions to lateral prefrontal cortex impair control over response selection in word production. Seventh Annual Meeting of the Society for the Neurobiology of Language. Chicago, USA. October, 2015.   
+__Piai, V.__, Riès, S. K., & Swick, D. _Lesions to lateral prefrontal cortex impair control over response selection in word production_. Seventh Annual Meeting of the Society for the Neurobiology of Language. Chicago, USA. October, 2015.   
 
-__Piai, V.__, Anderson, K. L., Lin, J. J., Dronkers, N. F., & Knight, R. T. Context-driven word retrieval is reflected in hippocampal theta oscillations. Organization for Human Brain Mapping Annual Meeting. Honolulu, USA. June 2015.  
+__Piai, V.__, Anderson, K. L., Lin, J. J., Dronkers, N. F., & Knight, R. T. _Context-driven word retrieval is reflected in hippocampal theta oscillations_. Organization for Human Brain Mapping Annual Meeting. Honolulu, USA. June 2015.  
 
-__Piai, V.__, Roelofs, A., Rommers, J., & Maris, E. Beta oscillations reflect memory and motor aspects of spoken word production. 22nd Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2015.
+__Piai, V.__, Roelofs, A., Rommers, J., & Maris, E. _Beta oscillations reflect memory and motor aspects of spoken word production_. 22nd Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2015.
 
 ## Supervision
 
@@ -448,16 +450,16 @@ Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*
 __Honours thesis__  
 
 `2019-present`
-Laurie Marsman, *Radboud University*, honours  
-Joran Muller, *Radboud University*, honours  
+Laurie Marsman, *Radboud University*  
+Joran Muller, *Radboud University*  
 
 `2018-2019`
-Tamar Ardesch, *Radboud University*, honours  
-
-__Thesis__  
+Tamar Ardesch, *Radboud University*  
 
 `2017-2018`
 Rosemarije Weterings, *Radboud University*, honours  
+
+__Thesis__  
 
 `2012`
 Ingeborg Roete, *Radboud University*  
