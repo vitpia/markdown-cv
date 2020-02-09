@@ -231,8 +231,6 @@ __Neurale processen tijdens het spreken__. Werkverband Amsterdamse Psycholinguï
 `2019`
 __The effects of head and neck tumours on neurocognition before and after treatment__. Autumn Conference of the Dutch Workgroup for Head and Neck Tumours. Maastricht, the Netherlands. October, 2019.  
 
-__As we speak__. Eleventh Annual Meeting of the Society for the Neurobiology of Language, Early Career Award talk. Helsinki, Finland. August, 2019.  
-
 __Interfering and facilitating contexts in spoken word production__. Brownbag Lab Seminars. University of Geneva, Switzerland. June, 2019.  
 
 __Context effects in language production examined with electrophysiology__. International Symposium on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
