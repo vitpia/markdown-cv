@@ -486,7 +486,7 @@ Lecturer for “Applied Research Methods in Brain Studies”
 [The Asha Leader](http://archive.is/sRnn8) | 
 [The Daily Californian](http://archive.is/WypMz/) | 
 [California Magazine](http://archive.is/Fnjws)  | 
-[Donders Newsletter](http://archive.is/AiugC) | 
+[Donders Newsletter](http://archive.is/AiugC) | 
 [Algemeen Dagblad](http://archive.is/hyJXw)
   
 ### Radio
@@ -499,7 +499,7 @@ Lecturer for “Applied Research Methods in Brain Studies”
 [M.D./Alert](http://archive.is/cBeYi) | 
 [Quartz](http://archive.is/PDGmF) | 
 [NWO](http://archive.is/GQWIP) | 
-[ZME Science](http://archive.is/LUfbS) | 
+[ZME Science](http://archive.is/LUfbS) | 
 [Science Alert](http://archive.is/gKSEH) | 
 [Fanpage.it](http://archive.is/Z4itB)
 
