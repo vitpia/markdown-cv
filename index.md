@@ -529,6 +529,7 @@ Flora Vanlangendonck
 Natalia Shitova  
 Ashley Lewis  
 Jim Herring  
+Xiaochen Zheng  
 
 
 ### Recruiting Committees
@@ -542,11 +543,11 @@ BMC Psychology, Brain and Language, Brain Topography, Cerebral Cortex, Cognition
 
 ## Organisation
 `2016-present`
-Research committee, _Department of Medical Psychology, Radboudumc, Nijmegen_  
+Research committee member, _Department of Medical Psychology, Radboudumc, Nijmegen_  
 `2012`
 Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherlands_  
 `2010-2013`
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 
-<br/>Last updated: January 2020<br/><br/>
+<br/>Last updated: February 2020<br/><br/>
