@@ -295,6 +295,9 @@ __Piai, V.__ Cognitive function in relation to speech problems in head and neck 
 `2016`  
 __Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity. 54th Annual Meeting of the Academy of Aphasia. Llandudno, Wales. October, 2016.  
 ### Poster presentations
+`2020`  
+__Piai, V.__, Dahlslätt, K., Verdonck-de Leeuw, I., Prins, J., Takes, R., NET-QUBIC Consortium, & Kessels, R. Cognitive and speech functioning in HNC: baseline prevalence and possible causes. Meeting of the International Cognition and Cancer Task Force. Denver, USA. February, 2020.  
+  
 `2019`  
 \*Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: Producing the past tense. 25th Annual Conference on Architectures and Mechanisms for Language Processing. Moscow, Russia. September, 2019.  
 
@@ -392,7 +395,7 @@ Nikki Janssen, _Radboud University_
 Arushi Garg, _Radboud University_
 
 ### Master's Students
-__Main supervision__  
+__Main supervision: thesis__  
 
 `2020`
 Priscila Borges, _European Master in Clinical Linguistics_  
@@ -416,12 +419,10 @@ Natascha Roos, *Radboud University*
 Rosanne Abrahamse, *Radboud University*  
 
 `2017`
-Anne Billot, *Pierre-and-Marie-Curie University, France*  
 Manon Jacobs, *Radboud University*  
-Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*  
 Tessa Ruijs, *University of Amsterdam*
 <br/>    
-__Co-supervision__  
+__Co-supervision: thesis__  
 
 `2019-present`
 Giulio Severijnen, *Radboud University*, with James McQueen
@@ -436,15 +437,26 @@ Manon Hendriks, *Radboud University*, with Ton Dijkstra
 Svetlana Gerakakis, *Radboud University*, with Ardi Roelofs
 
 `2009-2010`
-Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs  
+Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
+<br/>    
+__Internship__  
+
+`2017`
+Anne Billot, *Pierre-and-Marie-Curie University, France*  
+Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*  
+
 
 ### Bachelor's Students
+__Honours thesis__  
+
 `2019-present`
 Laurie Marsman, *Radboud University*, honours  
 Joran Muller, *Radboud University*, honours  
 
 `2018-2019`
 Tamar Ardesch, *Radboud University*, honours  
+
+__Thesis__  
 
 `2017-2018`
 Rosemarije Weterings, *Radboud University*, honours  
@@ -455,7 +467,7 @@ Ingeborg Roete, *Radboud University*
 ## Teaching
 _Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
 `2017-present`
-Lecturer for “Cognitive Neuroscience of Memory” (2017-2018) and “Trends in Cognitive Sciences” (2018-2019)  
+Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-2020), "Neurobiology of Language" (2019-2020)  
 
 _Bachelor’s Programme in Psychology, Radboud University_  
 `2017-2018`
