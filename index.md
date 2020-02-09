@@ -460,7 +460,12 @@ __Thesis__
 Rosemarije Weterings, *Radboud University*, honours  
 
 `2012`
-Ingeborg Roete, *Radboud University*
+Ingeborg Roete, *Radboud University*  
+
+__Internship__  
+
+`2020`
+Sjoerd van Erp, *Radboud University*  
 
 ## Teaching
 _Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
