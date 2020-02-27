@@ -113,13 +113,15 @@ __Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscilla
 
 Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i></a>  
 
-Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. <a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i></a>  
-
 Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i></a>  
 
 
 ### Journal Articles
 `2020`  
+Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. _Cognition_.<a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i> Open data</a>  
+
+Williams Roberson, S., Shah, P., __Piai, V.__, Gatens, H., Krieger, A.M., Lucas II, T.H., Litt, B. Electrocorticography reveals spatiotemporal neuronal activation patterns of verbal fluency in patients with epilepsy. _Neuropsychologia_.  
+
 Jongman, S. R., __Piai, V.__, & Meyer, A. S. (2020). Planning for language production: the electrophysiological signature of attention to the cue to speak. Language, Cognition and Neuroscience. doi: [10.1080/23273798.2019.1690153](https://doi.org/10.1080/23273798.2019.1690153)  
 
 `2019`  
@@ -395,6 +397,7 @@ Nikki Janssen, _Radboud University_
 Arushi Garg, _Radboud University_
 
 ### Master's Students
+I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics  
 __Main supervision: thesis__  
 
 `2020`
@@ -552,4 +555,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 
-<br/>Last updated: February 2020<br/><br/>
+<br/>Last updated: March 2020<br/><br/>
