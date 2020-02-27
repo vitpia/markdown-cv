@@ -358,16 +358,7 @@ Jafarpour, A., __Piai, V.__, Lin, J. J., & Knight, R. T. _Human hippocampal pre-
 Hoy, C., Anderson, K. L., __Piai, V.__, Lin, J. J., Millan, J. D. R., & Knight, R. T. _Conflict-sensitive high frequency activity and event-related potentials in medial and lateral prefrontal cortex during a Stroop task_. Neuroscience 2017. Washington, USA. November, 2017.  
 
 `2016`  
-__Piai, V.__, Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity_. Eighth Annual Meeting of the Society for the Neurobiology of Language. London, UK. August, 2016.  
-
-`2015`  
-__Piai, V.__, Dronkers, N. F., & Knight, R. T. _Priming and competition of associated memory representations: A comparison between response times and event-related potentials following lesions to left temporal cortex_. 53rd Annual Meeting of the Academy of Aphasia. Tucson, USA. October, 2015.  
-
-__Piai, V.__, Riès, S. K., & Swick, D. _Lesions to lateral prefrontal cortex impair control over response selection in word production_. Seventh Annual Meeting of the Society for the Neurobiology of Language. Chicago, USA. October, 2015.   
-
-__Piai, V.__, Anderson, K. L., Lin, J. J., Dronkers, N. F., & Knight, R. T. _Context-driven word retrieval is reflected in hippocampal theta oscillations_. Organization for Human Brain Mapping Annual Meeting. Honolulu, USA. June 2015.  
-
-__Piai, V.__, Roelofs, A., Rommers, J., & Maris, E. _Beta oscillations reflect memory and motor aspects of spoken word production_. 22nd Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2015.
+__Piai, V.__, Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity_. Eighth Annual Meeting of the Society for the Neurobiology of Language. London, UK. August, 2016.
 
 ## Supervision
 
