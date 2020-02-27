@@ -397,7 +397,7 @@ Nikki Janssen, _Radboud University_
 Arushi Garg, _Radboud University_
 
 ### Master's Students
-I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics  
+I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics    
 __Main supervision: thesis__  
 
 `2020`
