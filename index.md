@@ -107,10 +107,6 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 ### Submitted with open data and code
 __Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i></a>  
 
-__Piai, V.__, De Witte, E., Sierpowska, J., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i></a>  
-
-__Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscillations in context-driven word production. <a href="https://osf.io/fk6hq/"><i class="ai ai-osf"></i></a>  
-
 Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i></a>  
 
 Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i></a>  
@@ -118,11 +114,15 @@ Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production 
 
 ### Journal Articles
 `2020`  
-Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. _Cognition_.<a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i> Open data</a>  
+__Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscillations in context-driven word production. _Journal of Neurolinguistics_. doi: [10.1016/j.jneuroling.2020.100905](https://doi.org/10.1016/j.jneuroling.2020.100905) <a href="https://osf.io/fk6hq/"><i class="ai ai-osf"></i> Open data</a>  
+
+__Piai, V.__, De Witte, E., Sierpowska, J., Zheng, X., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. _Journal of Cognitive Neuroscience_ <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i></a>  
+
+Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. _Cognition_ <a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i> Open data</a>  
 
 Williams Roberson, S., Shah, P., __Piai, V.__, Gatens, H., Krieger, A.M., Lucas II, T.H., Litt, B. Electrocorticography reveals spatiotemporal neuronal activation patterns of verbal fluency in patients with epilepsy. _Neuropsychologia_.  
 
-Jongman, S. R., __Piai, V.__, & Meyer, A. S. (2020). Planning for language production: the electrophysiological signature of attention to the cue to speak. Language, Cognition and Neuroscience. doi: [10.1080/23273798.2019.1690153](https://doi.org/10.1080/23273798.2019.1690153)  
+Jongman, S. R., __Piai, V.__, & Meyer, A. S. (2020). Planning for language production: the electrophysiological signature of attention to the cue to speak. _Language, Cognition and Neuroscience_. doi: [10.1080/23273798.2019.1690153](https://doi.org/10.1080/23273798.2019.1690153)  
 
 `2019`  
 Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/k7juy/"><i class="ai ai-osf"></i> Open data</a>  
