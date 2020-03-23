@@ -64,7 +64,10 @@ Dutch University Teaching Qualification
 ## Competitive Funding
 ### Principal Investigator
 `2020–2024`
-**Junior Principal Investigator premium**, *Radboud University Medical Center*, Radboudumc funds dedicated to research excellence (€ 125,000)	
+**Junior Principal Investigator premium**, *Radboud University Medical Center*, Radboudumc funds dedicated to research excellence (€ 125,000)		
+
+`2020–2022`
+**Interfaculty collaborative grant**, *Radboud University*, "Adaptive Language Initiative", with prof. James McQueen and prof. Aslı Özyürek (€ 150,000)
 
 `2019–2023`
 **Internal PhD-grant round**, *Radboud University, Donders Centre for Cognition*, “Unravelling how prefrontal cortex recruitment supports language functioning” (€ 250,000)
@@ -105,18 +108,18 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 ## Publications
 *Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
 ### Submitted with open data and code
-__Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i></a>  
+__Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
 
-Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i></a>  
+Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
 
-Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i></a>  
+Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i> Open data</a>  
 
 
 ### Journal Articles
 `2020`  
 __Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscillations in context-driven word production. _Journal of Neurolinguistics_. doi: [10.1016/j.jneuroling.2020.100905](https://doi.org/10.1016/j.jneuroling.2020.100905) <a href="https://osf.io/fk6hq/"><i class="ai ai-osf"></i> Open data</a>  
 
-__Piai, V.__, De Witte, E., Sierpowska, J., Zheng, X., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. _Journal of Cognitive Neuroscience_ <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i></a>  
+__Piai, V.__, De Witte, E., Sierpowska, J., Zheng, X., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. _Journal of Cognitive Neuroscience_ <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i> Open data</a>  
 
 Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. _Cognition_ <a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i> Open data</a>  
 
@@ -388,7 +391,7 @@ Nikki Janssen, _Radboud University_
 Arushi Garg, _Radboud University_
 
 ### Master's Students
-I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics    
+_I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics_    
 __Main supervision: thesis__  
 
 `2020`
@@ -435,6 +438,9 @@ Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
 <br/>    
 __Internship__  
 
+`2020`
+Juliette Vertregt,_University of Groningen_  
+
 `2017`
 Anne Billot, *Pierre-and-Marie-Curie University, France*  
 Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*  
@@ -455,13 +461,12 @@ Rosemarije Weterings, *Radboud University*
 
 __Thesis__  
 
+`2020`
+Sjoerd van Erp, *Radboud University*  
+
 `2012`
 Ingeborg Roete, *Radboud University*  
 
-__Internship__  
-
-`2020`
-Sjoerd van Erp, *Radboud University*  
 
 ## Teaching
 _Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
@@ -476,7 +481,7 @@ Lecturer for “Brain and Cognition”
 Instructor for “Health Psychology”, “Introduction to Brain Studies”, “Introduction to General Psychology”, “Theoretical Psychology” 
 Lecturer for “Applied Research Methods in Brain Studies”
 
-## Media Coverage
+## Media Coverage and Outreach
 ### Newspapers and Magazines
 [De Volkskrant](http://archive.is/AYHK0/) | 
 [The Asha Leader](http://archive.is/sRnn8) | 
@@ -499,7 +504,7 @@ Lecturer for “Applied Research Methods in Brain Studies”
 [Science Alert](http://archive.is/gKSEH) | 
 [Fanpage.it](http://archive.is/Z4itB)
 
-## Outreach
+### Outreach
 `2018`
 Radio interview: [Relatie Brein En Taal](https://soundcloud.com/gl8-media/relatie-brein-en-taal-vitoria-piai), _GL8 Media_  
 Public talk: Hoe werkt ons taalsysteem? Over de relatie tussen taal en hersenen, _Loop- en Ontmoetingscentrum, Molenhoek_  
