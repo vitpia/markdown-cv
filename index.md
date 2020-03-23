@@ -298,7 +298,9 @@ __Piai, V.__ _Reconfiguration of the language network after brain damage_. Sympo
 __Piai, V.__ _Cognitive function in relation to speech problems in head and neck cancer prior to treatment_. 2nd NET-QUBIC Symposium. Utrecht, the Netherlands. November, 2017.  
 
 `2016`  
-__Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity_. 54th Annual Meeting of the Academy of Aphasia. Llandudno, Wales. October, 2016.  
+__Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity_. 54th Annual Meeting of the Academy of Aphasia. Llandudno, Wales. October, 2016.
+
+<br/>
 ### Poster presentations
 `2020`  
 __Piai, V.__, Dahlslätt, K., Verdonck-de Leeuw, I., Prins, J., Takes, R., NET-QUBIC Consortium, & Kessels, R. _Cognitive and speech functioning in HNC: baseline prevalence and possible causes_. Meeting of the International Cognition and Cancer Task Force. Denver, USA. February, 2020.  
@@ -392,6 +394,7 @@ Arushi Garg, _Radboud University_
 
 ### Master's Students
 _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics_    
+<br/>
 __Main supervision: thesis__  
 
 `2020`
@@ -458,7 +461,7 @@ Tamar Ardesch, *Radboud University*
 
 `2017-2018`
 Rosemarije Weterings, *Radboud University*  
-
+<br/>
 __Thesis__  
 
 `2020`
@@ -550,5 +553,5 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 `2010-2013`
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
-
+<br/>
 <br/>Last updated: March 2020<br/><br/>
