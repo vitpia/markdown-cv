@@ -80,7 +80,7 @@ Dutch University Teaching Qualification
 
 `2014–2015`
 **Niels Stensen Fellowship**, *Niels Stensen Stichting*, “Towards a neuronal mechanism of context-dependent memory access in spoken word production” (€ 43,736).  Declined due to Rubicon
-
+<br/>
 ### Co-Investigator
 `2020-2024`
 **Discovery Project**, *Australian Research Council*, "How the brain produces speech: Neuronal oscillations to neuromodulation"  
@@ -117,18 +117,18 @@ Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production 
 
 ### Journal Articles
 `2020`  
-__Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscillations in context-driven word production. _Journal of Neurolinguistics_. doi: [10.1016/j.jneuroling.2020.100905](https://doi.org/10.1016/j.jneuroling.2020.100905) <a href="https://osf.io/fk6hq/"><i class="ai ai-osf"></i> Open data</a>  
-
 __Piai, V.__, De Witte, E., Sierpowska, J., Zheng, X., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. _Journal of Cognitive Neuroscience_ <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i> Open data</a>  
 
-Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. _Cognition_ <a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i> Open data</a>  
+__Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscillations in context-driven word production. _Journal of Neurolinguistics_, _55_, 100905. doi: [10.1016/j.jneuroling.2020.100905](https://doi.org/10.1016/j.jneuroling.2020.100905) <a href="https://osf.io/fk6hq/"><i class="ai ai-osf"></i> Open data</a>  
 
-Williams Roberson, S., Shah, P., __Piai, V.__, Gatens, H., Krieger, A.M., Lucas II, T.H., Litt, B. Electrocorticography reveals spatiotemporal neuronal activation patterns of verbal fluency in patients with epilepsy. _Neuropsychologia_.  
+Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. _Cognition_, _200_, 104235. doi: [10.1016/j.cognition.2020.104235](https://doi.org/10.1016/j.cognition.2020.104235) <a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i> Open data</a>  
+
+Williams Roberson, S., Shah, P., __Piai, V.__, Gatens, H., Krieger, A.M., Lucas II, T.H., Litt, B. Electrocorticography reveals spatiotemporal neuronal activation patterns of verbal fluency in patients with epilepsy. _Neuropsychologia_, _141_, 107386. doi: [10.1016/j.neuropsychologia.2020.107386](https://doi.org/10.1016/j.neuropsychologia.2020.107386)  
 
 Jongman, S. R., __Piai, V.__, & Meyer, A. S. (2020). Planning for language production: the electrophysiological signature of attention to the cue to speak. _Language, Cognition and Neuroscience_. doi: [10.1080/23273798.2019.1690153](https://doi.org/10.1080/23273798.2019.1690153)  
 
 `2019`  
-Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/k7juy/"><i class="ai ai-osf"></i> Open data</a>  
+Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_, _41_, 1061-1071. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/k7juy/"><i class="ai ai-osf"></i> Open data</a>  
 
 __Piai, V.__, et al. (2019). Assessment of neurocognitive impairment and speech functioning before head and neck cancer treatment. _JAMA Otolaryngology-Head & Neck Surgery_, _145_, 251-257. doi: [10.1001/jamaoto.2018.3981](https://doi.org/10.1001/jamaoto.2018.3981)  
 
@@ -229,8 +229,10 @@ __“TeleLanguage”__, Dutch version, a telephone-based language test battery t
 __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic structures	 
 
 
-## Invited talks
+## Invited Talks
 `2020`
+__Conceptual and lexical retrieval in spoken word production__. IMPRS Conference 2020, Interdisciplinary Approaches in the Language Sciences, Nijmegen, the Netherlands. June, 2020.  
+
 __Memory and control in spoken word production: evidence from electrophysiology and brain lesions__. Institute of Cognitive Neuroscience, University College London. February, 2020.  
 
 __Neurale processen tijdens het spreken__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.  
@@ -300,7 +302,7 @@ __Piai, V.__ _Cognitive function in relation to speech problems in head and neck
 `2016`  
 __Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity_. 54th Annual Meeting of the Academy of Aphasia. Llandudno, Wales. October, 2016.
 
-<br/>
+
 ### Poster presentations
 `2020`  
 __Piai, V.__, Dahlslätt, K., Verdonck-de Leeuw, I., Prins, J., Takes, R., NET-QUBIC Consortium, & Kessels, R. _Cognitive and speech functioning in HNC: baseline prevalence and possible causes_. Meeting of the International Cognition and Cancer Task Force. Denver, USA. February, 2020.  
@@ -493,7 +495,8 @@ Lecturer for “Applied Research Methods in Brain Studies”
 [Donders_Newsletter](http://archive.is/AiugC) | 
 [Algemeen Dagblad](http://archive.is/hyJXw)
   
-### Radio
+### Radio and podcast
+[Mindtrace Podcast: The SCIENCE of language](http://archive.is/wip/NENfJ) | 
 [Science Today on CBS Radio News](http://tiny.cc/u17iqy)
 
 ### Websites
