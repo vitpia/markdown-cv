@@ -109,7 +109,7 @@ __Top 10% of review contributions to field of Psychology__, _Publons_
 __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most promising female researchers across Radboud University
 
 ## Publications
-*Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
+*Asterisks indicate (graduate or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
 ### Submitted with open data and code
 __Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
 
@@ -119,7 +119,6 @@ __Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation
 
 
 ### Journal Articles
-_Asterisks indicate (graduate or undergraduate) student lead authors._
 `2020`  
 \*Roos, N. M., & __Piai, V.__ Across-session consistency of context-driven language processing: a magnetoencephalography study. _European Journal of Neuroscience_. doi: [10.1111/ejn.14785](https://doi.org/10.1111/ejn.14785) <a href="data.donders.ru.nl/">Open data</a>  
 
@@ -311,21 +310,21 @@ __Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of l
 
 ### Poster presentations
 `2020`  
-\*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V.__ Why we speak affects how we speak: Electrophysiological signatures of word planning following verbal versus nonverbal material. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+\*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V.__ *Why we speak affects how we speak: Electrophysiological signatures of word planning following verbal versus nonverbal material.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
 
-\*Roos, N. M., Takashima, A., & __Piai, V.__ Functional anatomy of context-driven word retrieval: across-sessionconsistency in fMRI. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+\*Roos, N. M., Takashima, A., & __Piai, V.__ *Functional anatomy of context-driven word retrieval: across-session consistency in fMRI.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
 
-\*Cao, Y. & __Piai, V.__  Do alpha and beta oscillations dissociate in context-driven spoken-wordproduction? International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+\*Cao, Y. & __Piai, V.__  *Do alpha and beta oscillations dissociate in context-driven spoken-word production?* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
 
-\*Wets, I., Janssen, N. & __Piai, V.__  Semi-spontaneous language production in Dutch speaking people with primary progressive aphasia. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+\*Wets, I., Janssen, N. & __Piai, V.__  *Semi-spontaneous language production in Dutch speaking people with primary progressive aphasia.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
 
-\*Garg, A., __Piai, V.__, Takashima, A., McQueen, J.M., & Roelofs, _A.  Investigating the lemma using fMRI – Linking production and comprehension. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+\*Garg, A., __Piai, V.__, Takashima, A., McQueen, J.M., & Roelofs, A. *Investigating the lemma using fMRI – Linking production and comprehension.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
 
-\*Camerino, I. L., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ White-matter microstructural integrity in small vessel disease with category fluency impairment. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+\*Camerino, I. L., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ *White-matter microstructural integrity in small vessel disease with category fluency impairment.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
 
-\*Ferreira, J., Roelofs, A., & __Piai, V.__ The role of the basal ganglia in inflectional encoding: An fMRI study of producing the past tense. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+\*Ferreira, J., Roelofs, A., & __Piai, V.__ *The role of the basal ganglia in inflectional encoding: An fMRI study of producing the past tense.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
 
-Sierpowska, J., Janssen, N., Kessels, R. P. C., Roelofs, A., & __Piai, V.__ _Lexical selection in word production and the white-matter system of the(pre)supplementary motor area_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+Sierpowska, J., Janssen, N., Kessels, R. P. C., Roelofs, A., & __Piai, V.__ _Lexical selection in word production and the white-matter system of the (pre)supplementary motor area_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
 
 __Piai, V.__, Dahlslätt, K., Verdonck-de Leeuw, I., Prins, J., Takes, R., NET-QUBIC Consortium, & Kessels, R. _Cognitive and speech functioning in HNC: baseline prevalence and possible causes_. Meeting of the International Cognition and Cancer Task Force. Denver, USA. February, 2020.  
   
