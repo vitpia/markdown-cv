@@ -120,7 +120,7 @@ __Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation
 
 ### Journal Articles
 `2020`  
-\*Roos, N. M., & __Piai, V.__ Across-session consistency of context-driven language processing: a magnetoencephalography study. _European Journal of Neuroscience_. doi: [10.1111/ejn.14785](https://doi.org/10.1111/ejn.14785) <a href="data.donders.ru.nl/">Open data</a>  
+\*Roos, N. M., & __Piai, V.__ Across-session consistency of context-driven language processing: a magnetoencephalography study. _European Journal of Neuroscience_. doi: [10.1111/ejn.14785](https://doi.org/10.1111/ejn.14785) <a href="https://data.donders.ru.nl/">Open data</a>  
 
 __Piai, V.__, De Witte, E., Sierpowska, J., Zheng, X., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. _Journal of Cognitive Neuroscience_. doi: [10.1162/jocn_a_01561](https://doi.org/10.1162/jocn_a_01561) <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i> Open data</a>  
 
