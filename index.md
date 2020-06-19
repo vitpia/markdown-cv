@@ -4,7 +4,7 @@ title: Vitória Piai's CV
 ---
 # Vitória Piai    
 <br/>
-Associate Principal Investigator, Radboud University, Donders Centre for Cognition   
+Assistant professor & Associate Principal Investigator, Radboud University, Donders Centre for Cognition   
 Junior Principal Investigator, Radboud University Medical Center, Donders Centre for Medical Neuroscience
 
 Donders Institute for Brain, Cognition and Behaviour  
@@ -94,6 +94,8 @@ Dutch University Teaching Qualification
 
 
 ## Awards and Prizes
+`2020`
+__Early Career Award__, _International Neuropsychological Society_  
 `2019`
 __Early Career Award__, _Dutch Psychonomic Society_  
 __Early Career Award__, _Society for the Neurobiology of Language_  
@@ -111,18 +113,21 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 ### Submitted with open data and code
 __Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
 
-Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
+\*Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
 
-Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i> Open data</a>  
+\*Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i> Open data</a>  
 
 
 ### Journal Articles
+_Asterisks indicate (graduate or undergraduate) student lead authors._
 `2020`  
-__Piai, V.__, De Witte, E., Sierpowska, J., Zheng, X., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. _Journal of Cognitive Neuroscience_ <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i> Open data</a>  
+\*Roos, N. M., & __Piai, V.__ Across-session consistency of context-driven language processing: a magnetoencephalography study. _European Journal of Neuroscience_. doi: [10.1111/ejn.14785](https://doi.org/10.1111/ejn.14785) <a href="data.donders.ru.nl/">Open data</a>  
+
+__Piai, V.__, De Witte, E., Sierpowska, J., Zheng, X., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. _Journal of Cognitive Neuroscience_. doi: [10.1162/jocn_a_01561](https://doi.org/10.1162/jocn_a_01561) <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i> Open data</a>  
 
 __Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscillations in context-driven word production. _Journal of Neurolinguistics_, _55_, 100905. doi: [10.1016/j.jneuroling.2020.100905](https://doi.org/10.1016/j.jneuroling.2020.100905) <a href="https://osf.io/fk6hq/"><i class="ai ai-osf"></i> Open data</a>  
 
-Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. _Cognition_, _200_, 104235. doi: [10.1016/j.cognition.2020.104235](https://doi.org/10.1016/j.cognition.2020.104235) <a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i> Open data</a>  
+\*Ferreira, J., Roelofs, A., & __Piai, V.__ The role of inhibition in inflectional encoding: producing the past tense. _Cognition_, _200_, 104235. doi: [10.1016/j.cognition.2020.104235](https://doi.org/10.1016/j.cognition.2020.104235) <a href="https://osf.io/szp8b/"><i class="ai ai-osf"></i> Open data</a>  
 
 Williams Roberson, S., Shah, P., __Piai, V.__, Gatens, H., Krieger, A.M., Lucas II, T.H., Litt, B. Electrocorticography reveals spatiotemporal neuronal activation patterns of verbal fluency in patients with epilepsy. _Neuropsychologia_, _141_, 107386. doi: [10.1016/j.neuropsychologia.2020.107386](https://doi.org/10.1016/j.neuropsychologia.2020.107386)  
 
@@ -226,7 +231,7 @@ Flinker, A., __Piai, V.__, & Knight, R. T. (2018). Intracranial electrophysiolog
 ### Released
 [__“SimpTell”__](https://simptell.nl/), an application for the training of elliptical language production style by patients with chronic Broca’s aphasia _(Co-developer)_  
 ### Under development
-__“TeleLanguage”__, Dutch version, a telephone-based language test battery to assess patients with mild language disorders  
+__“TeleLanguage-NL”__, Dutch version, a telephone-based language test battery to assess patients with mild language disorders _(Co-developer)_  
 __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic structures	 
 
 
@@ -286,11 +291,11 @@ __Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrech
 _Past 5 years. Asterisks indicate (graduate or undergraduate) student lead authors._
 ### Oral presentations
 `2019`  
-\*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__. _White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
+\*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ _White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
 
-Sierpowska, J., Bryant, K., Römkens, M., Mangnus, M., Janssen, N., Kessels, R., Roelofs, A., Mars, R., & __Piai, V.__. _The functional neuroanatomy of the left temporal lobe white matter – an interdisciplinary approach based on intraoperative and comparative studies_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
+Sierpowska, J., Bryant, K., Römkens, M., Mangnus, M., Janssen, N., Kessels, R., Roelofs, A., Mars, R., & __Piai, V.__ _The functional neuroanatomy of the left temporal lobe white matter – an interdisciplinary approach based on intraoperative and comparative studies_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
 
-Sierpowska, J., Rofes, A., Mandonnet, E., ter Laan, M., & __Piai, V.__. _The AFTERCARE survey - The assessment and intervention survey for professionals working with individuals after brain surgery_. 14th European Low Grade Glioma Network Meeting. London, UK. June, 2019.  
+Sierpowska, J., Rofes, A., Mandonnet, E., ter Laan, M., & __Piai, V.__ _The AFTERCARE survey - The assessment and intervention survey for professionals working with individuals after brain surgery_. 14th European Low Grade Glioma Network Meeting. London, UK. June, 2019.  
 
 __Piai, V.__ _Reconfiguration of the language network after brain damage_. Symposium “Cognitive Networks: Trends in Multimodal Approaches and Connectomics” at the 26th Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2019.    
 
@@ -306,6 +311,22 @@ __Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of l
 
 ### Poster presentations
 `2020`  
+\*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V.__ Why we speak affects how we speak: Electrophysiological signatures of word planning following verbal versus nonverbal material. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+
+\*Roos, N. M., Takashima, A., & __Piai, V.__ Functional anatomy of context-driven word retrieval: across-sessionconsistency in fMRI. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+
+\*Cao, Y. & __Piai, V.__  Do alpha and beta oscillations dissociate in context-driven spoken-wordproduction? International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+
+\*Wets, I., Janssen, N. & __Piai, V.__  Semi-spontaneous language production in Dutch speaking people with primary progressive aphasia. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+
+\*Garg, A., __Piai, V.__, Takashima, A., McQueen, J.M., & Roelofs, _A.  Investigating the lemma using fMRI – Linking production and comprehension. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+
+\*Camerino, I. L., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ White-matter microstructural integrity in small vessel disease with category fluency impairment. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+
+\*Ferreira, J., Roelofs, A., & __Piai, V.__ The role of the basal ganglia in inflectional encoding: An fMRI study of producing the past tense. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+
+Sierpowska, J., Janssen, N., Kessels, R. P. C., Roelofs, A., & __Piai, V.__ _Lexical selection in word production and the white-matter system of the(pre)supplementary motor area_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
+
 __Piai, V.__, Dahlslätt, K., Verdonck-de Leeuw, I., Prins, J., Takes, R., NET-QUBIC Consortium, & Kessels, R. _Cognitive and speech functioning in HNC: baseline prevalence and possible causes_. Meeting of the International Cognition and Cancer Task Force. Denver, USA. February, 2020.  
   
 `2019`  
@@ -407,7 +428,7 @@ Christina Papoutsi, _Utrecht University_
 Imke Wets,  *Radboud University*  
 
 `2019`
-Cecilia Husta, _University of Groningen_  
+Cecília Hustá, _University of Groningen_  
 
 `2018-2019`
 Anna Dewenter, *Radboud University*  
@@ -445,7 +466,7 @@ Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
 __Internship__  
 
 `2020`
-Juliette Vertregt,_University of Groningen_  
+Juliette Vertregt, _University of Groningen_  
 
 `2017`
 Anne Billot, *Pierre-and-Marie-Curie University, France*  
@@ -477,11 +498,11 @@ Ingeborg Roete, *Radboud University*
 ## Teaching
 _Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
 `2017-present`
-Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-2020), "Neurobiology of Language" (2019-2020)  
+Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-present), "Neurobiology of Language" (2019-present)  
 
 _Bachelor’s Programme in Psychology, Radboud University_  
-`2017-2018`
-Lecturer for “Brain and Cognition”  
+`2017-present`
+Lecturer for “Brain and Cognition” (2017-2018), "Core theme Language" (2019-present) 
 
 `2010-2013`
 Instructor for “Health Psychology”, “Introduction to Brain Studies”, “Introduction to General Psychology”, “Theoretical Psychology” 
@@ -495,10 +516,10 @@ Lecturer for “Applied Research Methods in Brain Studies”
 [California Magazine](http://archive.is/Fnjws)  | 
 [Donders_Newsletter](http://archive.is/AiugC) | 
 [Algemeen Dagblad](http://archive.is/hyJXw)
-  
+
 ### Radio and podcast
 [Mindtrace Podcast: The SCIENCE of language](http://archive.is/wip/NENfJ) | 
-[Science Today on CBS Radio News](http://tiny.cc/u17iqy)
+Science Today on CBS Radio News
 
 ### Websites
 [Nemo Kennislink 1](http://archive.is/l8qYT) | 
@@ -512,6 +533,8 @@ Lecturer for “Applied Research Methods in Brain Studies”
 [Fanpage.it](http://archive.is/Z4itB)
 
 ### Outreach
+`2020`
+Article contribution to O2, the magazine of the Dutch Association for Physiotherapy within Lymphology and Oncology (NVFL)  
 `2018`
 Radio interview: [Relatie Brein En Taal](https://soundcloud.com/gl8-media/relatie-brein-en-taal-vitoria-piai), _GL8 Media_  
 Public talk: Hoe werkt ons taalsysteem? Over de relatie tussen taal en hersenen, _Loop- en Ontmoetingscentrum, Molenhoek_  
@@ -533,10 +556,10 @@ Ana Murteira, _Macquarie University, Sydney, Australia_
 ### PhD Opposition
 `2017-present`
 _Radboud University, Nijmegen_  
-Flora Vanlangendonck  
-Natalia Shitova  
-Ashley Lewis  
-Jim Herring  
+Flora Vanlangendonck | 
+Natalia Shitova | 
+Ashley Lewis | 
+Jim Herring | 
 Xiaochen Zheng  
 
 
@@ -549,6 +572,15 @@ See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile f
 `2012-present`
 BMC Psychology, Brain and Language, Brain Topography, Cerebral Cortex, Cognition, Collabra, Cortex, Emotion, Frontiers in Human Neuroscience, Frontiers in Language Sciences, Human Brain Mapping, Journal of Cognitive Neuroscience, Journal of Experiment Psychology: General, Journal of Experimental Psychology: Human Perception and Performance, Journal of Experimental Psychology: Learning, Memory, and Cognition, Journal of the International Neuropsychological Society, Journal of Neurolinguistics, Journal of Neuroscience, Language and Speech, Language, Cognition and Neuroscience, Nature Communications, Neuropsychologia, PLoS ONE, Proceedings of the National Academy of Sciences, Psychonomic Bulletin & Review, Quarterly Journal of Experimental Psychology
 
+### Guest lectures
+`2020`
+Language testing during awake brain surgery (and beyond). _University of Groningen, the Netherlands_  
+`2019`
+Producing words: The eletrophysiology of memory and motor aspects of speaking. _University of Sao Paulo, Brazil_  
+`2019-present`
+Tutor for FieldTrip Toolkit, _Nijmegen, the Netherlands_  
+
+
 ## Organisation
 `2016-present`
 Research committee member, _Department of Medical Psychology, Radboudumc, Nijmegen_  
@@ -558,4 +590,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: March 2020<br/><br/>
+<br/>Last updated: June 2020<br/><br/>
