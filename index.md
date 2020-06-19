@@ -508,22 +508,23 @@ Instructor for “Health Psychology”, “Introduction to Brain Studies”, “
 Lecturer for “Applied Research Methods in Brain Studies”
 
 ## Media and Outreach
-### Newspapers and Magazines
+### Print
 [De Volkskrant](http://archive.is/AYHK0/) | 
+[Algemeen Dagblad](http://archive.is/hyJXw) | 
 [The Asha Leader](http://archive.is/sRnn8) | 
 [The Daily Californian](http://archive.is/WypMz/) | 
-[California Magazine](http://archive.is/Fnjws)  | 
-[Donders_Newsletter](http://archive.is/AiugC) | 
-[Algemeen Dagblad](http://archive.is/hyJXw)
+[Donders_Newsletter](http://archive.is/AiugC)  
+
 
 ### Radio and podcast
 [Mindtrace Podcast: The SCIENCE of language](http://archive.is/wip/NENfJ) | 
 Science Today on CBS Radio News
 
-### Websites
+### Online
 [Nemo Kennislink 1](http://archive.is/l8qYT) | 
 [Nemo Kennislink 2](http://archive.is/tQuX6) | 
 [Nemo Kennislink 3](http://archive.is/eIuxM) | 
+[California Magazine](http://archive.is/Fnjws) | 
 [M.D./Alert](http://archive.is/cBeYi) | 
 [Quartz](http://archive.is/PDGmF) | 
 [NWO](http://archive.is/GQWIP) | 
