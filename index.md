@@ -507,7 +507,7 @@ Lecturer for “Brain and Cognition” (2017-2018), "Core theme Language" (2019-
 Instructor for “Health Psychology”, “Introduction to Brain Studies”, “Introduction to General Psychology”, “Theoretical Psychology” 
 Lecturer for “Applied Research Methods in Brain Studies”
 
-## Media Coverage and Outreach
+## Media and Outreach
 ### Newspapers and Magazines
 [De Volkskrant](http://archive.is/AYHK0/) | 
 [The Asha Leader](http://archive.is/sRnn8) | 
