@@ -475,7 +475,7 @@ Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
 <br/>    
 __Internship__  
 
-`2020-present`
+`2020-2021`
 Sevilay Tokgöz, _Radboud University_  
 
 `2020`
