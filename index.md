@@ -310,6 +310,8 @@ __Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of l
 
 ### Poster presentations
 `2020`  
+Severijnen, G., Bosker, H. R., __Piai, V.__, & McQueen, J. *The role of talker-specific prosody in predictive speech perception.* 26th Architectures and Mechanisms for Language Processing Conference. Potsdam, Germany. September, 2020. 
+
 \*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V.__ *Why we speak affects how we speak: Electrophysiological signatures of word planning following verbal versus nonverbal material.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
 
 \*Roos, N. M., Takashima, A., & __Piai, V.__ *Functional anatomy of context-driven word retrieval: across-session consistency in fMRI.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
