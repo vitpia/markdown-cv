@@ -119,6 +119,11 @@ __Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation
 
 
 ### Journal Articles
+`Accepted`  
+\*Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & **Piai, V.** How the speed of word finding depends on ventral tract integrity in primary progressive aphasia. _NeuroImage: Clinical_.  
+
+\*Abrahamse, R., Beynon, A., & __Piai, V.__ Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology*.  
+
 `2020`  
 \*Roos, N. M., & __Piai, V.__ Across-session consistency of context-driven language processing: a magnetoencephalography study. _European Journal of Neuroscience_. doi: [10.1111/ejn.14785](https://doi.org/10.1111/ejn.14785) <a href="https://data.donders.ru.nl/">Open data</a>  
 
@@ -310,7 +315,11 @@ __Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of l
 
 ### Poster presentations
 `2020`  
-Severijnen, G., Bosker, H. R., __Piai, V.__, & McQueen, J. *The role of talker-specific prosody in predictive speech perception.* 26th Architectures and Mechanisms for Language Processing Conference. Potsdam, Germany. September, 2020. 
+Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & Piai, V. *Speed of word finding depends on ventral tract integrity in primary progressive aphasia.* International Neuropsychological Society Virtual Event. July, 2020.  
+
+\*Camerino, I. L., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ *White-matter microstructural integrity in small vessel disease with category fluency impairment.* International Neuropsychological Society Virtual Event. July, 2020.  
+
+Severijnen, G., Bosker, H. R., __Piai, V.__, & McQueen, J. *The role of talker-specific prosody in predictive speech perception.* 26th Architectures and Mechanisms for Language Processing Conference. Potsdam, Germany. September, 2020.  
 
 \*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V.__ *Why we speak affects how we speak: Electrophysiological signatures of word planning following verbal versus nonverbal material.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
 
@@ -467,6 +476,7 @@ Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
 __Internship__  
 
 `2020`
+Sevilay Tokgöz, _Radboud University_  
 Juliette Vertregt, _University of Groningen_  
 
 `2017`
@@ -476,8 +486,10 @@ Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*
 
 ### Bachelor's Students
 __Honours thesis__  
+`2020-2021`
+Evelien Linders, *Radboud University*  
 
-`2019-present`
+`2019-2020`
 Laurie Marsman, *Radboud University*  
 Joran Muller, *Radboud University*  
 
@@ -490,7 +502,7 @@ Rosemarije Weterings, *Radboud University*
 __Thesis__  
 
 `2020`
-Sjoerd van Erp, *Radboud University*  
+Sjoerd van Erp, (co-supervision with I. Camerino and J. Ferreira) *Radboud University*  
 
 `2012`
 Ingeborg Roete, *Radboud University*  
@@ -503,7 +515,7 @@ Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Co
 
 _Bachelor’s Programme in Psychology, Radboud University_  
 `2017-present`
-Lecturer for “Brain and Cognition” (2017-2018), "Core theme Language" (2019-present) 
+Lecturer for “Brain and Cognition” (2017-2018), "Core theme Language" (2019-present), "Applied Research Methods" (2020-present) 
 
 `2010-2013`
 Instructor for “Health Psychology”, “Introduction to Brain Studies”, “Introduction to General Psychology”, “Theoretical Psychology” 
@@ -572,7 +584,7 @@ _Radboud University_, _Max Planck Institute for Psycholinguistics_
 ### Ad-hoc Reviewer
 See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile for details  
 `2012-present`
-BMC Psychology, Brain and Language, Brain Topography, Cerebral Cortex, Cognition, Collabra, Cortex, Emotion, Frontiers in Human Neuroscience, Frontiers in Language Sciences, Human Brain Mapping, Journal of Cognitive Neuroscience, Journal of Experiment Psychology: General, Journal of Experimental Psychology: Human Perception and Performance, Journal of Experimental Psychology: Learning, Memory, and Cognition, Journal of the International Neuropsychological Society, Journal of Neurolinguistics, Journal of Neuroscience, Language and Speech, Language, Cognition and Neuroscience, Nature Communications, Neuropsychologia, PLoS ONE, Proceedings of the National Academy of Sciences, Psychonomic Bulletin & Review, Quarterly Journal of Experimental Psychology
+BMC Psychology; Brain and Language; Brain Topography; Cerebral Cortex; Cognition; Collabra; Cortex; Emotion; Frontiers in Human Neuroscience; Frontiers in Language Sciences; Human Brain Mapping; Journal of Cognitive Neuroscience; Journal of Experiment Psychology: General; Journal of Experimental Psychology: Human Perception and Performance; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of the International Neuropsychological Society; Journal of Neurolinguistics; Journal of Neuroscience; Language and Speech; Language, Cognition and Neuroscience; Nature Communications; NeuroImage; Neuropsychologia; PLoS ONE; Proceedings of the National Academy of Sciences; Psychonomic Bulletin & Review; Quarterly Journal of Experimental Psychology
 
 ### Guest lectures
 `2020`
