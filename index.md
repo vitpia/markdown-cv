@@ -111,7 +111,7 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 ## Publications
 *Asterisks indicate (graduate or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
 ### Submitted with open <br> data and code
-__Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
+__Piai, V.__, Nieberlein, L., & Hartwigsen, G. Effects of transcranial magnetic stimulation over the left posterior superior temporal gyrus on picture-word interference. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
 
 \*Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i> Open data</a>  
 
