@@ -113,8 +113,6 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 ### Submitted with open <br> data and code
 __Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation over the left posterior superior temporal gyrus facilitates phonological retrieval during word production. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
 
-\*Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
-
 \*Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i> Open data</a>  
 
 
@@ -125,6 +123,8 @@ __Piai, V.__, Nieberlein, L., & Hartwigsen, G. Transcranial magnetic stimulation
 \*Abrahamse, R., Beynon, A., & __Piai, V.__ Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology*.  
 
 `2020`  
+\*Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. _Neuropsychologia_. doi: [10.1016/j.neuropsychologia.2020.107560](https://doi.org/10.1016/j.neuropsychologia.2020.107560) <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
+
 \*Roos, N. M., & __Piai, V.__ Across-session consistency of context-driven language processing: a magnetoencephalography study. _European Journal of Neuroscience_. doi: [10.1111/ejn.14785](https://doi.org/10.1111/ejn.14785) <a href="https://data.donders.ru.nl/">Open data</a>  
 
 __Piai, V.__, De Witte, E., Sierpowska, J., Zheng, X., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. _Journal of Cognitive Neuroscience_. doi: [10.1162/jocn_a_01561](https://doi.org/10.1162/jocn_a_01561) <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i> Open data</a>  
@@ -458,7 +458,7 @@ Tessa Ruijs, *University of Amsterdam*
 <br/>    
 __Co-supervision: thesis__  
 
-`2019-present`
+`2019-2020`
 Giulio Severijnen, *Radboud University*, with James McQueen
 
 `2018-2019`
@@ -475,8 +475,10 @@ Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
 <br/>    
 __Internship__  
 
-`2020`
+`2020-present`
 Sevilay Tokgöz, _Radboud University_  
+
+`2020`
 Juliette Vertregt, _University of Groningen_  
 
 `2017`
@@ -515,7 +517,7 @@ Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Co
 
 _Bachelor’s Programme in Psychology, Radboud University_  
 `2017-present`
-Lecturer for “Brain and Cognition” (2017-2018), "Core theme Language" (2019-present), "Applied Research Methods" (2020-present) 
+Lecturer for “Brain and Cognition” (2017-2018), "Core theme: Language" (2019-present), "Applied Research Methods" (2020-present) 
 
 `2010-2013`
 Instructor for “Health Psychology”, “Introduction to Brain Studies”, “Introduction to General Psychology”, “Theoretical Psychology” 
@@ -604,4 +606,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: June 2020<br/><br/>
+<br/>Last updated: September 2020<br/><br/>
