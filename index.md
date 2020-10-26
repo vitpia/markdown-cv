@@ -318,11 +318,11 @@ Sierpowska, J., Bryant, K., Janssen, N., Freches, G., Römkens, M., Mangnus, M.,
 
 \*Garg, A., Takashima, A., __Piai, V.__, Roelofs, A., & McQueen, J. *fMRI evidence for shared lemma representations in speech production and comprehension.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
 
-\*Cao, Y., Alday, P., & __Piai, V.__ *Do alpha and beta oscillations dissociate in context-driven spoken-word production?*. Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+\*Cao, Y., Alday, P., & __Piai, V.__ *Do alpha and beta oscillations dissociate in context-driven spoken-word production?* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
 
 \*Roos, N., Takashima, A., & __Piai, V.__ *Functional neuroanatomy of context-driven word retrieval: across-session consistency in fMRI.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
 
-\*Jodzio, A. and \*Garg, A.(shared first authors), Verhagen, L., Roelofs, A., McQueen, J., Indefrey, P., & __Piai, V.__ *A TMS investigation of left middle-MTG involvement in lemma access in speech production and comprehension.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+\*Jodzio, A. and \*Garg, A. (shared first authors), Verhagen, L., Roelofs, A., McQueen, J., Indefrey, P., & __Piai, V.__ *A TMS investigation of left middle-MTG involvement in lemma access in speech production and comprehension.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
 
 \*Ferreira, J., Roelofs, A., & __Piai, V.__ *The role of the basal ganglia in inflectional encoding: An fMRI study of producing the past tense.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
 
@@ -445,13 +445,14 @@ Arushi Garg, with prof. Ardi Roelofs and prof. James McQueen, _Radboud Universit
 _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics_    
 <br/>
 __Main supervision: thesis__  
+`2020-2021`
+Sevilay Tokgöz, _Radboud University_  
 
 `2020`
 Priscila Borges, _European Master in Clinical Linguistics_  
 Irina Chupina, _European Master in Clinical Linguistics_  
 Christina Papoutsi, _Utrecht University_  
 Imke Wets, *Radboud University*  
-Sevilay Tokgöz, _Radboud University_  
 
 `2019`
 Cecília Hustá, _University of Groningen_  
@@ -519,7 +520,7 @@ __Thesis__
 Mirthe van Dijk, *University of Amsterdam*  
 
 `2020`
-Sjoerd van Erp, (co-supervision with I. Camerino and J. Ferreira) *Radboud University*  
+Sjoerd van Erp, co-supervision with I. Camerino and J. Ferreira, *Radboud University*  
 
 `2012`
 Ingeborg Roete, *Radboud University*  
