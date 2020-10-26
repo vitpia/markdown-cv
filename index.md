@@ -312,7 +312,25 @@ __Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of l
 
 ### Poster presentations
 `2020`  
-Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & Piai, V. *Speed of word finding depends on ventral tract integrity in primary progressive aphasia.* International Neuropsychological Society Virtual Event. July, 2020.  
+Sierpowska, J., Bryant, K., Janssen, N., Freches, G., Römkens, M., Mangnus, M., Kessels, R., Roelofs, A., Mars, R., & __Piai, V.__ *Left temporal lobe language hubs – a comparative approach.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+
+\*Camerino, I., Kessels, R., de Leeuw, F.-E., & __Piai, V.__ *Microstructural integrity of crucial white-matter tracts for category fluency in elderly with cerebral small vessel disease.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+
+\*Garg, A., Takashima, A., __Piai, V.__, Roelofs, A., & McQueen, J. *fMRI evidence for shared lemma representations in speech production and comprehension.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+
+\*Cao, Y., Alday, P., & __Piai, V.__ *Do alpha and beta oscillations dissociate in context-driven spoken-word production?*. Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+
+\*Roos, N., Takashima, A., & __Piai, V.__ *Functional neuroanatomy of context-driven word retrieval: across-session consistency in fMRI.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+
+\*Jodzio, A. and \*Garg, A.(shared first authors), Verhagen, L., Roelofs, A., McQueen, J., Indefrey, P., & __Piai, V.__ *A TMS investigation of left middle-MTG involvement in lemma access in speech production and comprehension.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+
+\*Ferreira, J., Roelofs, A., & __Piai, V.__ *The role of the basal ganglia in inflectional encoding: An fMRI study of producing the past tense.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+
+\*Letter, C. and Sierpowska, J. (shared first authors), & __Piai, V.__ *Corpus callosum involvement in language ability after left-hemispheric stroke.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+
+Mascelloni, M., Liegeois-Chauvel, C., __Piai, V.__, McMahon, K., & de Zubicaray, G. *Intracranial EEG evidence of semantic interference and phonological facilitation in spoken word production.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
+
+\*Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & Piai, V. *Speed of word finding depends on ventral tract integrity in primary progressive aphasia.* International Neuropsychological Society Virtual Event. July, 2020.  
 
 \*Camerino, I. L., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ *White-matter microstructural integrity in small vessel disease with category fluency impairment.* International Neuropsychological Society Virtual Event. July, 2020.  
 
@@ -411,17 +429,17 @@ Natascha Roos, _Radboud University_
 Yang Cao, _Radboud University_  
 
 `2018-present`
-Matteo Mascelloni, _Queensland University of Technology_, Australia  
-Adrian Jodzio, _Radboud University_  
+Matteo Mascelloni, with prof. Greig de Zubicaray, _Queensland University of Technology_, Australia  
+Adrian Jodzio, with prof. Peter Indefrey, _Radboud University_  
 Lara Todorova, _Radboud University_  
 
 `2017-present`
-João Ferreira, _Radboud University_  
+João Ferreira, with prof. Ardi Roelofs, _Radboud University_  
 Ileana Camerino, _Radboud University_  
-Nikki Janssen, _Radboud University_  
+Nikki Janssen, with prof. Ardi Roelofs and prof. Roy Kessels, _Radboud University_  
 
 `2016-present`
-Arushi Garg, _Radboud University_
+Arushi Garg, with prof. Ardi Roelofs and prof. James McQueen, _Radboud University_
 
 ### Master's Students
 _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics_    
@@ -432,7 +450,8 @@ __Main supervision: thesis__
 Priscila Borges, _European Master in Clinical Linguistics_  
 Irina Chupina, _European Master in Clinical Linguistics_  
 Christina Papoutsi, _Utrecht University_  
-Imke Wets,  *Radboud University*  
+Imke Wets, *Radboud University*  
+Sevilay Tokgöz, _Radboud University_  
 
 `2019`
 Cecília Hustá, _University of Groningen_  
@@ -472,9 +491,6 @@ Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
 <br/>    
 __Internship__  
 
-`2020-2021`
-Sevilay Tokgöz, _Radboud University_  
-
 `2020`
 Juliette Vertregt, _University of Groningen_  
 
@@ -499,6 +515,8 @@ Tamar Ardesch, *Radboud University*
 Rosemarije Weterings, *Radboud University*  
 <br/>
 __Thesis__  
+`2020-2021`
+Mirthe van Dijk, *University of Amsterdam*  
 
 `2020`
 Sjoerd van Erp, (co-supervision with I. Camerino and J. Ferreira) *Radboud University*  
