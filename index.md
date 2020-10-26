@@ -110,14 +110,11 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ## Publications
 *Asterisks indicate (graduate or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
-### Submitted with open <br> data and code
-__Piai, V.__, Nieberlein, L., & Hartwigsen, G. Effects of transcranial magnetic stimulation over the left posterior superior temporal gyrus on picture-word interference. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
-
-\*Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. The comprehension-production interface: insights from cumulative semantic effects. <a href="https://osf.io/r2v57/"><i class="ai ai-osf"></i> Open data</a>  
-
 
 ### Journal Articles
 `Accepted`  
+\*Camerino, I. L., Sierpowska, J., Reid, A., Meyer, N. H.,  Tuladhar, A. M., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ White matter hyperintensities at critical crossroads for executive function and verbal abilities in small vessel disease. _Human Brain Mapping_.  
+
 \*Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & **Piai, V.** How the speed of word finding depends on ventral tract integrity in primary progressive aphasia. _NeuroImage: Clinical_.  
 
 \*Abrahamse, R., Beynon, A., & __Piai, V.__ Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology*.  
@@ -513,11 +510,11 @@ Ingeborg Roete, *Radboud University*
 ## Teaching
 _Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
 `2017-present`
-Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-present), "Neurobiology of Language" (2019-present)  
+Co-coordinator for "Neurobiology of Language" (2020-present); Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-present), "Neurobiology of Language" (2019-present)  
 
 _Bachelor’s Programme in Psychology, Radboud University_  
 `2017-present`
-Lecturer for “Brain and Cognition” (2017-2018), "Core theme: Language" (2019-present), "Applied Research Methods" (2020-present) 
+Lecturer for “Brain and Cognition” (2017-2018), "Language and Communication" (2019-present), "Applied Research Methods" (2020-present) 
 
 `2010-2013`
 Instructor for “Health Psychology”, “Introduction to Brain Studies”, “Introduction to General Psychology”, “Theoretical Psychology” 
@@ -566,6 +563,7 @@ Team member for De Jonge Akademie on Wheels, _Openbaar Zeister Lyceum, Zeist_
 ## Professional Activities
 ### Doctoral Examination Board
 `2019-present`
+Mansoureh Fahimi Hnazaee, _KU Leuven, Belgium_  
 Amie Fairs, _Radboud University, Nijmegen_  
 Ana Murteira, _Macquarie University, Sydney, Australia_
 
@@ -606,4 +604,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: September 2020<br/><br/>
+<br/>Last updated: October 2020<br/><br/>
