@@ -119,6 +119,8 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 \*Abrahamse, R., Beynon, A., & __Piai, V.__ Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology*.  
 
+Sezer, S., __Piai, V.__, Kessels, R. P. C., & ter Laan, M. Information recall in pre-operative consultation for glioma surgery using actual size three-dimensional models. *Journal of Clinical Medicine*.  
+
 `2020`  
 \*Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. _Neuropsychologia_. doi: [10.1016/j.neuropsychologia.2020.107560](https://doi.org/10.1016/j.neuropsychologia.2020.107560) <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
 
@@ -431,15 +433,17 @@ Yang Cao, _Radboud University_
 `2018-present`
 Matteo Mascelloni, with prof. Greig de Zubicaray, _Queensland University of Technology_, Australia  
 Adrian Jodzio, with prof. Peter Indefrey, _Radboud University_  
-Lara Todorova, _Radboud University_  
 
 `2017-present`
 João Ferreira, with prof. Ardi Roelofs, _Radboud University_  
 Ileana Camerino, _Radboud University_  
-Nikki Janssen, with prof. Ardi Roelofs and prof. Roy Kessels, _Radboud University_  
 
 `2016-present`
 Arushi Garg, with prof. Ardi Roelofs and prof. James McQueen, _Radboud University_
+
+`Graduated`
+Nikki Janssen, with prof. Ardi Roelofs and prof. Roy Kessels, _Radboud University_, 2020  
+Lara Todorova, with dr. David Neville, _Radboud University_, 2020  
 
 ### Master's Students
 _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics_    
@@ -447,6 +451,8 @@ _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme
 __Main supervision: thesis__  
 `2020-2021`
 Sevilay Tokgöz, _Radboud University_  
+Seniz Canıbek, _Radboud University_  
+Leonie de Regt, _Radboud University_  
 
 `2020`
 Priscila Borges, _European Master in Clinical Linguistics_  
@@ -518,6 +524,7 @@ Rosemarije Weterings, *Radboud University*
 __Thesis__  
 `2020-2021`
 Mirthe van Dijk, *University of Amsterdam*  
+Julia Chauvet, *University of Amsterdam*  
 
 `2020`
 Sjoerd van Erp, co-supervision with I. Camerino and J. Ferreira, *Radboud University*  
