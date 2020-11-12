@@ -115,9 +115,9 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 `Accepted`  
 \*Camerino, I. L., Sierpowska, J., Reid, A., Meyer, N. H.,  Tuladhar, A. M., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ White matter hyperintensities at critical crossroads for executive function and verbal abilities in small vessel disease. _Human Brain Mapping_.  
 
-\*Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & **Piai, V.** How the speed of word finding depends on ventral tract integrity in primary progressive aphasia. _NeuroImage: Clinical_.  
+\*Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & **Piai, V.** How the speed of word finding depends on ventral tract integrity in primary progressive aphasia. _NeuroImage: Clinical_. doi: [10.1016/j.nicl.2020.102450](https://doi.org/10.1016/j.nicl.2020.102450)  
 
-\*Abrahamse, R., Beynon, A., & __Piai, V.__ Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology*. <a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00119_478?18"></i> Open data</a>  
+\*Abrahamse, R., Beynon, A., & __Piai, V.__ Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology*. doi: [10.1016/j.clinph.2020.09.022](https://doi.org/10.1016/j.clinph.2020.09.022) <a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00119_478?18"> Open data</a>  
 
 Sezer, S., __Piai, V.__, Kessels, R. P. C., & ter Laan, M. Information recall in pre-operative consultation for glioma surgery using actual size three-dimensional models. *Journal of Clinical Medicine*.  
 
