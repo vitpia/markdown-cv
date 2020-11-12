@@ -121,6 +121,8 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 Sezer, S., __Piai, V.__, Kessels, R. P. C., & ter Laan, M. Information recall in pre-operative consultation for glioma surgery using actual size three-dimensional models. *Journal of Clinical Medicine*.  
 
+__Piai, V.__, Nieberlein, L., & Hartwigsen, G. Effects of transcranial magnetic stimulation over the left posterior superior temporal gyrus on picture-word interference. *PLOS ONE*. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
+
 `2020`  
 \*Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. _Neuropsychologia_. doi: [10.1016/j.neuropsychologia.2020.107560](https://doi.org/10.1016/j.neuropsychologia.2020.107560) <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
 
