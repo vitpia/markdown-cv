@@ -112,18 +112,22 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 *Asterisks indicate (graduate or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
 
 ### Journal Articles
-`Accepted`  
-\*Camerino, I. L., Sierpowska, J., Reid, A., Meyer, N. H.,  Tuladhar, A. M., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ White matter hyperintensities at critical crossroads for executive function and verbal abilities in small vessel disease. _Human Brain Mapping_.  
+`2021`  
+Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). Electrophysiological evidence for cross-language interference in foreign-language attrition. _Neuropsychologia, 155,_ 107795. doi: [10.1016/j.neuropsychologia.2021.107795](https://doi.org/10.1016/j.neuropsychologia.2021.107795)  
 
-\*Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & **Piai, V.** How the speed of word finding depends on ventral tract integrity in primary progressive aphasia. _NeuroImage: Clinical_. doi: [10.1016/j.nicl.2020.102450](https://doi.org/10.1016/j.nicl.2020.102450)  
+Mascelloni, M., McMahon, K., __Piai, V.__, Kleinman, D., & de Zubicaray, G. (in press). Mediated phonological-semantic priming in spoken word production: evidence for cascaded processing from picture-word interference. _Quarterly Journal of Experimental Psychology_. <a href="https://osf.io/65f7w/"> Open data</a>  
 
-\*Abrahamse, R., Beynon, A., & __Piai, V.__ Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology*. doi: [10.1016/j.clinph.2020.09.022](https://doi.org/10.1016/j.clinph.2020.09.022) <a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00119_478?18"> Open data</a>  
+\*Camerino, I. L., Sierpowska, J., Reid, A., Meyer, N. H.,  Tuladhar, A. M., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ White matter hyperintensities at critical crossroads for executive function and verbal abilities in small vessel disease. _Human Brain Mapping, 42(4)_, 993-1002. doi: [10.1002/hbm.25273](https://doi.org/10.1002/hbm.25273)  
 
-Sezer, S., __Piai, V.__, Kessels, R. P. C., & ter Laan, M. Information recall in pre-operative consultation for glioma surgery using actual size three-dimensional models. *Journal of Clinical Medicine*.  
-
-__Piai, V.__, Nieberlein, L., & Hartwigsen, G. Effects of transcranial magnetic stimulation over the left posterior superior temporal gyrus on picture-word interference. *PLOS ONE*. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
+\*Abrahamse, R., Beynon, A., & __Piai, V.__ (2021). Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology, 132(1)*, 258-268. doi: [10.1016/j.clinph.2020.09.022](https://doi.org/10.1016/j.clinph.2020.09.022) <a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00119_478?18"> Open data</a>  
 
 `2020`  
+\*Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & **Piai, V.** (2020). How the speed of word finding depends on ventral tract integrity in primary progressive aphasia. _NeuroImage: Clinical, 28_, 102450. doi: [10.1016/j.nicl.2020.102450](https://doi.org/10.1016/j.nicl.2020.102450)  
+
+Sezer, S., __Piai, V.__, Kessels, R. P. C., & ter Laan, M. (2020). Information recall in pre-operative consultation for glioma surgery using actual size three-dimensional models. *Journal of Clinical Medicine*, 9(11), 3660.  
+
+__Piai, V.__, Nieberlein, L., & Hartwigsen, G. (2020). Effects of transcranial magnetic stimulation over the left posterior superior temporal gyrus on picture-word interference. *PLOS ONE*, 15(11): e0242941. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
+
 \*Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. _Neuropsychologia_. doi: [10.1016/j.neuropsychologia.2020.107560](https://doi.org/10.1016/j.neuropsychologia.2020.107560) <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
 
 \*Roos, N. M., & __Piai, V.__ Across-session consistency of context-driven language processing: a magnetoencephalography study. _European Journal of Neuroscience_. doi: [10.1111/ejn.14785](https://doi.org/10.1111/ejn.14785) <a href="https://data.donders.ru.nl/">Open data</a>  
@@ -136,7 +140,7 @@ __Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscilla
 
 Williams Roberson, S., Shah, P., __Piai, V.__, Gatens, H., Krieger, A.M., Lucas II, T.H., Litt, B. Electrocorticography reveals spatiotemporal neuronal activation patterns of verbal fluency in patients with epilepsy. _Neuropsychologia_, _141_, 107386. doi: [10.1016/j.neuropsychologia.2020.107386](https://doi.org/10.1016/j.neuropsychologia.2020.107386)  
 
-Jongman, S. R., __Piai, V.__, & Meyer, A. S. (2020). Planning for language production: the electrophysiological signature of attention to the cue to speak. _Language, Cognition and Neuroscience_. doi: [10.1080/23273798.2019.1690153](https://doi.org/10.1080/23273798.2019.1690153)  
+Jongman, S. R., __Piai, V.__, & Meyer, A. S. (2020). Planning for language production: the electrophysiological signature of attention to the cue to speak. _Language, Cognition and Neuroscience, 35_, 915-932. doi: [10.1080/23273798.2019.1690153](https://doi.org/10.1080/23273798.2019.1690153)  
 
 `2019`  
 Klaus, J., Schutter, D. J. L. G., & __Piai, V.__ (2019). Transient perturbation of the left temporal cortex evokes plasticity-related reconfiguration of the lexical network. _Human Brain Mapping_, _41_, 1061-1071. doi: [10.1002/hbm.24860](https://doi.org/10.1002/hbm.24860) <a href="https://osf.io/k7juy/"><i class="ai ai-osf"></i> Open data</a>  
@@ -452,7 +456,8 @@ _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme
 <br/>
 __Main supervision: thesis__  
 `2020-2021`
-Sevilay Tokgöz, _Radboud University_  
+Pauline van Barschot, _Radboud University_  
+Rosemarije Weterings, _European Master in Clinical Linguistics_  
 Seniz Canıbek, _Radboud University_  
 Leonie de Regt, _Radboud University_  
 
@@ -482,6 +487,8 @@ Manon Jacobs, *Radboud University*
 Tessa Ruijs, *University of Amsterdam*
 <br/>    
 __Co-supervision: thesis__  
+`2021`
+Hajira Mumtaz, _European Master in Clinical Linguistics_, with Willemijn Doedens
 
 `2019-2020`
 Giulio Severijnen, *Radboud University*, with James McQueen
@@ -499,6 +506,9 @@ Svetlana Gerakakis, *Radboud University*, with Ardi Roelofs
 Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
 <br/>    
 __Internship__  
+`2021`
+Dilys Eikelboom, _Radboud University_  
+Sevilay Tokgöz, _Radboud University_  
 
 `2020`
 Juliette Vertregt, _University of Groningen_  
@@ -510,9 +520,6 @@ Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*
 
 ### Bachelor's Students
 __Honours thesis__  
-`2020-2021`
-Evelien Linders, *Radboud University*  
-
 `2019-2020`
 Laurie Marsman, *Radboud University*  
 Joran Muller, *Radboud University*  
@@ -527,6 +534,7 @@ __Thesis__
 `2020-2021`
 Mirthe van Dijk, *University of Amsterdam*  
 Julia Chauvet, *University of Amsterdam*  
+Adan Gracia, *University of Amsterdam*  
 
 `2020`
 Sjoerd van Erp, co-supervision with I. Camerino and J. Ferreira, *Radboud University*  
@@ -602,7 +610,8 @@ Flora Vanlangendonck |
 Natalia Shitova | 
 Ashley Lewis | 
 Jim Herring | 
-Xiaochen Zheng  
+Xiaochen Zheng | 
+Greta Kaufeld  
 
 
 ### Recruiting Committees
