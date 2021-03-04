@@ -115,24 +115,24 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 `2021`  
 Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). Electrophysiological evidence for cross-language interference in foreign-language attrition. _Neuropsychologia, 155,_ 107795. doi: [10.1016/j.neuropsychologia.2021.107795](https://doi.org/10.1016/j.neuropsychologia.2021.107795)  
 
-Mascelloni, M., McMahon, K., __Piai, V.__, Kleinman, D., & de Zubicaray, G. (in press). Mediated phonological-semantic priming in spoken word production: evidence for cascaded processing from picture-word interference. _Quarterly Journal of Experimental Psychology_. <a href="https://osf.io/65f7w/"> Open data</a>  
+Mascelloni, M., McMahon, K., __Piai, V.__, Kleinman, D., & de Zubicaray, G. (2021). Mediated phonological-semantic priming in spoken word production: evidence for cascaded processing from picture-word interference. _Quarterly Journal of Experimental Psychology_. <a href="https://osf.io/65f7w/"> Open data</a>  
 
-\*Camerino, I. L., Sierpowska, J., Reid, A., Meyer, N. H.,  Tuladhar, A. M., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ White matter hyperintensities at critical crossroads for executive function and verbal abilities in small vessel disease. _Human Brain Mapping, 42(4)_, 993-1002. doi: [10.1002/hbm.25273](https://doi.org/10.1002/hbm.25273)  
+\*Camerino, I. L., Sierpowska, J., Reid, A., Meyer, N. H.,  Tuladhar, A. M., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ (2021). White matter hyperintensities at critical crossroads for executive function and verbal abilities in small vessel disease. _Human Brain Mapping, 42(4)_, 993-1002. doi: [10.1002/hbm.25273](https://doi.org/10.1002/hbm.25273)  
 
 \*Abrahamse, R., Beynon, A., & __Piai, V.__ (2021). Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology, 132(1)*, 258-268. doi: [10.1016/j.clinph.2020.09.022](https://doi.org/10.1016/j.clinph.2020.09.022) <a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00119_478?18"> Open data</a>  
 
 `2020`  
 \*Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & **Piai, V.** (2020). How the speed of word finding depends on ventral tract integrity in primary progressive aphasia. _NeuroImage: Clinical, 28_, 102450. doi: [10.1016/j.nicl.2020.102450](https://doi.org/10.1016/j.nicl.2020.102450)  
 
-Sezer, S., __Piai, V.__, Kessels, R. P. C., & ter Laan, M. (2020). Information recall in pre-operative consultation for glioma surgery using actual size three-dimensional models. *Journal of Clinical Medicine*, 9(11), 3660.  
+Sezer, S., __Piai, V.__, Kessels, R. P. C., & ter Laan, M. (2020). Information recall in pre-operative consultation for glioma surgery using actual size three-dimensional models. *Journal of Clinical Medicine, 9(11)*, 3660.  
 
 __Piai, V.__, Nieberlein, L., & Hartwigsen, G. (2020). Effects of transcranial magnetic stimulation over the left posterior superior temporal gyrus on picture-word interference. *PLOS ONE*, 15(11): e0242941. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
 
-\*Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. _Neuropsychologia_. doi: [10.1016/j.neuropsychologia.2020.107560](https://doi.org/10.1016/j.neuropsychologia.2020.107560) <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
+\*Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. _Neuropsychologia, 146_, 107560. doi: [10.1016/j.neuropsychologia.2020.107560](https://doi.org/10.1016/j.neuropsychologia.2020.107560) <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
 
-\*Roos, N. M., & __Piai, V.__ Across-session consistency of context-driven language processing: a magnetoencephalography study. _European Journal of Neuroscience_. doi: [10.1111/ejn.14785](https://doi.org/10.1111/ejn.14785) <a href="https://data.donders.ru.nl/">Open data</a>  
+\*Roos, N. M., & __Piai, V.__ Across-session consistency of context-driven language processing: a magnetoencephalography study. _European Journal of Neuroscience, 52(5)_, 3457-3469. doi: [10.1111/ejn.14785](https://doi.org/10.1111/ejn.14785) <a href="https://data.donders.ru.nl/">Open data</a>  
 
-__Piai, V.__, De Witte, E., Sierpowska, J., Zheng, X., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. _Journal of Cognitive Neuroscience_. doi: [10.1162/jocn_a_01561](https://doi.org/10.1162/jocn_a_01561) <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i> Open data</a>  
+__Piai, V.__, De Witte, E., Sierpowska, J., Zheng, X., Hinkley, L. B., Mizuiri, D., Knight, R. T., Berger, M. S., & Nagarajan, S. S. Language neuroplasticity in brain tumour patients revealed by magnetoencephalography. _Journal of Cognitive Neuroscience, 32(8)_, 1497-1507. doi: [10.1162/jocn_a_01561](https://doi.org/10.1162/jocn_a_01561) <a href="https://osf.io/t4h3y/"><i class="ai ai-osf"></i> Open data</a>  
 
 __Piai, V.__, Klaus, J., & Rossetto, E. The lexical nature of alpha-beta oscillations in context-driven word production. _Journal of Neurolinguistics_, _55_, 100905. doi: [10.1016/j.jneuroling.2020.100905](https://doi.org/10.1016/j.jneuroling.2020.100905) <a href="https://osf.io/fk6hq/"><i class="ai ai-osf"></i> Open data</a>  
 
