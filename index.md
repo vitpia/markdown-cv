@@ -112,15 +112,15 @@ __Top 10% of review contributions to field of Psychology__, _Publons_
 __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most promising female researchers across Radboud University
 
 ## Publications
-*Asterisks indicate (graduate or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
+*Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](http://vitoriapiai.ruhosting.nl/publication/)*
 
 ### Journal Articles
 `2021`  
-Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__. (accepted). Dropping beans or ppilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
+Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (accepted). Dropping beans or ppilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
 
-Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__. (in press). The effect of deep brain stimulation of the subthalamic nucleus on language function in Parkinson’s disease: A systematic review. _Journal of Speech, Language, and Hearing Research_.  
+Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__ (in press). The effect of deep brain stimulation of the subthalamic nucleus on language function in Parkinson’s disease: A systematic review. _Journal of Speech, Language, and Hearing Research_.  
 
-Piastra, M.-C., van der Cruijsen, J., __Piai, V.__, Jeukens, F. E. M., Manoochehri, M., Schouten, A., Selles, R. W., & Oostendorp, T. (2021). ASH: an automatic pipeline to generate realistic and individualized chronic stroke volume conduction head models. _Journal of Neural Engineering_, 18, 044001. doi: [10.1088/1741-2552/abf00b](https://doi.org/10.1088/1741-2552/abf00b) <a href="https://data.donders.ru.nl/">Open data</a>  
+Piastra, M.-C., van der Cruijsen, J., __Piai, V.__, Jeukens, F. E. M., Manoochehri, M., Schouten, A., Selles, R. W., & Oostendorp, T. (2021). ASH: an automatic pipeline to generate realistic and individualized chronic stroke volume conduction head models. _Journal of Neural Engineering_, _18_, 044001. doi: [10.1088/1741-2552/abf00b](https://doi.org/10.1088/1741-2552/abf00b) <a href="https://data.donders.ru.nl/">Open data</a>  
 
 Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). Electrophysiological evidence for cross-language interference in foreign-language attrition. _Neuropsychologia, 155,_ 107795. doi: [10.1016/j.neuropsychologia.2021.107795](https://doi.org/10.1016/j.neuropsychologia.2021.107795)  
 
@@ -254,6 +254,13 @@ __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic str
 
 
 ## Invited Talks
+`2021`
+__Drawing inferences about word production in context__. Neurobiology of Language: Key Issues and Ways Forward, MPI, Nijmegen, the Netherlands. April, 2021.  
+
+__Speaking: evidence from electrophysiology and brain lesions__. Special interest lecture at Donders MEG/EEG Toolkit, Radboud University, Nijmegen, the Netherlands. April, 2021.  
+
+__Conceptual and lexical retrieval in spoken word production__. Research Colloquium at Department of Comparative Linguistics, University of Zurich. March, 2021.  
+
 `2020`
 __Conceptual and lexical retrieval in spoken word production__. IMPRS Conference 2020, Interdisciplinary Approaches in the Language Sciences, Nijmegen, the Netherlands. June, 2020.  
 
@@ -306,7 +313,7 @@ __The N450 in picture-word interference tasks__. Donders Discussion. Nijmegen, t
 __Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.  
 
 ## Conference Presentations
-_Past 5 years. Asterisks indicate (graduate or undergraduate) student lead authors._
+_Past 5 years. Asterisks indicate (PhD or undergraduate) student lead authors._
 ### Oral presentations
 `2019`  
 \*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ _White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
@@ -428,9 +435,6 @@ Jafarpour, A., __Piai, V.__, Lin, J. J., & Knight, R. T. _Human hippocampal pre-
 
 Hoy, C., Anderson, K. L., __Piai, V.__, Lin, J. J., Millan, J. D. R., & Knight, R. T. _Conflict-sensitive high frequency activity and event-related potentials in medial and lateral prefrontal cortex during a Stroop task_. Neuroscience 2017. Washington, USA. November, 2017.  
 
-`2016`  
-__Piai, V.__, Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity_. Eighth Annual Meeting of the Society for the Neurobiology of Language. London, UK. August, 2016.
-
 ## Supervision
 
 ### Postdoctoral researchers
@@ -543,7 +547,7 @@ __Thesis__
 `2020-2021`
 Mirthe van Dijk, *University of Amsterdam*  
 Julia Chauvet, *University of Amsterdam*  
-Adan Gracia, *University of Amsterdam*  
+Adán Gracia, *University of Amsterdam*  
 
 `2020`
 Sjoerd van Erp, co-supervision with I. Camerino and J. Ferreira, *Radboud University*  
@@ -582,6 +586,7 @@ Science Today on CBS Radio News
 [Nemo Kennislink 1](http://archive.is/l8qYT) | 
 [Nemo Kennislink 2](http://archive.is/tQuX6) | 
 [Nemo Kennislink 3](http://archive.is/eIuxM) | 
+[Nemo Kennislink 4](http://archive.is/0ZOc4) | 
 [California Magazine](http://archive.is/Fnjws) | 
 [M.D./Alert](http://archive.is/cBeYi) | 
 [Quartz](http://archive.is/PDGmF) | 
@@ -620,7 +625,9 @@ Natalia Shitova |
 Ashley Lewis | 
 Jim Herring | 
 Xiaochen Zheng | 
-Greta Kaufeld  
+Greta Kaufeld | 
+Kristijan Armeni | 
+Karen Dijkstra
 
 
 ### Recruiting Committees
@@ -633,15 +640,14 @@ See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile f
 BMC Psychology; Brain and Language; Brain Topography; Cerebral Cortex; Cognition; Collabra; Cortex; Emotion; Frontiers in Human Neuroscience; Frontiers in Language Sciences; Human Brain Mapping; Journal of Cognitive Neuroscience; Journal of Experiment Psychology: General; Journal of Experimental Psychology: Human Perception and Performance; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of the International Neuropsychological Society; Journal of Neurolinguistics; Journal of Neuroscience; Language and Speech; Language, Cognition and Neuroscience; Nature Communications; NeuroImage; Neuropsychologia; PLoS ONE; Proceedings of the National Academy of Sciences; Psychonomic Bulletin & Review; Quarterly Journal of Experimental Psychology
 
 ### Guest lectures
-`2020`
+`2020-present`
 Language testing during awake brain surgery (and beyond). _University of Groningen, the Netherlands_  
 `2019`
 Producing words: The eletrophysiology of memory and motor aspects of speaking. _University of Sao Paulo, Brazil_  
-`2019-present`
-Tutor for FieldTrip Toolkit, _Nijmegen, the Netherlands_  
-
 
 ## Organisation
+`2019-present`
+Tutor for FieldTrip Toolkit, _Nijmegen, the Netherlands_  
 `2016-present`
 Research committee member, _Department of Medical Psychology, Radboudumc, Nijmegen_  
 `2012`
