@@ -116,7 +116,7 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `2021`  
-Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (accepted). Dropping beans or ppilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
+Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (accepted). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
 
 Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__ (in press). The effect of deep brain stimulation of the subthalamic nucleus on language function in Parkinson’s disease: A systematic review. _Journal of Speech, Language, and Hearing Research_.  
 
