@@ -63,6 +63,9 @@ Dutch University Teaching Qualification
 
 ## Competitive Funding
 ### Principal Investigator
+`2021–2025`
+**Internal PhD-grant round**, *Radboud University, Donders Centre for Cognition*, “Let's have that conversation: Examining the demands of language use through the lens of young stroke” (€ 250,000)
+
 `2020–2024`
 **Junior Principal Investigator premium**, *Radboud University Medical Center*, Radboudumc funds dedicated to research excellence (€ 125,000)		
 
@@ -113,6 +116,12 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `2021`  
+Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__. (accepted). Dropping beans or ppilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
+
+Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__. (in press). The effect of deep brain stimulation of the subthalamic nucleus on language function in Parkinson’s disease: A systematic review. _Journal of Speech, Language, and Hearing Research_.  
+
+Piastra, M.-C., van der Cruijsen, J., __Piai, V.__, Jeukens, F. E. M., Manoochehri, M., Schouten, A., Selles, R. W., & Oostendorp, T. (2021). ASH: an automatic pipeline to generate realistic and individualized chronic stroke volume conduction head models. _Journal of Neural Engineering_, 18, 044001. doi: [10.1088/1741-2552/abf00b](https://doi.org/10.1088/1741-2552/abf00b) <a href="https://data.donders.ru.nl/">Open data</a>  
+
 Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). Electrophysiological evidence for cross-language interference in foreign-language attrition. _Neuropsychologia, 155,_ 107795. doi: [10.1016/j.neuropsychologia.2021.107795](https://doi.org/10.1016/j.neuropsychologia.2021.107795)  
 
 Mascelloni, M., McMahon, K., __Piai, V.__, Kleinman, D., & de Zubicaray, G. (2021). Mediated phonological-semantic priming in spoken word production: evidence for cascaded processing from picture-word interference. _Quarterly Journal of Experimental Psychology_. <a href="https://osf.io/65f7w/"> Open data</a>  
@@ -641,4 +650,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: October 2020<br/><br/>
+<br/>Last updated: May 2021<br/><br/>
