@@ -249,11 +249,11 @@ Flinker, A., __Piai, V.__, & Knight, R. T. (2018). Intracranial electrophysiolog
 
 ## Products
 ### Released
-[__“SimpTell”__](https://simptell.nl/), an application for the training of elliptical language production style by patients with chronic Broca’s aphasia _(Co-developer)_  
+[__“SimpTell”__](https://simptell.nl/), an application for the training of elliptical language production style by patients with chronic Broca’s aphasia _(Co-developer, with Marina Ruiter and Ardi Roelofs)_  
 ### Under development
 __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic structures	*(with Nikki Janssen)*  
 __"Quest"__, for Quick ESTimation of language functioning in Dutch *(with Adrià Rofes)*  
-__“TeleTaal”__, a telephone-based language assessment battery to assess patients with mild language disorders _(Co-developer)_  
+__“TeleTaal”__, a telephone-based language assessment battery to assess patients with mild language disorders _(Co-developer, with Djaina Satoer and Elke De Witte)_  
 
 
 
