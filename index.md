@@ -59,7 +59,7 @@ __B.A. in Portuguese Language and Culture__ (distinction: “cum laude”), _Utr
 `2016`
 Basic course on Regulations and Organisation for clinical investigators (BROK)  
 `2013`
-Dutch University Teaching Qualification
+Dutch University Teaching Qualification (BKO)
 
 ## Competitive Funding
 ### Principal Investigator
@@ -118,7 +118,9 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 `2021`  
 Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (accepted). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
 
-Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__ (in press). The effect of deep brain stimulation of the subthalamic nucleus on language function in Parkinson’s disease: A systematic review. _Journal of Speech, Language, and Hearing Research_.  
+De Wit, L., Piai, V., Thangwaritorn, P., Johnson, B., O'Shea, D., Amofa, P., Marsiske, M., Kessels, R.P.C. Schaeffer, N., & Smith, G., (2021). Repetition Priming in individuals with amnestic Mild Cognitive Impairment and Alzheimer’s dementia: A systematic review and meta-analysis. _Neuropsychology Review_, 1-19. doi: [doi.org/10.1007/s11065-021-09504-5](https://doi.org/10.1007/s11065-021-09504-5)  
+
+Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__ (2021). The effect of deep brain stimulation of the subthalamic nucleus on language function in Parkinson’s disease: A systematic review. _Journal of Speech, Language, and Hearing Research_.  
 
 Piastra, M.-C., van der Cruijsen, J., __Piai, V.__, Jeukens, F. E. M., Manoochehri, M., Schouten, A., Selles, R. W., & Oostendorp, T. (2021). ASH: an automatic pipeline to generate realistic and individualized chronic stroke volume conduction head models. _Journal of Neural Engineering_, _18_, 044001. doi: [10.1088/1741-2552/abf00b](https://doi.org/10.1088/1741-2552/abf00b) <a href="https://data.donders.ru.nl/">Open data</a>  
 
@@ -249,8 +251,10 @@ Flinker, A., __Piai, V.__, & Knight, R. T. (2018). Intracranial electrophysiolog
 ### Released
 [__“SimpTell”__](https://simptell.nl/), an application for the training of elliptical language production style by patients with chronic Broca’s aphasia _(Co-developer)_  
 ### Under development
-__“TeleLanguage-NL”__, Dutch version, a telephone-based language test battery to assess patients with mild language disorders _(Co-developer)_  
-__“Syntest”__, a Dutch test for the comprehension of (complex) syntactic structures	*(with Nikki Janssen)* 
+__“Syntest”__, a Dutch test for the comprehension of (complex) syntactic structures	*(with Nikki Janssen)*  
+__"Quest"__, for Quick ESTimation of language functioning in Dutch *(with Adrià Rofes)*  
+__“TeleTaal”__, a telephone-based language assessment battery to assess patients with mild language disorders _(Co-developer)_  
+
 
 
 ## Invited Talks
@@ -521,7 +525,7 @@ Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
 __Internship__  
 `2021`
 Dilys Eikelboom, _Radboud University_  
-Sevilay Tokgöz, _Radboud University_  
+Sevilay Tokgöz, _Radboud University_, with Anna Dewenter  
 
 `2020`
 Juliette Vertregt, _University of Groningen_  
