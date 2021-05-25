@@ -118,7 +118,7 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 `2021`  
 Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (accepted). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
 
-De Wit, L., Piai, V., Thangwaritorn, P., Johnson, B., O'Shea, D., Amofa, P., Marsiske, M., Kessels, R.P.C. Schaeffer, N., & Smith, G., (2021). Repetition Priming in individuals with amnestic Mild Cognitive Impairment and Alzheimer’s dementia: A systematic review and meta-analysis. _Neuropsychology Review_, 1-19. doi: [doi.org/10.1007/s11065-021-09504-5](https://doi.org/10.1007/s11065-021-09504-5)  
+De Wit, L., __Piai, V.__, Thangwaritorn, P., Johnson, B., O'Shea, D., Amofa, P., Marsiske, M., Kessels, R.P.C. Schaeffer, N., & Smith, G., (2021). Repetition Priming in individuals with amnestic Mild Cognitive Impairment and Alzheimer’s dementia: A systematic review and meta-analysis. _Neuropsychology Review_, 1-19. doi: [doi.org/10.1007/s11065-021-09504-5](https://doi.org/10.1007/s11065-021-09504-5)  
 
 Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__ (2021). The effect of deep brain stimulation of the subthalamic nucleus on language function in Parkinson’s disease: A systematic review. _Journal of Speech, Language, and Hearing Research_.  
 
