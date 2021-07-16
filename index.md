@@ -534,7 +534,7 @@ Dilys Eikelboom, _Radboud University_, with Adrian Jodzio
 Sevilay Tokgöz, _Radboud University_, with Anna Dewenter  
 
 `2020`
-Juliette Vertregt, _University of Groningen_, with Adrià Rofes  
+Juliette Vertregt, _University of Groningen_  
 
 `2017`
 Anne Billot, *Pierre-and-Marie-Curie University, France*  
