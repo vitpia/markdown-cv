@@ -63,6 +63,9 @@ Dutch University Teaching Qualification (BKO)
 
 ## Competitive Funding
 ### Principal Investigator
+`2022–2026`
+**Vidi**, *Netherlands Organisation for Scientific Research (NWO)*, “Fingerprints of language: towards a neurophysiological theory of retrieval from memory in speaking” (€ 800,000)
+
 `2021–2025`
 **Internal PhD-grant round**, *Radboud University, Donders Centre for Cognition*, “Let's have that conversation: Examining the demands of language use through the lens of young stroke” (€ 250,000)
 
@@ -126,7 +129,7 @@ Piastra, M.-C., van der Cruijsen, J., __Piai, V.__, Jeukens, F. E. M., Manoocheh
 
 Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). Electrophysiological evidence for cross-language interference in foreign-language attrition. _Neuropsychologia, 155,_ 107795. doi: [10.1016/j.neuropsychologia.2021.107795](https://doi.org/10.1016/j.neuropsychologia.2021.107795)  
 
-Mascelloni, M., McMahon, K., __Piai, V.__, Kleinman, D., & de Zubicaray, G. (2021). Mediated phonological-semantic priming in spoken word production: evidence for cascaded processing from picture-word interference. _Quarterly Journal of Experimental Psychology_. <a href="https://osf.io/65f7w/"> Open data</a>  
+Mascelloni, M., McMahon, K., __Piai, V.__, Kleinman, D., & de Zubicaray, G. (2021). Mediated phonological-semantic priming in spoken word production: evidence for cascaded processing from picture-word interference. _Quarterly Journal of Experimental Psychology, 74(7)_, 1284-1294. <a href="https://osf.io/65f7w/"> Open data</a>  
 
 \*Camerino, I. L., Sierpowska, J., Reid, A., Meyer, N. H.,  Tuladhar, A. M., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ (2021). White matter hyperintensities at critical crossroads for executive function and verbal abilities in small vessel disease. _Human Brain Mapping, 42(4)_, 993-1002. doi: [10.1002/hbm.25273](https://doi.org/10.1002/hbm.25273)  
 
@@ -249,7 +252,7 @@ Flinker, A., __Piai, V.__, & Knight, R. T. (2018). Intracranial electrophysiolog
 
 ## Products
 ### Released
-[__“SimpTell”__](https://simptell.nl/), an application for the training of elliptical language production style by patients with chronic Broca’s aphasia _(Co-developer, with Marina Ruiter and Ardi Roelofs)_  
+[__“SimpTell”__](https://www.afasietherapie.nl/), an application for the training of elliptical language production style by patients with chronic Broca’s aphasia _(Co-developer, with main developer Marina Ruiter and co-developer Ardi Roelofs)_  
 ### Under development
 __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic structures	*(with Nikki Janssen)*  
 __"Quest"__, for Quick ESTimation of language functioning in Dutch *(with Adrià Rofes)*  
@@ -472,9 +475,10 @@ Lara Todorova, with dr. David Neville, _Radboud University_, 2020
 _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics_    
 <br/>
 __Main supervision: thesis__  
+_Co-supervision by graduate students or post-docs in my group is indicated_    
 `2020-2021`
 Pauline van Barschot, _Radboud University_  
-Rosemarije Weterings, _European Master in Clinical Linguistics_  
+Rosemarije Weterings, _European Master in Clinical Linguistics_, with Joao Ferreira  
 Seniz Canıbek, _Radboud University_  
 Leonie de Regt, _Radboud University_  
 
@@ -485,25 +489,26 @@ Christina Papoutsi, _Utrecht University_
 Imke Wets, *Radboud University*  
 
 `2019`
-Cecília Hustá, _University of Groningen_  
+Cecília Hustá, _University of Groningen_, with Xiaochen Zheng  
 
 `2018-2019`
-Anna Dewenter, *Radboud University*  
+Anna Dewenter, *Radboud University*, with Joanna Sierpowska  
 
 `2018`
 Laura ten Dijke, *University of Amsterdam*  
 Karleen van Dijk, *Radboud University*  
 
 `2017-2018`
-Elena Rossetto, *University of Trento*  
+Elena Rossetto, *University of Trento*, with Jana Klaus  
 Natascha Roos, *Radboud University*  
 Rosanne Abrahamse, *Radboud University*  
 
 `2017`
-Manon Jacobs, *Radboud University*  
+Manon Jacobs, *Radboud University*, with Nikki Janssen  
 Tessa Ruijs, *University of Amsterdam*
 <br/>    
 __Co-supervision: thesis__  
+_My role is secondary_    
 `2021`
 Hajira Mumtaz, _European Master in Clinical Linguistics_, with Willemijn Doedens
 
@@ -523,12 +528,13 @@ Svetlana Gerakakis, *Radboud University*, with Ardi Roelofs
 Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
 <br/>    
 __Internship__  
+_Co-supervision by graduate students or post-docs in my group is indicated_    
 `2021`
-Dilys Eikelboom, _Radboud University_  
+Dilys Eikelboom, _Radboud University_, with Adrian Jodzio  
 Sevilay Tokgöz, _Radboud University_, with Anna Dewenter  
 
 `2020`
-Juliette Vertregt, _University of Groningen_  
+Juliette Vertregt, _University of Groningen_, with Adrià Rofes  
 
 `2017`
 Anne Billot, *Pierre-and-Marie-Curie University, France*  
@@ -538,23 +544,23 @@ Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*
 ### Bachelor's Students
 __Honours thesis__  
 `2019-2020`
-Laurie Marsman, *Radboud University*  
+Laurie Marsman, *Radboud University*, with Giesje Nefs  
 Joran Muller, *Radboud University*  
 
 `2018-2019`
-Tamar Ardesch, *Radboud University*  
+Tamar Ardesch, *Radboud University*, with Anna Dewenter  
 
 `2017-2018`
-Rosemarije Weterings, *Radboud University*  
+Rosemarije Weterings, *Radboud University*, with Marina Ruiter  
 <br/>
 __Thesis__  
 `2020-2021`
 Mirthe van Dijk, *University of Amsterdam*  
-Julia Chauvet, *University of Amsterdam*  
+Julia Chauvet, *University of Amsterdam*, with Natascha Roos  
 Adán Gracia, *University of Amsterdam*  
 
 `2020`
-Sjoerd van Erp, co-supervision with I. Camerino and J. Ferreira, *Radboud University*  
+Sjoerd van Erp, *Radboud University*, with Ileana Camerino and Joao Ferreira  
 
 `2012`
 Ingeborg Roete, *Radboud University*  
