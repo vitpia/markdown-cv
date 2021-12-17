@@ -118,12 +118,21 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 *Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](https://vitoriapiai.science/publication/)*
 
 ### Journal Articles
+`in press`  
+__Piai, V.__, Jansen, F., Dahlslätt, K., Verdonck‐de Leeuw, I. M., Prins, J., Leemans, R., Terhaard, C. H. J., Langendijk, J. A., Baatenburg de Jong, R. J., Smit, J. H., Takes, R., Kessels, R., & NET‐QUBIC Consortium. (in press). Prevalence of neurocognitive and perceived speech deficits in patients with head and neck cancer before treatment: Associations with demographic, behavioral, and disease‐related factors. _Head & Neck_. doi:[10.1002/hed.26930](https://doi.org/10.1002/hed.26930)  
+
+Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (in press). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
+
+Janssen, N., Roelofs, A., van den Berg, E., Eikelboom, W. S., Holleman, M. A., in de Braek, D. M. J. M., Piguet, O., __Piai, V.__, & Kessels, R. P. C. (in press). The diagnostic value of language screening in Primary Progressive Aphasia: Validation and application of the Sydney Language Battery. _Journal of Speech, Language, and Hearing Research, 1–15_. doi:[10.1044/2021_JSLHR-21-00024](https://doi.org/10.1044/2021_JSLHR-21-00024)  
+
 `2021`  
-Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (accepted). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
+Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V__. (2021). Electrophysiological signatures of conceptual and lexical retrieval from semantic memory. _Neuropsychologia, 161_, 107988. doi:[10.1016/j.neuropsychologia.2021.107988](https://doi.org/10.1016/j.neuropsychologia.2021.107988)  
+
+Severijnen, G. G. A., Bosker, H. R., __Piai, V.__, & McQueen, J. M. (2021). Listeners track talker-specific prosody to deal with talker-variability. _Brain Research, 1769_, 147605. doi:[10.1016/j.brainres.2021.147605](https://doi.org/10.1016/j.brainres.2021.147605)  
 
 De Wit, L., __Piai, V.__, Thangwaritorn, P., Johnson, B., O'Shea, D., Amofa, P., Marsiske, M., Kessels, R.P.C. Schaeffer, N., & Smith, G., (2021). Repetition Priming in individuals with amnestic Mild Cognitive Impairment and Alzheimer’s dementia: A systematic review and meta-analysis. _Neuropsychology Review_, 1-19. doi: [10.1007/s11065-021-09504-5](https://doi.org/10.1007/s11065-021-09504-5)  
 
-Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__ (2021). The effect of deep brain stimulation of the subthalamic nucleus on language function in Parkinson’s disease: A systematic review. _Journal of Speech, Language, and Hearing Research_.  
+Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__ (2021). The effect of deep brain stimulation of the subthalamic nucleus on language function in Parkinson’s disease: A systematic review. _Journal of Speech, Language, and Hearing Research, 64_, 2794–2810. doi:[10.1044/2021_JSLHR-20-00515](https://doi.org/10.1044/2021_JSLHR-20-00515)  
 
 Piastra, M.-C., van der Cruijsen, J., __Piai, V.__, Jeukens, F. E. M., Manoochehri, M., Schouten, A., Selles, R. W., & Oostendorp, T. (2021). ASH: an automatic pipeline to generate realistic and individualized chronic stroke volume conduction head models. _Journal of Neural Engineering_, _18_, 044001. doi: [10.1088/1741-2552/abf00b](https://doi.org/10.1088/1741-2552/abf00b) <a href="https://data.donders.ru.nl/">Open data</a>  
 
@@ -666,4 +675,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: July 2021<br/><br/>
+<br/>Last updated: December 2021<br/><br/>
