@@ -479,81 +479,65 @@ _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme
 __Main supervision: thesis__  
 _Co-supervision (by graduate students or post-docs in my group) is indicated_    
 `2021-2022`
-Nikita Boers, _Radboud University_, with Natascha Roos  
-Nora Kennis, _Radboud University_, with dr. Xiaochen Zheng and dr. Angle de Bruin  
-Owen Kapelle, _University of Groningen_, with dr. Rinus Verdonschot  
+Nikita Boers, _Radboud University_ (with Natascha Roos)  | Nora Kennis, _Radboud University_ (with dr. Xiaochen Zheng and dr. Angle de Bruin) | Owen Kapelle, _University of Groningen_ (with dr. Rinus Verdonschot)  
 
 `2020-2021`
-Pauline van Barschot, _Radboud University_  
-Rosemarije Weterings, _European Master in Clinical Linguistics_, with Joao Ferreira  
-Seniz Canıbek, _Radboud University_  
-Leonie de Regt, _Radboud University_  
+Pauline van Barschot, _Radboud University_ | Rosemarije Weterings, _European Master in Clinical Linguistics_ (with Joao Ferreira) | Seniz Canıbek, _Radboud University_ | Leonie de Regt, _Radboud University_  
 
 `2020`
-Priscila Borges, _European Master in Clinical Linguistics_  
-Irina Chupina, _European Master in Clinical Linguistics_  
-Christina Papoutsi, _Utrecht University_  
-Imke Wets, *Radboud University*  
+Priscila Borges, _European Master in Clinical Linguistics_ | Irina Chupina, _European Master in Clinical Linguistics_ | Christina Papoutsi, _Utrecht University_ | Imke Wets, *Radboud University*  
 
 `2019`
-Cecília Hustá, _University of Groningen_, with Xiaochen Zheng  
+Cecília Hustá, _University of Groningen_ (with dr. Xiaochen Zheng)  
 
 `2018-2019`
-Anna Dewenter, *Radboud University*, with Joanna Sierpowska  
+Anna Dewenter, *Radboud University* (with dr. Joanna Sierpowska)  
 
 `2018`
-Laura ten Dijke, *University of Amsterdam*  
-Karleen van Dijk, *Radboud University*  
+Laura ten Dijke, *University of Amsterdam* | Karleen van Dijk, *Radboud University*  
 
 `2017-2018`
-Elena Rossetto, *University of Trento*, with Jana Klaus  
-Natascha Roos, *Radboud University*  
-Rosanne Abrahamse, *Radboud University*  
+Elena Rossetto, *University of Trento* (with dr. Jana Klaus) | Natascha Roos, *Radboud University* | Rosanne Abrahamse, *Radboud University*  
 
 `2017`
-Manon Jacobs, *Radboud University*, with Nikki Janssen  
-Tessa Ruijs, *University of Amsterdam*
+Manon Jacobs, *Radboud University* (with Nikki Janssen) | Tessa Ruijs, *University of Amsterdam*
 <br/>    
 __Co-supervision: thesis__  
 _My role is secondary_    
 `2021`
-Hajira Mumtaz, _European Master in Clinical Linguistics_, with Willemijn Doedens
+Hajira Mumtaz, _European Master in Clinical Linguistics_ (with dr. Willemijn Doedens)
 
 `2019-2020`
-Giulio Severijnen, *Radboud University*, with James McQueen
+Giulio Severijnen, *Radboud University* (with prof. James McQueen)
 
 `2018-2019`
-Margot Magnus, *Radboud University*, with Nikki Janssen
+Margot Magnus, *Radboud University* (with Nikki Janssen)
 
 `2017-2018`
-Manon Hendriks, *Radboud University*, with Ton Dijkstra
+Manon Hendriks, *Radboud University* (with prof. Ton Dijkstra)
 
 `2010-2011`
-Svetlana Gerakakis, *Radboud University*, with Ardi Roelofs
+Svetlana Gerakakis, *Radboud University* (with prof. Ardi Roelofs)
 
 `2009-2010`
-Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
+Gabriela Garrido Rodriguez, *Radboud University* (with prof. Ardi Roelofs)
 <br/>    
 __Internship__  
 _Co-supervision by graduate students or post-docs in my group is indicated_    
 `2021`
-Lydia Huang, _Radboud University_, with Yang Cao  
-Dilys Eikelboom, _Radboud University_, with Adrian Jodzio  
-Sevilay Tokgöz, _Radboud University_, with Anna Dewenter  
+Lydia Huang, _Radboud University_ (with Yang Cao) | Dilys Eikelboom, _Radboud University_ (with Adrian Jodzio) | Sevilay Tokgöz, _Radboud University_ (with Anna Dewenter  
 
 `2020`
 Juliette Vertregt, _University of Groningen_  
 
 `2017`
-Anne Billot, *Pierre-and-Marie-Curie University, France*  
-Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*  
+Anne Billot, *Pierre-and-Marie-Curie University, France* | Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*  
 
 
 ### Bachelor's Students
 __Honours thesis__  
 `2019-2020`
-Laurie Marsman, *Radboud University*, with Giesje Nefs  
-Joran Muller, *Radboud University*  
+Laurie Marsman, *Radboud University* (with dr. Giesje Nefs) | Joran Muller, *Radboud University*  
 
 `2018-2019`
 Tamar Ardesch, *Radboud University*, with Anna Dewenter  
@@ -564,10 +548,10 @@ Rosemarije Weterings, *Radboud University*, with Marina Ruiter
 __Thesis__  
 `2020-2021`
 Mirthe van Dijk, *University of Amsterdam* | Adán Gracia, *University of Amsterdam* | 
-Julia Chauvet, *University of Amsterdam*, with Natascha Roos  
+Julia Chauvet, *University of Amsterdam* (with Natascha Roos)  
   
 `2020`
-Sjoerd van Erp, *Radboud University*, with Ileana Camerino and Joao Ferreira  
+Sjoerd van Erp, *Radboud University* (with Ileana Camerino and Joao Ferreira)  
 
 `2012`
 Ingeborg Roete, *Radboud University*  
