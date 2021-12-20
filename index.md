@@ -563,15 +563,18 @@ Rosemarije Weterings, *Radboud University*, with Marina Ruiter
 <br/>
 __Thesis__  
 `2020-2021`
-Mirthe van Dijk, *University of Amsterdam*  
+Mirthe van Dijk, *University of Amsterdam* | Adán Gracia, *University of Amsterdam* | 
 Julia Chauvet, *University of Amsterdam*, with Natascha Roos  
-Adán Gracia, *University of Amsterdam*  
-
+  
 `2020`
 Sjoerd van Erp, *Radboud University*, with Ileana Camerino and Joao Ferreira  
 
 `2012`
 Ingeborg Roete, *Radboud University*  
+<br/>
+__Internship__  
+`2021`
+Fleur Hartskeerl, *Radboud University*  
 
 
 ## Teaching
