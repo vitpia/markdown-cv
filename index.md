@@ -440,27 +440,20 @@ Klaus, J., Schutter, D., & __Piai, V.__ _Oscillatory brain responses in language
 
 Jongman, S. R., __Piai, V.__, & Meyer, A. S. _Withholding speech: does the EEG signal reflect planning for production or attention?_ 31st Annual CUNY Conference on Human Sentence Processing. Davis, USA. March, 2018.  
 
-`2017`  
-__Piai, V.__, Rommers, J., & Knight, R. T. _Evidence for a causal link between left temporoparietal alpha-beta desynchronisation and context-driven word production_. Ninth Annual Meeting of the Society for the Neurobiology of Language. Baltimore, USA. November, 2017.
-
-Riès, S. K., __Piai, V.__, Perry, D., Griffin, S., Jordan, K., Knight, R. T., & Berger, M. S. _Dissociating the roles of ventral versus dorsal pathways in language production: an awake language mapping study_. Ninth Annual Meeting of the Society for the Neurobiology of Language. Baltimore, USA. November, 2017.  
-
-Williams, S. T., Shah, P. A., __Piai, V.__, Gatens, H., Krieger, A., Lucas, T. H., &, Litt, B. _Spatiotemporal neuronal activation patterns during verbal fluency tasks_. Ninth Annual Meeting of the Society for the Neurobiology of Language. Baltimore, USA. November, 2017.  
-
-Jafarpour, A., __Piai, V.__, Lin, J. J., & Knight, R. T. _Human hippocampal pre-activation predicts behavior_. Neuroscience 2017. Washington, USA. November, 2017.  
-
-Hoy, C., Anderson, K. L., __Piai, V.__, Lin, J. J., Millan, J. D. R., & Knight, R. T. _Conflict-sensitive high frequency activity and event-related potentials in medial and lateral prefrontal cortex during a Stroop task_. Neuroscience 2017. Washington, USA. November, 2017.  
-
 ## Supervision
 
 ### Postdoctoral researchers
-`2018-present`
+`2018-2021`
 Joanna Sierpowska, _Radboud University_  
 
 `2017-2018`
 Jana Klaus, _Radboud University_
 
 ### PhD Candidates
+`2021-present`
+Rosemarije Weterings, _Radboud University_  
+Imke Wets, with prof. Helen de Hoop, dr. Marina Ruiter and dr. Lotte Hogeweg, _Radboud University_  
+
 `2019-present`
 Natascha Roos, _Radboud University_  
 Yang Cao, _Radboud University_  
@@ -484,7 +477,12 @@ Lara Todorova, with dr. David Neville, _Radboud University_, 2020
 _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics_    
 <br/>
 __Main supervision: thesis__  
-_Co-supervision by graduate students or post-docs in my group is indicated_    
+_Co-supervision (by graduate students or post-docs in my group) is indicated_    
+`2021-2022`
+Nikita Boers, _Radboud University_, with Natascha Roos  
+Nora Kennis, _Radboud University_, with dr. Xiaochen Zheng and dr. Angle de Bruin  
+Owen Kapelle, _University of Groningen_, with dr. Rinus Verdonschot  
+
 `2020-2021`
 Pauline van Barschot, _Radboud University_  
 Rosemarije Weterings, _European Master in Clinical Linguistics_, with Joao Ferreira  
@@ -539,6 +537,7 @@ Gabriela Garrido Rodriguez, *Radboud University*, with Ardi Roelofs
 __Internship__  
 _Co-supervision by graduate students or post-docs in my group is indicated_    
 `2021`
+Lydia Huang, _Radboud University_, with Yang Cao  
 Dilys Eikelboom, _Radboud University_, with Adrian Jodzio  
 Sevilay Tokgöz, _Radboud University_, with Anna Dewenter  
 
@@ -656,7 +655,7 @@ _Radboud University_, _Max Planck Institute for Psycholinguistics_
 ### Ad-hoc Reviewer
 See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile for details  
 `2012-present`
-BMC Psychology; Brain and Language; Brain Topography; Cerebral Cortex; Cognition; Collabra; Cortex; Emotion; Frontiers in Human Neuroscience; Frontiers in Language Sciences; Human Brain Mapping; Journal of Cognitive Neuroscience; Journal of Experiment Psychology: General; Journal of Experimental Psychology: Human Perception and Performance; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of the International Neuropsychological Society; Journal of Neurolinguistics; Journal of Neuroscience; Language and Speech; Language, Cognition and Neuroscience; Nature Communications; NeuroImage; Neuropsychologia; PLoS ONE; Proceedings of the National Academy of Sciences; Psychonomic Bulletin & Review; Quarterly Journal of Experimental Psychology
+BMC Psychology; Brain; Brain and Language; Brain Topography; Cerebral Cortex; Cognition; Collabra; Cortex; Emotion; Frontiers in Human Neuroscience; Frontiers in Language Sciences; Human Brain Mapping; Journal of Cognitive Neuroscience; Journal of Experiment Psychology: General; Journal of Experimental Psychology: Human Perception and Performance; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of the International Neuropsychological Society; Journal of Neurolinguistics; Journal of Neuroscience; Language and Speech; Language, Cognition and Neuroscience; Nature Communications; NeuroImage; Neuropsychologia; PLoS ONE; Proceedings of the National Academy of Sciences; Psychonomic Bulletin & Review; Quarterly Journal of Experimental Psychology
 
 ### Guest lectures
 `2020-present`
