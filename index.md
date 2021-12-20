@@ -252,6 +252,8 @@ Roelofs, A., __Piai, V.__, & Garrido Rodriguez, G. (2011). Attentional inhibitio
 Roelofs, A., __Piai, V.__, & Schriefers, H. (2011). Selective attention and distractor frequency in naming performance: Comment on Dhooge and Hartsuiker (2010). _Journal of Experimental Psychology: Learning, Memory, and Cognition_, _37_, 1032-1038. doi: [10.1037/a0023328](https://doi.org/10.1037/a0023328)  
   
 ### Book chapters
+__Piai, V.__, & Borges, P. (in press). The electrophysiology of language production. In R. Hartsuiker & K. Strijkers (Eds.), _Cognitive processes of language production_. Psychology Press.  
+
 __Piai, V.__, & Zheng, X. (2019). Speaking waves: neuronal oscillations in language production. _Psychology of Learning and Motivation_, _71_, 265-302. doi: [10.1016/bs.plm.2019.07.002](https://doi.org/10.1016/bs.plm.2019.07.002)  
 
 de Zubicaray, G., & __Piai, V.__ (2019). Investigating the spatial and temporal components of speech production. In G. de Zubicaray, & N. O. Schiller (Eds.), _The Oxford Handbook of Neurolinguistics_. Oxford University Press. doi: [10.1093/oxfordhb/9780190672027.013.19](https://doi.org/10.1093/oxfordhb/9780190672027.013.19)  
@@ -343,14 +345,18 @@ __Piai, V.__ _Reconfiguration of the language network after brain damage_. Sympo
 `2018`  
 \*Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. _The perception-production interface: Insights from cumulative semantic effects_. 26th Annual Conference on Architectures and Mechanisms for Language Processing. Hyderabad, India. February, 2018.   
 
-`2017`  
-__Piai, V.__ _Cognitive function in relation to speech problems in head and neck cancer prior to treatment_. 2nd NET-QUBIC Symposium. Utrecht, the Netherlands. November, 2017.  
-
-`2016`  
-__Piai, V.__ , Meyer, L., Dronkers, N. F., & Knight, R. T. _Neuroplasticity of language in left-hemisphere stroke: evidence linking subsecond electrophysiology and structural connectivity_. 54th Annual Meeting of the Academy of Aphasia. Llandudno, Wales. October, 2016.
 
 
 ### Poster presentations
+`2021`  
+\*Ferreira, J., Weterings, R., & __Piai, V.__. _Disentangling language production impairments in Parkinson’s Disease._ Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2021.  
+
+\*Jodzio, A., __Piai, V.__, Verhagen, L., & Indefrey, P. _Considerations for interpreting chronometric TMS studies investigating language production_. International Workshop on Language Production (online). November, 2021.  
+
+\*Garg, A., McQueen, J., Takashima, A., __Piai, V.__, Roelofs, A. *Neuroimaging evidence for shared lemma representations in speech production and comprehension.* International Workshop on Language Production (online). November, 2021.  
+
+Zheng, X., & __Piai, V.__. _Neural oscillation of interference control in the aging brain: evidence from spoken word production_. International Workshop on Language Production (online). November, 2021.  
+
 `2020`  
 Sierpowska, J., Bryant, K., Janssen, N., Freches, G., Römkens, M., Mangnus, M., Kessels, R., Roelofs, A., Mars, R., & __Piai, V.__ *Left temporal lobe language hubs – a comparative approach.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
 
@@ -479,7 +485,7 @@ _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme
 __Main supervision: thesis__  
 _Co-supervision (by graduate students or post-docs in my group) is indicated_    
 `2021-2022`
-Nikita Boers, _Radboud University_ (with Natascha Roos)  | Nora Kennis, _Radboud University_ (with dr. Xiaochen Zheng and dr. Angle de Bruin) | Owen Kapelle, _University of Groningen_ (with dr. Rinus Verdonschot)  
+Nikita Boers, _Radboud University_ (with Natascha Roos)  | Nora Kennis, _Radboud University_ (with dr. Xiaochen Zheng and dr. Angela de Bruin) | Owen Kapelle, _University of Groningen_ (with dr. Rinus Verdonschot)  
 
 `2020-2021`
 Pauline van Barschot, _Radboud University_ | Rosemarije Weterings, _European Master in Clinical Linguistics_ (with Joao Ferreira) | Seniz Canıbek, _Radboud University_ | Leonie de Regt, _Radboud University_  
