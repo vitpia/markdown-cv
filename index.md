@@ -119,14 +119,16 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `in press`  
+\*Cao, Y., Oostenveld, R., Alday, P. M., & __Piai, V.__ (in press). Are alpha and beta oscillations spatially dissociated over the cortex in context‐driven spoken‐word production? _Psychophysiology, 00_, e13999. doi:[10.1111/psyp.13999](https://doi.org/10.1111/psyp.13999)  
+
 __Piai, V.__, Jansen, F., Dahlslätt, K., Verdonck‐de Leeuw, I. M., Prins, J., Leemans, R., Terhaard, C. H. J., Langendijk, J. A., Baatenburg de Jong, R. J., Smit, J. H., Takes, R., Kessels, R., & NET‐QUBIC Consortium. (in press). Prevalence of neurocognitive and perceived speech deficits in patients with head and neck cancer before treatment: Associations with demographic, behavioral, and disease‐related factors. _Head & Neck_. doi:[10.1002/hed.26930](https://doi.org/10.1002/hed.26930)  
 
 Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (in press). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
 
-Janssen, N., Roelofs, A., van den Berg, E., Eikelboom, W. S., Holleman, M. A., in de Braek, D. M. J. M., Piguet, O., __Piai, V.__, & Kessels, R. P. C. (in press). The diagnostic value of language screening in Primary Progressive Aphasia: Validation and application of the Sydney Language Battery. _Journal of Speech, Language, and Hearing Research, 1–15_. doi:[10.1044/2021_JSLHR-21-00024](https://doi.org/10.1044/2021_JSLHR-21-00024)  
+\*Janssen, N., Roelofs, A., van den Berg, E., Eikelboom, W. S., Holleman, M. A., in de Braek, D. M. J. M., Piguet, O., __Piai, V.__, & Kessels, R. P. C. (in press). The diagnostic value of language screening in Primary Progressive Aphasia: Validation and application of the Sydney Language Battery. _Journal of Speech, Language, and Hearing Research, 1–15_. doi:[10.1044/2021_JSLHR-21-00024](https://doi.org/10.1044/2021_JSLHR-21-00024)  
 
 `2021`  
-Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V__. (2021). Electrophysiological signatures of conceptual and lexical retrieval from semantic memory. _Neuropsychologia, 161_, 107988. doi:[10.1016/j.neuropsychologia.2021.107988](https://doi.org/10.1016/j.neuropsychologia.2021.107988)  
+\*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V__. (2021). Electrophysiological signatures of conceptual and lexical retrieval from semantic memory. _Neuropsychologia, 161_, 107988. doi:[10.1016/j.neuropsychologia.2021.107988](https://doi.org/10.1016/j.neuropsychologia.2021.107988)  
 
 Severijnen, G. G. A., Bosker, H. R., __Piai, V.__, & McQueen, J. M. (2021). Listeners track talker-specific prosody to deal with talker-variability. _Brain Research, 1769_, 147605. doi:[10.1016/j.brainres.2021.147605](https://doi.org/10.1016/j.brainres.2021.147605)  
 
@@ -138,7 +140,7 @@ Piastra, M.-C., van der Cruijsen, J., __Piai, V.__, Jeukens, F. E. M., Manoocheh
 
 Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). Electrophysiological evidence for cross-language interference in foreign-language attrition. _Neuropsychologia, 155,_ 107795. doi: [10.1016/j.neuropsychologia.2021.107795](https://doi.org/10.1016/j.neuropsychologia.2021.107795)  
 
-Mascelloni, M., McMahon, K., __Piai, V.__, Kleinman, D., & de Zubicaray, G. (2021). Mediated phonological-semantic priming in spoken word production: evidence for cascaded processing from picture-word interference. _Quarterly Journal of Experimental Psychology, 74(7)_, 1284-1294. <a href="https://osf.io/65f7w/"> Open data</a>  
+\*Mascelloni, M., McMahon, K., __Piai, V.__, Kleinman, D., & de Zubicaray, G. (2021). Mediated phonological-semantic priming in spoken word production: evidence for cascaded processing from picture-word interference. _Quarterly Journal of Experimental Psychology, 74(7)_, 1284-1294. <a href="https://osf.io/65f7w/"> Open data</a>  
 
 \*Camerino, I. L., Sierpowska, J., Reid, A., Meyer, N. H.,  Tuladhar, A. M., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ (2021). White matter hyperintensities at critical crossroads for executive function and verbal abilities in small vessel disease. _Human Brain Mapping, 42(4)_, 993-1002. doi: [10.1002/hbm.25273](https://doi.org/10.1002/hbm.25273)  
 
