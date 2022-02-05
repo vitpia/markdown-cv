@@ -121,11 +121,12 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 `in press`  
 \*Cao, Y., Oostenveld, R., Alday, P. M., & __Piai, V.__ (in press). Are alpha and beta oscillations spatially dissociated over the cortex in context‐driven spoken‐word production? _Psychophysiology, 00_, e13999. doi:[10.1111/psyp.13999](https://doi.org/10.1111/psyp.13999)  
 
-__Piai, V.__, Jansen, F., Dahlslätt, K., Verdonck‐de Leeuw, I. M., Prins, J., Leemans, R., Terhaard, C. H. J., Langendijk, J. A., Baatenburg de Jong, R. J., Smit, J. H., Takes, R., Kessels, R., & NET‐QUBIC Consortium. (in press). Prevalence of neurocognitive and perceived speech deficits in patients with head and neck cancer before treatment: Associations with demographic, behavioral, and disease‐related factors. _Head & Neck_. doi:[10.1002/hed.26930](https://doi.org/10.1002/hed.26930)  
+`2022`  
+__Piai, V.__, Jansen, F., Dahlslätt, K., Verdonck‐de Leeuw, I. M., Prins, J., Leemans, R., Terhaard, C. H. J., Langendijk, J. A., Baatenburg de Jong, R. J., Smit, J. H., Takes, R., Kessels, R., & NET‐QUBIC Consortium. (2022). Prevalence of neurocognitive and perceived speech deficits in patients with head and neck cancer before treatment: Associations with demographic, behavioral, and disease‐related factors. _Head & Neck, 44_, 332-344. doi:[10.1002/hed.26930](https://doi.org/10.1002/hed.26930)  
 
-Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (in press). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience_.  
+Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (2022). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience, 34 (2)_, 209–223.  
 
-\*Janssen, N., Roelofs, A., van den Berg, E., Eikelboom, W. S., Holleman, M. A., in de Braek, D. M. J. M., Piguet, O., __Piai, V.__, & Kessels, R. P. C. (in press). The diagnostic value of language screening in Primary Progressive Aphasia: Validation and application of the Sydney Language Battery. _Journal of Speech, Language, and Hearing Research, 1–15_. doi:[10.1044/2021_JSLHR-21-00024](https://doi.org/10.1044/2021_JSLHR-21-00024)  
+\*Janssen, N., Roelofs, A., van den Berg, E., Eikelboom, W. S., Holleman, M. A., in de Braek, D. M. J. M., Piguet, O., __Piai, V.__, & Kessels, R. P. C. (2022). The diagnostic value of language screening in Primary Progressive Aphasia: Validation and application of the Sydney Language Battery. _Journal of Speech, Language, and Hearing Research, 65_, 200-214. doi:[10.1044/2021_JSLHR-21-00024](https://doi.org/10.1044/2021_JSLHR-21-00024)  
 
 `2021`  
 \*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V__. (2021). Electrophysiological signatures of conceptual and lexical retrieval from semantic memory. _Neuropsychologia, 161_, 107988. doi:[10.1016/j.neuropsychologia.2021.107988](https://doi.org/10.1016/j.neuropsychologia.2021.107988)  
@@ -669,4 +670,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: December 2021<br/><br/>
+<br/>Last updated: February 2022<br/><br/>
