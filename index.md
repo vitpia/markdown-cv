@@ -119,7 +119,7 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `in press`  
-\*Cao, Y., Oostenveld, R., Alday, P. M., & __Piai, V.__ (in press). Are alpha and beta oscillations spatially dissociated over the cortex in context‐driven spoken‐word production? _Psychophysiology, 00_, e13999. doi:[10.1111/psyp.13999](https://doi.org/10.1111/psyp.13999)  
+\*Cao, Y., Oostenveld, R., Alday, P. M., & __Piai, V.__ (in press). Are alpha and beta oscillations spatially dissociated over the cortex in context‐driven spoken‐word production? _Psychophysiology_, e13999. doi:[10.1111/psyp.13999](https://doi.org/10.1111/psyp.13999)  
 
 `2022`  
 __Piai, V.__, Jansen, F., Dahlslätt, K., Verdonck‐de Leeuw, I. M., Prins, J., Leemans, R., Terhaard, C. H. J., Langendijk, J. A., Baatenburg de Jong, R. J., Smit, J. H., Takes, R., Kessels, R., & NET‐QUBIC Consortium. (2022). Prevalence of neurocognitive and perceived speech deficits in patients with head and neck cancer before treatment: Associations with demographic, behavioral, and disease‐related factors. _Head & Neck, 44_, 332-344. doi:[10.1002/hed.26930](https://doi.org/10.1002/hed.26930)  
