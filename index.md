@@ -129,7 +129,7 @@ Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai,
 \*Janssen, N., Roelofs, A., van den Berg, E., Eikelboom, W. S., Holleman, M. A., in de Braek, D. M. J. M., Piguet, O., __Piai, V.__, & Kessels, R. P. C. (2022). The diagnostic value of language screening in Primary Progressive Aphasia: Validation and application of the Sydney Language Battery. _Journal of Speech, Language, and Hearing Research, 65_, 200-214. doi:[10.1044/2021_JSLHR-21-00024](https://doi.org/10.1044/2021_JSLHR-21-00024)  
 
 `2021`  
-\*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V__. (2021). Electrophysiological signatures of conceptual and lexical retrieval from semantic memory. _Neuropsychologia, 161_, 107988. doi:[10.1016/j.neuropsychologia.2021.107988](https://doi.org/10.1016/j.neuropsychologia.2021.107988) <a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2018.00148_112_v1">Open data</a>  
+\*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V__. (2021). Electrophysiological signatures of conceptual and lexical retrieval from semantic memory. _Neuropsychologia, 161_, 107988. doi:[10.1016/j.neuropsychologia.2021.107988](https://doi.org/10.1016/j.neuropsychologia.2021.107988) <a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2018.00148_112">Open data</a>  
 
 Severijnen, G. G. A., Bosker, H. R., __Piai, V.__, & McQueen, J. M. (2021). Listeners track talker-specific prosody to deal with talker-variability. _Brain Research, 1769_, 147605. doi:[10.1016/j.brainres.2021.147605](https://doi.org/10.1016/j.brainres.2021.147605) <a href="https://osf.io/8h6xb/?view_only%20=%202a2818bdc29442f38a906e62cebd6dc2"><i class="ai ai-osf"></i> Open data</a>  
 
@@ -137,7 +137,7 @@ De Wit, L., __Piai, V.__, Thangwaritorn, P., Johnson, B., O'Shea, D., Amofa, P.,
 
 Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__ (2021). The effect of deep brain stimulation of the subthalamic nucleus on language function in Parkinson’s disease: A systematic review. _Journal of Speech, Language, and Hearing Research, 64_, 2794–2810. doi:[10.1044/2021_JSLHR-20-00515](https://doi.org/10.1044/2021_JSLHR-20-00515)  
 
-Piastra, M.-C., van der Cruijsen, J., __Piai, V.__, Jeukens, F. E. M., Manoochehri, M., Schouten, A., Selles, R. W., & Oostendorp, T. (2021). ASH: an automatic pipeline to generate realistic and individualized chronic stroke volume conduction head models. _Journal of Neural Engineering_, _18_, 044001. doi: [10.1088/1741-2552/abf00b](https://doi.org/10.1088/1741-2552/abf00b) <a href="https://data.donders.ru.nl/collections/di/dcmn/DSC_4020000.14_955_v1/">Open data</a>  
+Piastra, M.-C., van der Cruijsen, J., __Piai, V.__, Jeukens, F. E. M., Manoochehri, M., Schouten, A., Selles, R. W., & Oostendorp, T. (2021). ASH: an automatic pipeline to generate realistic and individualized chronic stroke volume conduction head models. _Journal of Neural Engineering_, _18_, 044001. doi: [10.1088/1741-2552/abf00b](https://doi.org/10.1088/1741-2552/abf00b) <a href="https://data.donders.ru.nl/collections/di/dcmn/DSC_4020000.14_955/">Open data</a>  
 
 Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). Electrophysiological evidence for cross-language interference in foreign-language attrition. _Neuropsychologia, 155,_ 107795. doi: [10.1016/j.neuropsychologia.2021.107795](https://doi.org/10.1016/j.neuropsychologia.2021.107795) <a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00111_622">Open data</a>  
 
