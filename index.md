@@ -124,14 +124,14 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 `2022`  
 __Piai, V.__, Jansen, F., Dahlslätt, K., Verdonck‐de Leeuw, I. M., Prins, J., Leemans, R., Terhaard, C. H. J., Langendijk, J. A., Baatenburg de Jong, R. J., Smit, J. H., Takes, R., Kessels, R., & NET‐QUBIC Consortium. (2022). Prevalence of neurocognitive and perceived speech deficits in patients with head and neck cancer before treatment: Associations with demographic, behavioral, and disease‐related factors. _Head & Neck, 44_, 332-344. doi:[10.1002/hed.26930](https://doi.org/10.1002/hed.26930)  
 
-Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (2022). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience, 34 (2)_, 209–223.  
+Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (2022). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience, 34 (2)_, 209–223. doi:[10.1162/jocn_a_01798](https://doi.org/10.1162/jocn_a_01798) <a href="https://webdav.data.donders.ru.nl/dcc/DSC_2017.00052_114">Open data</a>  
 
 \*Janssen, N., Roelofs, A., van den Berg, E., Eikelboom, W. S., Holleman, M. A., in de Braek, D. M. J. M., Piguet, O., __Piai, V.__, & Kessels, R. P. C. (2022). The diagnostic value of language screening in Primary Progressive Aphasia: Validation and application of the Sydney Language Battery. _Journal of Speech, Language, and Hearing Research, 65_, 200-214. doi:[10.1044/2021_JSLHR-21-00024](https://doi.org/10.1044/2021_JSLHR-21-00024)  
 
 `2021`  
-\*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V__. (2021). Electrophysiological signatures of conceptual and lexical retrieval from semantic memory. _Neuropsychologia, 161_, 107988. doi:[10.1016/j.neuropsychologia.2021.107988](https://doi.org/10.1016/j.neuropsychologia.2021.107988)  
+\*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V__. (2021). Electrophysiological signatures of conceptual and lexical retrieval from semantic memory. _Neuropsychologia, 161_, 107988. doi:[10.1016/j.neuropsychologia.2021.107988](https://doi.org/10.1016/j.neuropsychologia.2021.107988) <a href=" https://webdav.data.donders.ru.nl/dcc/DSC_2018.00148_112_v1">Open data</a>  
 
-Severijnen, G. G. A., Bosker, H. R., __Piai, V.__, & McQueen, J. M. (2021). Listeners track talker-specific prosody to deal with talker-variability. _Brain Research, 1769_, 147605. doi:[10.1016/j.brainres.2021.147605](https://doi.org/10.1016/j.brainres.2021.147605)  
+Severijnen, G. G. A., Bosker, H. R., __Piai, V.__, & McQueen, J. M. (2021). Listeners track talker-specific prosody to deal with talker-variability. _Brain Research, 1769_, 147605. doi:[10.1016/j.brainres.2021.147605](https://doi.org/10.1016/j.brainres.2021.147605) <a href="https://osf.io/8h6xb/?view_only%20=%202a2818bdc29442f38a906e62cebd6dc2"><i class="ai ai-osf"></i> Open data</a>  
 
 De Wit, L., __Piai, V.__, Thangwaritorn, P., Johnson, B., O'Shea, D., Amofa, P., Marsiske, M., Kessels, R.P.C. Schaeffer, N., & Smith, G., (2021). Repetition Priming in individuals with amnestic Mild Cognitive Impairment and Alzheimer’s dementia: A systematic review and meta-analysis. _Neuropsychology Review_, 1-19. doi: [10.1007/s11065-021-09504-5](https://doi.org/10.1007/s11065-021-09504-5)  
 
@@ -139,7 +139,7 @@ Vos, S. H., Kessels, R. P. C., Vinke, R. S., Esselink, R. A. J., & __Piai, V.__ 
 
 Piastra, M.-C., van der Cruijsen, J., __Piai, V.__, Jeukens, F. E. M., Manoochehri, M., Schouten, A., Selles, R. W., & Oostendorp, T. (2021). ASH: an automatic pipeline to generate realistic and individualized chronic stroke volume conduction head models. _Journal of Neural Engineering_, _18_, 044001. doi: [10.1088/1741-2552/abf00b](https://doi.org/10.1088/1741-2552/abf00b) <a href="https://data.donders.ru.nl/">Open data</a>  
 
-Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). Electrophysiological evidence for cross-language interference in foreign-language attrition. _Neuropsychologia, 155,_ 107795. doi: [10.1016/j.neuropsychologia.2021.107795](https://doi.org/10.1016/j.neuropsychologia.2021.107795)  
+Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). Electrophysiological evidence for cross-language interference in foreign-language attrition. _Neuropsychologia, 155,_ 107795. doi: [10.1016/j.neuropsychologia.2021.107795](https://doi.org/10.1016/j.neuropsychologia.2021.107795) <a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00111_622">Open data</a>  
 
 \*Mascelloni, M., McMahon, K., __Piai, V.__, Kleinman, D., & de Zubicaray, G. (2021). Mediated phonological-semantic priming in spoken word production: evidence for cascaded processing from picture-word interference. _Quarterly Journal of Experimental Psychology, 74(7)_, 1284-1294. <a href="https://osf.io/65f7w/"> Open data</a>  
 
@@ -152,7 +152,7 @@ Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). 
 
 Sezer, S., __Piai, V.__, Kessels, R. P. C., & ter Laan, M. (2020). Information recall in pre-operative consultation for glioma surgery using actual size three-dimensional models. *Journal of Clinical Medicine, 9(11)*, 3660. doi: [10.3390/jcm9113660](https://doi.org/10.3390/jcm9113660)   
 
-__Piai, V.__, Nieberlein, L., & Hartwigsen, G. (2020). Effects of transcranial magnetic stimulation over the left posterior superior temporal gyrus on picture-word interference. *PLOS ONE*, 15(11): e0242941. <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
+__Piai, V.__, Nieberlein, L., & Hartwigsen, G. (2020). Effects of transcranial magnetic stimulation over the left posterior superior temporal gyrus on picture-word interference. *PLOS ONE*, 15(11): e0242941 <a href="https://osf.io/qzy73/"><i class="ai ai-osf"></i> Open data</a>  
 
 \*Todorova, L., Neville, D., & __Piai, V.__ Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective. _Neuropsychologia, 146_, 107560. doi: [10.1016/j.neuropsychologia.2020.107560](https://doi.org/10.1016/j.neuropsychologia.2020.107560) <a href="https://osf.io/9jqxn/"><i class="ai ai-osf"></i> Open data</a>  
 
