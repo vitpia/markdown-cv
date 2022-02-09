@@ -534,7 +534,7 @@ Gabriela Garrido Rodriguez, *Radboud University* (with prof. Ardi Roelofs)
 __Internship__  
 _Co-supervision by graduate students or post-docs in my group is indicated_    
 `2021`
-Lydia Huang, _Radboud University_ (with Yang Cao) | Dilys Eikelboom, _Radboud University_ (with Adrian Jodzio) | Sevilay Tokgöz, _Radboud University_ (with Anna Dewenter  
+Lydia Huang, _Radboud University_ (with Yang Cao) | Dilys Eikelboom, _Radboud University_ (with Adrian Jodzio) | Sevilay Tokgöz, _Radboud University_ (with Anna Dewenter)  
 
 `2020`
 Juliette Vertregt, _University of Groningen_  
@@ -549,10 +549,10 @@ __Honours thesis__
 Laurie Marsman, *Radboud University* (with dr. Giesje Nefs) | Joran Muller, *Radboud University*  
 
 `2018-2019`
-Tamar Ardesch, *Radboud University*, with Anna Dewenter  
+Tamar Ardesch, *Radboud University* (with Anna Dewenter)  
 
 `2017-2018`
-Rosemarije Weterings, *Radboud University*, with Marina Ruiter  
+Rosemarije Weterings, *Radboud University* (with dr. Marina Ruiter)  
 <br/>
 __Thesis__  
 `2020-2021`
@@ -577,7 +577,7 @@ Co-coordinator for "Neurobiology of Language" (2020-present); Lecturer for “Co
 
 _Bachelor’s Programme in Psychology, Radboud University_  
 `2017-present`
-Lecturer for “Brain and Cognition” (2017-2018), "Language and Communication" (2019-present), "Applied Research Methods" (2020-present) 
+Lecturer for “Brain and Cognition” (2017-present), "Language and Communication" (2019-present), "Applied Research Methods" (2020-present) 
 
 `2010-2013`
 Instructor for “Health Psychology”, “Introduction to Brain Studies”, “Introduction to General Psychology”, “Theoretical Psychology” 
@@ -651,7 +651,7 @@ _Radboud University_, _Max Planck Institute for Psycholinguistics_
 ### Ad-hoc Reviewer
 See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile for details  
 `2012-present`
-BMC Psychology; Brain; Brain and Language; Brain Topography; Cerebral Cortex; Cognition; Collabra; Cortex; Emotion; Frontiers in Human Neuroscience; Frontiers in Language Sciences; Human Brain Mapping; Journal of Cognitive Neuroscience; Journal of Experiment Psychology: General; Journal of Experimental Psychology: Human Perception and Performance; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of the International Neuropsychological Society; Journal of Neurolinguistics; Journal of Neuroscience; Language and Speech; Language, Cognition and Neuroscience; Nature Communications; NeuroImage; Neuropsychologia; PLoS ONE; Proceedings of the National Academy of Sciences; Psychonomic Bulletin & Review; Quarterly Journal of Experimental Psychology
+BMC Psychology; Brain; Brain and Development; Brain and Language; Brain Topography; Cerebral Cortex; Cognition; Collabra; Cortex; Emotion; Frontiers in Human Neuroscience; Frontiers in Language Sciences; Human Brain Mapping; Journal of Cognitive Neuroscience; Journal of Experiment Psychology: General; Journal of Experimental Psychology: Human Perception and Performance; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of the International Neuropsychological Society; Journal of Neurolinguistics; Journal of Neuroscience; Language and Speech; Language, Cognition and Neuroscience; Nature Communications; NeuroImage; Neuropsychologia; PLoS ONE; Proceedings of the National Academy of Sciences; Psychonomic Bulletin & Review; Quarterly Journal of Experimental Psychology
 
 ### Guest lectures
 `2020-present`
