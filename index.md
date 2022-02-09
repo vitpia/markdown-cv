@@ -145,7 +145,7 @@ Mickan, A., McQueen, J. M., Valentini, B., __Piai, V.__ & Lemhöfer, K. (2021). 
 
 \*Camerino, I. L., Sierpowska, J., Reid, A., Meyer, N. H.,  Tuladhar, A. M., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ (2021). White matter hyperintensities at critical crossroads for executive function and verbal abilities in small vessel disease. _Human Brain Mapping, 42(4)_, 993-1002. doi: [10.1002/hbm.25273](https://doi.org/10.1002/hbm.25273)  
 
-\*Abrahamse, R., Beynon, A., & __Piai, V.__ (2021). Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology, 132(1)*, 258-268. doi: [10.1016/j.clinph.2020.09.022](https://doi.org/10.1016/j.clinph.2020.09.022) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00119_478?18"> Open data</a>  
+\*Abrahamse, R., Beynon, A., & __Piai, V.__ (2021). Long-term auditory processing outcomes in early implanted young adults with cochlear implants: the MMN vs. P300 response. *Clinical Neurophysiology, 132(1)*, 258-268. doi: [10.1016/j.clinph.2020.09.022](https://doi.org/10.1016/j.clinph.2020.09.022) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00119_478?18">Open data</a>  
 
 `2020`  
 \*Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & **Piai, V.** (2020). How the speed of word finding depends on ventral tract integrity in primary progressive aphasia. _NeuroImage: Clinical, 28_, 102450. doi: [10.1016/j.nicl.2020.102450](https://doi.org/10.1016/j.nicl.2020.102450)  
