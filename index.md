@@ -8,8 +8,8 @@ Assistant professor & Associate Principal Investigator, Radboud University, Dond
 Junior Principal Investigator, Radboud University Medical Center, Donders Centre for Medical Neuroscience
 
 Donders Institute for Brain, Cognition and Behaviour  
-Montessorilaan 3  
-6525 HR Nijmegen, the Netherlands  
+Thomas van Aquinostraat 4  
+6525 GD Nijmegen, the Netherlands  
 
 <div id="webaddress"> 
   <a href="mailto:v.piai@donders.ru.nl"><i class="fas fa-envelope"></i> v.piai@donders.ru.nl</a>  
