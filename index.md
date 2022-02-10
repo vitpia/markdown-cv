@@ -12,7 +12,7 @@ Thomas van Aquinostraat 4
 6525 GD Nijmegen, the Netherlands  
 
 <div id="webaddress"> 
-  <a href="mailto:v.piai@donders.ru.nl"><i class="fas fa-envelope"></i> v.piai@donders.ru.nl</a>  
+  <a href="mailto:v.piai@donders.ru.nl"><i class="fas fa-envelope"></i> vitoria.piai@donders.ru.nl</a>  
   <a href="tel:&#43;31%2024%203615497"><i class="fas fa-phone"></i> +31 24 3615497</a><br/><br/>
   <a href="https://vitoriapiai.science"><i class="fas fa-home"></i> Personal website</a> 
   <a href="https://www.ru.nl/languagedysfunction"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a> 
