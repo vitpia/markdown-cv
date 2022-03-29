@@ -4,7 +4,7 @@ title: Vitória Piai's CV
 ---
 # Vitória Piai    
 <br/>
-Assistant professor & Principal Investigator, Radboud University, Donders Centre for Cognition   
+Assistant Professor & Principal Investigator, Radboud University, Donders Centre for Cognition   
 Junior Principal Investigator, Radboud University Medical Center, Donders Centre for Medical Neuroscience
 
 Donders Institute for Brain, Cognition and Behaviour  
