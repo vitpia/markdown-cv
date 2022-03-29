@@ -4,7 +4,7 @@ title: Vitória Piai's CV
 ---
 # Vitória Piai    
 <br/>
-Assistant professor & Associate Principal Investigator, Radboud University, Donders Centre for Cognition   
+Assistant professor & Principal Investigator, Radboud University, Donders Centre for Cognition   
 Junior Principal Investigator, Radboud University Medical Center, Donders Centre for Medical Neuroscience
 
 Donders Institute for Brain, Cognition and Behaviour  
@@ -31,7 +31,7 @@ Since 2017, I head the Language Function and Dysfunction group at the Donders In
 
 ## Positions  
 `2016-present`
-__Associate Principal Investigator__, _Radboud University, Donders Centre for Cognition, Department of Neuropsychology and Rehabilitation Psychology_ and _Radboud University Medical Centre, Donders Centre for Medical Neuroscience, Department of Medical Psychology_, Nijmegen, the Netherlands
+__Principal Investigator__, _Radboud University, Donders Centre for Cognition, Department of Neuropsychology and Rehabilitation Psychology_ and _Radboud University Medical Centre, Donders Centre for Medical Neuroscience, Department of Medical Psychology_, Nijmegen, the Netherlands
 
 `2014-2016`
 __Postdoctoral Fellow__, _Helen Wills Neuroscience Institute, University of California, Berkeley_ and _Center for Aphasia and Related Disorders, Veterans Affairs Health Care System Northern_, California, USA
@@ -121,7 +121,11 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 `in press`  
 \*Cao, Y., Oostenveld, R., Alday, P. M., & __Piai, V.__ (in press). Are alpha and beta oscillations spatially dissociated over the cortex in context‐driven spoken‐word production? _Psychophysiology_, e13999. doi:[10.1111/psyp.13999](https://doi.org/10.1111/psyp.13999)  
 
+De Wit, L., Kessels, R. P. C., Kurasz, A. M., Amofa, P., Sr., O’Shea, D., Marsiske, M., Chandler, M. J., et al. (in press). Declarative Learning, Priming, and Procedural Learning Performances comparing Individuals with Amnestic Mild Cognitive Impairment, and Cognitively Unimpaired Older Adults. Journal of the International Neuropsychological Society. doi:[10.1017/s1355617722000029](http://dx.doi.org/10.1017/s1355617722000029)  
+
 `2022`  
+Pruijssen, J. T., Wenmakers, A., Kessels, R. P. C., __Piai, V.__, Meijer, F. J. A., Pegge, S. A. H., Loonen, J. J., et al. (2022). Long-term cognitive, psychosocial, and neurovascular complications of unilateral head and neck irradiation in young to middle-aged adults. _BMC Cancer 22_, 244. BMC Cancer. doi:[10.1186/s12885-022-09295-9](http://dx.doi.org/10.1186/s12885-022-09295-9)  
+
 __Piai, V.__, Jansen, F., Dahlslätt, K., Verdonck‐de Leeuw, I. M., Prins, J., Leemans, R., Terhaard, C. H. J., Langendijk, J. A., Baatenburg de Jong, R. J., Smit, J. H., Takes, R., Kessels, R., & NET‐QUBIC Consortium. (2022). Prevalence of neurocognitive and perceived speech deficits in patients with head and neck cancer before treatment: Associations with demographic, behavioral, and disease‐related factors. _Head & Neck, 44_, 332-344. doi:[10.1002/hed.26930](https://doi.org/10.1002/hed.26930)  
 
 Hendriks, M. & van Ginkel, W. (shared first co-authors), Dijkstra, T., & __Piai, V.__ (2022). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience, 34 (2)_, 209–223. doi:[10.1162/jocn_a_01798](https://doi.org/10.1162/jocn_a_01798) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00052_114">Open data</a>  
@@ -466,6 +470,7 @@ Imke Wets, with prof. Helen de Hoop, dr. Marina Ruiter and dr. Lotte Hogeweg, _R
 `2019-present`
 Natascha Roos, _Radboud University_  
 Yang Cao, _Radboud University_  
+Sümeyye Sezer, _Radboud University_  
 
 `2018-present`
 Matteo Mascelloni, with prof. Greig de Zubicaray, _Queensland University of Technology_, Australia  
@@ -488,7 +493,7 @@ _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme
 __Main supervision: thesis__  
 _Co-supervision (by graduate students or post-docs in my group) is indicated_    
 `2021-2022`
-Nikita Boers, _Radboud University_ (with Natascha Roos)  | Nora Kennis, _Radboud University_ (with dr. Xiaochen Zheng and dr. Angela de Bruin) | Owen Kapelle, _University of Groningen_ (with dr. Rinus Verdonschot)  
+Nikita Boers, _Radboud University_ (with Natascha Roos) | Nora Kennis, _Radboud University_ (with dr. Xiaochen Zheng and dr. Angela de Bruin) | Owen Kapelle, _University of Groningen_ (with dr. Rinus Verdonschot)  
 
 `2020-2021`
 Pauline van Barschot, _Radboud University_ | Rosemarije Weterings, _European Master in Clinical Linguistics_ (with Joao Ferreira) | Seniz Canıbek, _Radboud University_ | Leonie de Regt, _Radboud University_  
@@ -533,6 +538,9 @@ Gabriela Garrido Rodriguez, *Radboud University* (with prof. Ardi Roelofs)
 <br/>    
 __Internship__  
 _Co-supervision by graduate students or post-docs in my group is indicated_    
+`2022`
+ Ali Lotfi, _Radboud University_ (with Yang Cao)  
+ 
 `2021`
 Lydia Huang, _Radboud University_ (with Yang Cao) | Dilys Eikelboom, _Radboud University_ (with Adrian Jodzio) | Sevilay Tokgöz, _Radboud University_ (with Anna Dewenter)  
 
@@ -670,4 +678,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: February 2022<br/><br/>
+<br/>Last updated: March 2022<br/><br/>
