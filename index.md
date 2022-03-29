@@ -602,7 +602,8 @@ Lecturer for “Applied Research Methods in Brain Studies”
 
 ### Radio and podcast
 [Mindtrace Podcast: The SCIENCE of language](http://archive.is/wip/NENfJ) | 
-Science Today on CBS Radio News
+Science Today on CBS Radio News  
+
 
 ### Online
 [Nemo Kennislink 1](http://archive.is/l8qYT) | 
@@ -615,7 +616,8 @@ Science Today on CBS Radio News
 [NWO](http://archive.is/GQWIP) | 
 [ZME_Science](http://archive.is/LUfbS) | 
 [Science Alert](http://archive.is/gKSEH) | 
-[Fanpage.it](http://archive.is/Z4itB)
+[Fanpage.it](http://archive.is/Z4itB)  
+
 
 ### Outreach
 `2020`
