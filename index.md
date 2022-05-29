@@ -13,7 +13,7 @@ Thomas van Aquinostraat 4
 
 <div id="webaddress"> 
   <a href="mailto:v.piai@donders.ru.nl"><i class="fas fa-envelope"></i> vitoria.piai@donders.ru.nl</a>  
-  <a href="tel:&#43;31%2024%203615497"><i class="fas fa-phone"></i> +31 24 3615497</a><br/><br/>
+  <a href="tel:&#43;31%2024%203615497"><i class="fas fa-phone"></i> +31 6 29646386 </a><br/><br/>
   <a href="https://vitoriapiai.science"><i class="fas fa-home"></i> Personal website</a> 
   <a href="https://www.ru.nl/languagedysfunction"><i class="fas fa-users"></i> Language Function and Dysfunction Lab</a> 
   <a href="https://orcid.org/0000-0002-4860-5952"><i class="ai ai-orcid"></i> 0000-0002-4860-5952</a><br/>
@@ -119,11 +119,13 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `in press`  
-\*Cao, Y., Oostenveld, R., Alday, P. M., & __Piai, V.__ (in press). Are alpha and beta oscillations spatially dissociated over the cortex in context‐driven spoken‐word production? _Psychophysiology_, e13999. doi:[10.1111/psyp.13999](https://doi.org/10.1111/psyp.13999)  
-
+Sierpowska, J., Rofes, A., Dahlslätt, K., Mandonnet, E., ter Laan, M., Połczyńska, M., Hamer, P. D. W., Halaj, M., Spena, G., Meling, T. R., Motomura, K., Reyes, A. F., Campos, A. R., Robe, P. A., Zigiotto, L., Sarubbo, S., Freyschlag, C. F., Broen, M. P. G., Stranjalis, G., … Piai, V. (2022). The Aftercare Survey: Assessment and intervention practices after brain tumor surgery in Europe. Neuro-Oncology Practice. doi:[10.1093/nop/npac029](https://doi.org/10.1093/nop/npac029) <a href="https://osf.io/7nqwz/"><i class="ai ai-osf"></i> Open data</a>  
+  
 De Wit, L., Kessels, R. P. C., Kurasz, A. M., Amofa, P., Sr., O’Shea, D., Marsiske, M., Chandler, M. J., et al. (in press). Declarative Learning, Priming, and Procedural Learning Performances comparing Individuals with Amnestic Mild Cognitive Impairment, and Cognitively Unimpaired Older Adults. Journal of the International Neuropsychological Society. doi:[10.1017/s1355617722000029](http://dx.doi.org/10.1017/s1355617722000029)  
 
 `2022`  
+\*Cao, Y., Oostenveld, R., Alday, P. M., & __Piai, V.__ (2022). Are alpha and beta oscillations spatially dissociated over the cortex in context‐driven spoken‐word production? _Psychophysiology, 59_(6), e13999. doi:[10.1111/psyp.13999](https://doi.org/10.1111/psyp.13999)  
+
 Pruijssen, J. T., Wenmakers, A., Kessels, R. P. C., __Piai, V.__, Meijer, F. J. A., Pegge, S. A. H., Loonen, J. J., et al. (2022). Long-term cognitive, psychosocial, and neurovascular complications of unilateral head and neck irradiation in young to middle-aged adults. _BMC Cancer 22_, 244. BMC Cancer. doi:[10.1186/s12885-022-09295-9](http://dx.doi.org/10.1186/s12885-022-09295-9)  
 
 __Piai, V.__, Jansen, F., Dahlslätt, K., Verdonck‐de Leeuw, I. M., Prins, J., Leemans, R., Terhaard, C. H. J., Langendijk, J. A., Baatenburg de Jong, R. J., Smit, J. H., Takes, R., Kessels, R., & NET‐QUBIC Consortium. (2022). Prevalence of neurocognitive and perceived speech deficits in patients with head and neck cancer before treatment: Associations with demographic, behavioral, and disease‐related factors. _Head & Neck, 44_, 332-344. doi:[10.1002/hed.26930](https://doi.org/10.1002/hed.26930)  
@@ -651,8 +653,10 @@ Jim Herring |
 Xiaochen Zheng | 
 Greta Kaufeld | 
 Kristijan Armeni | 
-Karen Dijkstra
+Karen Dijkstra  
 
+_Other universities_  
+Guilia Krethlow, University of Geneva
 
 ### Recruiting Committees
 `2016-present`
