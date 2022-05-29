@@ -119,7 +119,7 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `in press`  
-Sierpowska, J., Rofes, A., Dahlslätt, K., Mandonnet, E., ter Laan, M., Połczyńska, M., Hamer, P. D. W., Halaj, M., Spena, G., Meling, T. R., Motomura, K., Reyes, A. F., Campos, A. R., Robe, P. A., Zigiotto, L., Sarubbo, S., Freyschlag, C. F., Broen, M. P. G., Stranjalis, G., … Piai, V. (2022). The Aftercare Survey: Assessment and intervention practices after brain tumor surgery in Europe. Neuro-Oncology Practice. doi:[10.1093/nop/npac029](https://doi.org/10.1093/nop/npac029) <a href="https://osf.io/7nqwz/"><i class="ai ai-osf"></i> Open data</a>  
+Sierpowska, J., Rofes, A., Dahlslätt, K., Mandonnet, E., ter Laan, M., Połczyńska, M., Hamer, P. D. W., Halaj, M., Spena, G., Meling, T. R., Motomura, K., Reyes, A. F., Campos, A. R., Robe, P. A., Zigiotto, L., Sarubbo, S., Freyschlag, C. F., Broen, M. P. G., Stranjalis, G., … __Piai, V.__ (2022). The Aftercare Survey: Assessment and intervention practices after brain tumor surgery in Europe. Neuro-Oncology Practice. doi:[10.1093/nop/npac029](https://doi.org/10.1093/nop/npac029) <a href="https://osf.io/7nqwz/"><i class="ai ai-osf"></i> Open data</a>  
   
 De Wit, L., Kessels, R. P. C., Kurasz, A. M., Amofa, P., Sr., O’Shea, D., Marsiske, M., Chandler, M. J., et al. (in press). Declarative Learning, Priming, and Procedural Learning Performances comparing Individuals with Amnestic Mild Cognitive Impairment, and Cognitively Unimpaired Older Adults. Journal of the International Neuropsychological Society. doi:[10.1017/s1355617722000029](http://dx.doi.org/10.1017/s1355617722000029)  
 
@@ -342,6 +342,9 @@ __Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrech
 ## Conference Presentations
 _Past 5 years. Asterisks indicate (PhD or undergraduate) student lead authors._
 ### Oral presentations
+`2022`  
+\*Kennis, N., Zheng, X., de Bruin, A., & __Piai, V.__ _The electrophysiology of voluntary and cued language switching​: Evidence from event related potentials and neuronal oscillations_. IMPRS conference 2022. Nijmegen, the Netherlands. June, 2022.  
+
 `2019`  
 \*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ _White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
 
@@ -465,6 +468,9 @@ Joanna Sierpowska, _Radboud University_
 Jana Klaus, _Radboud University_
 
 ### PhD Candidates
+`2022-present`
+Irina Chupina, _Radboud University_  
+
 `2021-present`
 Rosemarije Weterings, _Radboud University_  
 Imke Wets, with prof. Helen de Hoop, dr. Marina Ruiter and dr. Lotte Hogeweg, _Radboud University_  
@@ -684,4 +690,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: March 2022<br/><br/>
+<br/>Last updated: May 2022<br/><br/>
