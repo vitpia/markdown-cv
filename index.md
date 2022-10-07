@@ -4,7 +4,7 @@ title: Vitória Piai's CV
 ---
 # Vitória Piai    
 <br/>
-Assistant Professor & Principal Investigator, Radboud University, Donders Centre for Cognition   
+Associate Professor & Principal Investigator, Radboud University, Donders Centre for Cognition   
 Junior Principal Investigator, Radboud University Medical Center, Donders Centre for Medical Neuroscience
 
 Donders Institute for Brain, Cognition and Behaviour  
@@ -31,7 +31,13 @@ Since 2017, I head the Language Function and Dysfunction group at the Donders In
 
 ## Positions  
 `2016-present`
-__Principal Investigator__, _Radboud University, Donders Centre for Cognition, Department of Neuropsychology and Rehabilitation Psychology_ and _Radboud University Medical Centre, Donders Centre for Medical Neuroscience, Department of Medical Psychology_, Nijmegen, the Netherlands
+__Principal Investigator__, _Radboud University, Donders Centre for Cognition, Department of Neuropsychology and Rehabilitation Psychology_, Nijmegen, the Netherlands
+
+`2020-2022`
+__junior Principal Investigator__, _Radboud University Medical Centre, Donders Centre for Medical Neuroscience, Department of Medical Psychology_, Nijmegen, the Netherlands
+
+`2016-2020`
+__Postdoctoral Researcher__, _Radboud University Medical Centre, Donders Centre for Medical Neuroscience, Department of Medical Psychology_, Nijmegen, the Netherlands
 
 `2014-2016`
 __Postdoctoral Fellow__, _Helen Wills Neuroscience Institute, University of California, Berkeley_ and _Center for Aphasia and Related Disorders, Veterans Affairs Health Care System Northern_, California, USA
@@ -40,7 +46,7 @@ __Postdoctoral Fellow__, _Helen Wills Neuroscience Institute, University of Cali
 __Neurosurgery Department Affiliate__, _University of California, San Francisco_, California, USA
 
 ## Clinical Duties
-`2016-present`
+`2016-2022`
 Monitoring of function during awake craniotomies, developing and improving protocols for intraoperative assessments  
 _Radboud University Medical Centre_
 
@@ -115,15 +121,26 @@ __Top 10% of review contributions to field of Psychology__, _Publons_
 __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most promising female researchers across Radboud University
 
 ## Publications
-*Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of all published papers available through my [website](https://vitoriapiai.science/publication/)*
+*Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of published papers available through my [website](https://vitoriapiai.science/publication/)*
 
 ### Journal Articles
-`in press`  
-Sierpowska, J., Rofes, A., Dahlslätt, K., Mandonnet, E., ter Laan, M., Połczyńska, M., Hamer, P. D. W., Halaj, M., Spena, G., Meling, T. R., Motomura, K., Reyes, A. F., Campos, A. R., Robe, P. A., Zigiotto, L., Sarubbo, S., Freyschlag, C. F., Broen, M. P. G., Stranjalis, G., … __Piai, V.__ (2022). The Aftercare Survey: Assessment and intervention practices after brain tumor surgery in Europe. Neuro-Oncology Practice. doi:[10.1093/nop/npac029](https://doi.org/10.1093/nop/npac029) <a href="https://osf.io/7nqwz/"><i class="ai ai-osf"></i> Open data</a>  
-  
-De Wit, L., Kessels, R. P. C., Kurasz, A. M., Amofa, P., Sr., O’Shea, D., Marsiske, M., Chandler, M. J., et al. (in press). Declarative Learning, Priming, and Procedural Learning Performances comparing Individuals with Amnestic Mild Cognitive Impairment, and Cognitively Unimpaired Older Adults. Journal of the International Neuropsychological Society. doi:[10.1017/s1355617722000029](http://dx.doi.org/10.1017/s1355617722000029)  
-
 `2022`  
+\*Chupina, I., Sierpowska, J., Zheng, X. Y., Dewenter, A., Piastra, M., & Piai, V. (2022). Time course of right‐hemisphere recruitment during word production following left‐hemisphere damage: A single case of young stroke. European Journal of Neuroscience. doi:[10.1111/ejn.15813](https://doi.org/10.1111/ejn.15813)  
+
+Ruiter, M. B., Otters, M. C., Piai, V., Lotgering, E. A. M., Theunissen, J. E. M. C., & Rietveld, T. C. M. (2022). A transcription-less quantitative analysis of aphasic discourse elicited with an adapted version of the Amsterdam-Nijmegen Everyday Language Test (ANELT). Aphasiology, 1–20. doi:[10.1080/02687038.2022.2109124](https://doi.org/10.1080/02687038.2022.2109124)  
+
+León-Cabrera, P., Piai, V., Morís, J., & Rodríguez-Fornells, A. (2022). Alpha power decreases associated with prediction in written and spoken sentence comprehension. Neuropsychologia, 173, 108286. doi:[10.1016/j.neuropsychologia.2022.108286](https://doi.org/10.1016/j.neuropsychologia.2022.108286)  
+
+Mercier, M. R., Dubarry, A.-S., Tadel, F., Avanzini, P., Axmacher, N., Cellier, D., Vecchio, M. D., Hamilton, L. S., Hermes, D., Kahana, M. J., Knight, R. T., Llorens, A., Megevand, P., Melloni, L., Miller, K. J., Piai, V., Puce, A., Ramsey, N. F., Schwiedrzik, C. M., … Oostenveld, R. (2022). Advances in human intracranial electroencephalography research, guidelines and good practices. NeuroImage, 260, 119438. doi:[10.1016/j.neuroimage.2022.119438](https://doi.org/10.1016/j.neuroimage.2022.119438)  
+
+Piastra, M. C., Oostenveld, R., Schoffelen, J. M., & Piai, V. (2022). Estimating the influence of stroke lesions on MEG source reconstruction. NeuroImage, 260, 119422. doi:[10.1016/j.neuroimage.2022.119422](https://doi.org/10.1016/j.neuroimage.2022.119422) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="[https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00069_643?0](https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00069_643?0)">Open data</a>    
+
+Sierpowska, J. and Bryant, K. L., Janssen, N., Blazquez Freches, G., Römkens, M., Mangnus, M., Mars, R. B., & Piai, V. (2022). Comparing human and chimpanzee temporal lobe neuroanatomy reveals modifications to human language hubs beyond the frontotemporal arcuate fasciculus. Proceedings of the National Academy of Sciences, 119(28), e2118295119. doi:[10.1073/pnas.2118295119](https://doi.org/10.1073/pnas.2118295119) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="[https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00084_722?1](https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00084_722?1)">Open data</a>  
+
+Sierpowska, J., Rofes, A., Dahlslätt, K., Mandonnet, E., ter Laan, M., Połczyńska, M., Hamer, P. D. W., Halaj, M., Spena, G., Meling, T. R., Motomura, K., Reyes, A. F., Campos, A. R., Robe, P. A., Zigiotto, L., Sarubbo, S., Freyschlag, C. F., Broen, M. P. G., Stranjalis, G., … __Piai, V.__ (2022). The Aftercare Survey: Assessment and intervention practices after brain tumor surgery in Europe. Neuro-Oncology Practice, 9(4), 328-337. doi:[10.1093/nop/npac029](https://doi.org/10.1093/nop/npac029) <a href="https://osf.io/7nqwz/"><i class="ai ai-osf"></i> Open data</a>  
+
+De Wit, L., Kessels, R. P. C., Kurasz, A. M., Amofa, P., Sr., O’Shea, D., Marsiske, M., Chandler, M. J., et al. (2022). Declarative Learning, Priming, and Procedural Learning Performances comparing Individuals with Amnestic Mild Cognitive Impairment, and Cognitively Unimpaired Older Adults. Journal of the International Neuropsychological Society. doi:[10.1017/s1355617722000029](http://dx.doi.org/10.1017/s1355617722000029)  
+
 \*Cao, Y., Oostenveld, R., Alday, P. M., & __Piai, V.__ (2022). Are alpha and beta oscillations spatially dissociated over the cortex in context‐driven spoken‐word production? _Psychophysiology, 59_(6), e13999. doi:[10.1111/psyp.13999](https://doi.org/10.1111/psyp.13999)  
 
 Pruijssen, J. T., Wenmakers, A., Kessels, R. P. C., __Piai, V.__, Meijer, F. J. A., Pegge, S. A. H., Loonen, J. J., et al. (2022). Long-term cognitive, psychosocial, and neurovascular complications of unilateral head and neck irradiation in young to middle-aged adults. _BMC Cancer 22_, 244. BMC Cancer. doi:[10.1186/s12885-022-09295-9](http://dx.doi.org/10.1186/s12885-022-09295-9)  
