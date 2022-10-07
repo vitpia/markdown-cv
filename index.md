@@ -302,6 +302,7 @@ __“TeleTaal”__, a telephone-based language assessment battery to assess pati
 ## Invited Talks
 `2022`
 __The neural basis of language production as we speak__. Science of Aphasia, Bordeaux, France. September, 2022.  
+
 __Speaking: evidence from electrophysiology and brain lesions__. Special interest lecture at Donders MEG/EEG Toolkit, Radboud University, Nijmegen, the Netherlands. April, 2022.  
 
 `2021`
@@ -363,7 +364,8 @@ __The N450 in picture-word interference tasks__. Donders Discussion. Nijmegen, t
 __Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.  
 
 ## Oral Conference Presentations
-_Past 5 years. Asterisks indicate (PhD or undergraduate) student lead authors._
+_Past 5 years. Asterisks indicate (PhD or undergraduate) student lead authors._  
+<br/>
 `2022`  
 \*Kennis, N., Zheng, X., de Bruin, A., & __Piai, V.__ _The electrophysiology of voluntary and cued language switching​: Evidence from event related potentials and neuronal oscillations_. IMPRS conference 2022. Nijmegen, the Netherlands. June, 2022.  
 
@@ -424,6 +426,7 @@ _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme
 <br/>
 __Main supervision: thesis__  
 _Co-supervision (by graduate students or post-docs in my group) is indicated_    
+<br/>
 `2022-2023`
 Adán Gracia-Gonzalez, _Radboud University_ | Kai Koster, _Radboud University_ | Kirstin Bleumink, _Radboud University_ | Yunzhi Luo, _Radboud University_ | Jiachen Yao, _Radboud University_ (with dr. Ashley Lewis)  
 
@@ -602,6 +605,8 @@ See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile f
 BMC Psychology; Brain; Brain and Development; Brain and Language; Brain Topography; Cerebral Cortex; Cognition; Collabra; Cortex; Emotion; Frontiers in Human Neuroscience; Frontiers in Language Sciences; Human Brain Mapping; Journal of Cognitive Neuroscience; Journal of Experiment Psychology: General; Journal of Experimental Psychology: Human Perception and Performance; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of the International Neuropsychological Society; Journal of Neurolinguistics; Journal of Neuroscience; Language and Speech; Language, Cognition and Neuroscience; Nature Communications; NeuroImage; Neuropsychologia; PLoS ONE; Proceedings of the National Academy of Sciences; Psychonomic Bulletin & Review; Quarterly Journal of Experimental Psychology
 
 ### Guest lectures
+`2021-2022`
+The role of the psychologist in awake brain mapping. Lectures organised by Vakdispuut Brainwave. _Utrecht University, the Netherlands_  
 `2020-present`
 Language testing during awake brain surgery (and beyond). _University of Groningen, the Netherlands_  
 `2019`
@@ -618,4 +623,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: May 2022<br/><br/>
+<br/>Last updated: October 2022<br/><br/>
