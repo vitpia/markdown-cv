@@ -382,6 +382,9 @@ __Piai, V.__ _Reconfiguration of the language network after brain damage_. Sympo
 ## Supervision
 
 ### Postdoctoral researchers
+`2022-present`
+Britta Westner, _Radboud University_  
+
 `2018-2021`
 Joanna Sierpowska, _Radboud University_  
 
@@ -399,7 +402,7 @@ Imke Wets, with prof. Helen de Hoop, dr. Marina Ruiter and dr. Lotte Hogeweg, _R
 `2019-present`
 Natascha Roos, _Radboud University_  
 Yang Cao, _Radboud University_  
-Sümeyye Sezer, _Radboud University_  
+Sümeyye Sezer, with dr. Mark ter Laan, _Radboud University_  
 
 `2018-present`
 Matteo Mascelloni, with prof. Greig de Zubicaray, _Queensland University of Technology_, Australia  
@@ -407,12 +410,12 @@ Adrian Jodzio, with prof. Peter Indefrey, _Radboud University_
 
 `2017-present`
 João Ferreira, with prof. Ardi Roelofs, _Radboud University_  
-Ileana Camerino, _Radboud University_  
 
 `2016-present`
 Arushi Garg, with prof. Ardi Roelofs and prof. James McQueen, _Radboud University_
 
 `Graduated`
+Ileana Camerino, _Radboud University_, 2022  
 Nikki Janssen, with prof. Ardi Roelofs and prof. Roy Kessels, _Radboud University_, 2020  
 Lara Todorova, with dr. David Neville, _Radboud University_, 2020  
 
@@ -421,6 +424,9 @@ _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme
 <br/>
 __Main supervision: thesis__  
 _Co-supervision (by graduate students or post-docs in my group) is indicated_    
+`2022-2023`
+Adán Gracia-Gonzalez, _Radboud University_ | Kai Koster, _Radboud University_ | Kirstin Bleumink, _Radboud University_ | Yunzhi Luo, _Radboud University_ | Jiachen Yao, _Radboud University_ (with dr. Ashley Lewis)  
+
 `2021-2022`
 Nikita Boers, _Radboud University_ (with Natascha Roos) | Nora Kennis, _Radboud University_ (with dr. Xiaochen Zheng and dr. Angela de Bruin) | Owen Kapelle, _University of Groningen_ (with dr. Rinus Verdonschot)  
 
@@ -510,11 +516,11 @@ Fleur Hartskeerl, *Radboud University*
 ## Teaching
 _Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
 `2017-present`
-Co-coordinator for "Neurobiology of Language" (2020-present); Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-present), "Neurobiology of Language" (2019-present)  
+Coordinator for "Neurobiology of Language" (2020-present); Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-present), "Neurobiology of Language" (2019-present)  
 
 _Bachelor’s Programme in Psychology, Radboud University_  
 `2017-present`
-Lecturer for “Brain and Cognition” (2017-present), "Language and Communication" (2019-present), "Applied Research Methods" (2020-present) 
+Lecturer for “Brain and Cognition” (2017-present), "Applied Research Methods" (2020-present), Co-coordinator for "Language and Communication" (2019-present)   
 
 `2010-2013`
 Instructor for “Health Psychology”, “Introduction to Brain Studies”, “Introduction to General Psychology”, “Theoretical Psychology” 
@@ -530,6 +536,7 @@ Lecturer for “Applied Research Methods in Brain Studies”
 
 
 ### Radio and podcast
+[BNR nieuwsradio](https://neurosciencenews.com/language-connectivity-evolution-20959/) | 
 [Mindtrace Podcast: The SCIENCE of language](http://archive.is/wip/NENfJ) | 
 Science Today on CBS Radio News  
 
