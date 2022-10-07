@@ -363,8 +363,8 @@ __The N450 in picture-word interference tasks__. Donders Discussion. Nijmegen, t
 
 __Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.  
 
-## Oral Conference Presentations
-_Past 5 years. Asterisks indicate (PhD or undergraduate) student lead authors._  
+## Conference Presentations
+_Oral presentations only in the past 5 years. Asterisks indicate (PhD or undergraduate) student lead authors._  
 <br/>
 `2022`  
 \*Kennis, N., Zheng, X., de Bruin, A., & __Piai, V.__ _The electrophysiology of voluntary and cued language switching​: Evidence from event related potentials and neuronal oscillations_. IMPRS conference 2022. Nijmegen, the Netherlands. June, 2022.  
