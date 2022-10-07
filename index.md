@@ -125,21 +125,21 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `2022`  
-\*Chupina, I., Sierpowska, J., Zheng, X. Y., Dewenter, A., Piastra, M., & Piai, V. (2022). Time course of right‐hemisphere recruitment during word production following left‐hemisphere damage: A single case of young stroke. European Journal of Neuroscience. doi:[10.1111/ejn.15813](https://doi.org/10.1111/ejn.15813)  
+\*Chupina, I., Sierpowska, J., Zheng, X. Y., Dewenter, A., Piastra, M., & __Piai, V.__ (2022). Time course of right‐hemisphere recruitment during word production following left‐hemisphere damage: A single case of young stroke. _European Journal of Neuroscience_. doi:[10.1111/ejn.15813](https://doi.org/10.1111/ejn.15813)  
 
-Ruiter, M. B., Otters, M. C., Piai, V., Lotgering, E. A. M., Theunissen, J. E. M. C., & Rietveld, T. C. M. (2022). A transcription-less quantitative analysis of aphasic discourse elicited with an adapted version of the Amsterdam-Nijmegen Everyday Language Test (ANELT). Aphasiology, 1–20. doi:[10.1080/02687038.2022.2109124](https://doi.org/10.1080/02687038.2022.2109124)  
+Ruiter, M. B., Otters, M. C., __Piai, V.__, Lotgering, E. A. M., Theunissen, J. E. M. C., & Rietveld, T. C. M. (2022). A transcription-less quantitative analysis of aphasic discourse elicited with an adapted version of the Amsterdam-Nijmegen Everyday Language Test (ANELT). _Aphasiology_. doi:[10.1080/02687038.2022.2109124](https://doi.org/10.1080/02687038.2022.2109124)  
 
-León-Cabrera, P., Piai, V., Morís, J., & Rodríguez-Fornells, A. (2022). Alpha power decreases associated with prediction in written and spoken sentence comprehension. Neuropsychologia, 173, 108286. doi:[10.1016/j.neuropsychologia.2022.108286](https://doi.org/10.1016/j.neuropsychologia.2022.108286)  
+León-Cabrera, P., __Piai, V.__, Morís, J., & Rodríguez-Fornells, A. (2022). Alpha power decreases associated with prediction in written and spoken sentence comprehension. _Neuropsychologia, 173_, 108286. doi:[10.1016/j.neuropsychologia.2022.108286](https://doi.org/10.1016/j.neuropsychologia.2022.108286)  
 
-Mercier, M. R., Dubarry, A.-S., Tadel, F., Avanzini, P., Axmacher, N., Cellier, D., Vecchio, M. D., Hamilton, L. S., Hermes, D., Kahana, M. J., Knight, R. T., Llorens, A., Megevand, P., Melloni, L., Miller, K. J., Piai, V., Puce, A., Ramsey, N. F., Schwiedrzik, C. M., … Oostenveld, R. (2022). Advances in human intracranial electroencephalography research, guidelines and good practices. NeuroImage, 260, 119438. doi:[10.1016/j.neuroimage.2022.119438](https://doi.org/10.1016/j.neuroimage.2022.119438)  
+Mercier, M. R., Dubarry, A.-S., Tadel, F., Avanzini, P., Axmacher, N., Cellier, D., Vecchio, M. D., Hamilton, L. S., Hermes, D., Kahana, M. J., Knight, R. T., Llorens, A., Megevand, P., Melloni, L., Miller, K. J., __Piai, V.__, Puce, A., Ramsey, N. F., Schwiedrzik, C. M., … Oostenveld, R. (2022). Advances in human intracranial electroencephalography research, guidelines and good practices. _NeuroImage, 260_, 119438. doi:[10.1016/j.neuroimage.2022.119438](https://doi.org/10.1016/j.neuroimage.2022.119438)  
 
-Piastra, M. C., Oostenveld, R., Schoffelen, J. M., & Piai, V. (2022). Estimating the influence of stroke lesions on MEG source reconstruction. NeuroImage, 260, 119422. doi:[10.1016/j.neuroimage.2022.119422](https://doi.org/10.1016/j.neuroimage.2022.119422) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="[https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00069_643?0](https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00069_643?0)">Open data</a>    
+Piastra, M. C., Oostenveld, R., Schoffelen, J. M., & __Piai, V.__ (2022). Estimating the influence of stroke lesions on MEG source reconstruction. _NeuroImage, 260_, 119422. doi:[10.1016/j.neuroimage.2022.119422](https://doi.org/10.1016/j.neuroimage.2022.119422) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="[https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00069_643?0](https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00069_643?0)">Open data</a>    
 
-Sierpowska, J. and Bryant, K. L., Janssen, N., Blazquez Freches, G., Römkens, M., Mangnus, M., Mars, R. B., & Piai, V. (2022). Comparing human and chimpanzee temporal lobe neuroanatomy reveals modifications to human language hubs beyond the frontotemporal arcuate fasciculus. Proceedings of the National Academy of Sciences, 119(28), e2118295119. doi:[10.1073/pnas.2118295119](https://doi.org/10.1073/pnas.2118295119) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="[https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00084_722?1](https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00084_722?1)">Open data</a>  
+Sierpowska, J. and Bryant, K. L., Janssen, N., Blazquez Freches, G., Römkens, M., Mangnus, M., Mars, R. B., & __Piai, V.__ (2022). Comparing human and chimpanzee temporal lobe neuroanatomy reveals modifications to human language hubs beyond the frontotemporal arcuate fasciculus. _Proceedings of the National Academy of Sciences, 119_(28), e2118295119. doi:[10.1073/pnas.2118295119](https://doi.org/10.1073/pnas.2118295119) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="[https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00084_722?1](https://data.donders.ru.nl/collections/di/dcc/DSC_2021.00084_722?1)">Open data</a>  
 
-Sierpowska, J., Rofes, A., Dahlslätt, K., Mandonnet, E., ter Laan, M., Połczyńska, M., Hamer, P. D. W., Halaj, M., Spena, G., Meling, T. R., Motomura, K., Reyes, A. F., Campos, A. R., Robe, P. A., Zigiotto, L., Sarubbo, S., Freyschlag, C. F., Broen, M. P. G., Stranjalis, G., … __Piai, V.__ (2022). The Aftercare Survey: Assessment and intervention practices after brain tumor surgery in Europe. Neuro-Oncology Practice, 9(4), 328-337. doi:[10.1093/nop/npac029](https://doi.org/10.1093/nop/npac029) <a href="https://osf.io/7nqwz/"><i class="ai ai-osf"></i> Open data</a>  
+Sierpowska, J., Rofes, A., Dahlslätt, K., Mandonnet, E., ter Laan, M., Połczyńska, M., Hamer, P. D. W., Halaj, M., Spena, G., Meling, T. R., Motomura, K., Reyes, A. F., Campos, A. R., Robe, P. A., Zigiotto, L., Sarubbo, S., Freyschlag, C. F., Broen, M. P. G., Stranjalis, G., … __Piai, V.__ (2022). The Aftercare Survey: Assessment and intervention practices after brain tumor surgery in Europe. _Neuro-Oncology Practice, 9_(4), 328-337. doi:[10.1093/nop/npac029](https://doi.org/10.1093/nop/npac029) <a href="https://osf.io/7nqwz/"><i class="ai ai-osf"></i> Open data</a>  
 
-De Wit, L., Kessels, R. P. C., Kurasz, A. M., Amofa, P., Sr., O’Shea, D., Marsiske, M., Chandler, M. J., et al. (2022). Declarative Learning, Priming, and Procedural Learning Performances comparing Individuals with Amnestic Mild Cognitive Impairment, and Cognitively Unimpaired Older Adults. Journal of the International Neuropsychological Society. doi:[10.1017/s1355617722000029](http://dx.doi.org/10.1017/s1355617722000029)  
+De Wit, L., Kessels, R. P. C., Kurasz, A. M., Amofa, P., Sr., O’Shea, D., Marsiske, M., Chandler, M. J., et al. (2022). Declarative Learning, Priming, and Procedural Learning Performances comparing Individuals with Amnestic Mild Cognitive Impairment, and Cognitively Unimpaired Older Adults. _Journal of the International Neuropsychological Society_. doi:[10.1017/s1355617722000029](http://dx.doi.org/10.1017/s1355617722000029)  
 
 \*Cao, Y., Oostenveld, R., Alday, P. M., & __Piai, V.__ (2022). Are alpha and beta oscillations spatially dissociated over the cortex in context‐driven spoken‐word production? _Psychophysiology, 59_(6), e13999. doi:[10.1111/psyp.13999](https://doi.org/10.1111/psyp.13999)  
 
@@ -278,6 +278,8 @@ Roelofs, A., __Piai, V.__, & Garrido Rodriguez, G. (2011). Attentional inhibitio
 Roelofs, A., __Piai, V.__, & Schriefers, H. (2011). Selective attention and distractor frequency in naming performance: Comment on Dhooge and Hartsuiker (2010). _Journal of Experimental Psychology: Learning, Memory, and Cognition_, _37_, 1032-1038. doi: [10.1037/a0023328](https://doi.org/10.1037/a0023328)  
   
 ### Book chapters
+Satoer, D., & __Piai, V.__ (2022). Speech and Language. In R. Kessels, E. van den Berg, R. Ponds, J. Spikman & M. van Zandvoort (Eds.), _Clinical Neuropsychology_. Boom.  
+
 __Piai, V.__, & Borges, P. (in press). The electrophysiology of language production. In R. Hartsuiker & K. Strijkers (Eds.), _Cognitive processes of language production_. Psychology Press.  
 
 __Piai, V.__, & Zheng, X. (2019). Speaking waves: neuronal oscillations in language production. _Psychology of Learning and Motivation_, _71_, 265-302. doi: [10.1016/bs.plm.2019.07.002](https://doi.org/10.1016/bs.plm.2019.07.002)  
@@ -298,6 +300,10 @@ __“TeleTaal”__, a telephone-based language assessment battery to assess pati
 
 
 ## Invited Talks
+`2022`
+__The neural basis of language production as we speak__. Science of Aphasia, Bordeaux, France. September, 2022.  
+__Speaking: evidence from electrophysiology and brain lesions__. Special interest lecture at Donders MEG/EEG Toolkit, Radboud University, Nijmegen, the Netherlands. April, 2022.  
+
 `2021`
 __Drawing inferences about word production in context__. Neurobiology of Language: Key Issues and Ways Forward, MPI, Nijmegen, the Netherlands. April, 2021.  
 
