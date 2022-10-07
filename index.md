@@ -362,9 +362,8 @@ __The N450 in picture-word interference tasks__. Donders Discussion. Nijmegen, t
 
 __Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.  
 
-## Conference Presentations
+## Oral Conference Presentations
 _Past 5 years. Asterisks indicate (PhD or undergraduate) student lead authors._
-### Oral presentations
 `2022`  
 \*Kennis, N., Zheng, X., de Bruin, A., & __Piai, V.__ _The electrophysiology of voluntary and cued language switching​: Evidence from event related potentials and neuronal oscillations_. IMPRS conference 2022. Nijmegen, the Netherlands. June, 2022.  
 
@@ -379,107 +378,6 @@ __Piai, V.__ _Reconfiguration of the language network after brain damage_. Sympo
 
 `2018`  
 \*Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. _The perception-production interface: Insights from cumulative semantic effects_. 26th Annual Conference on Architectures and Mechanisms for Language Processing. Hyderabad, India. February, 2018.   
-
-
-
-### Poster presentations
-`2021`  
-\*Ferreira, J., Weterings, R., & __Piai, V.__. _Disentangling language production impairments in Parkinson’s Disease._ Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2021.  
-
-\*Jodzio, A., __Piai, V.__, Verhagen, L., & Indefrey, P. _Considerations for interpreting chronometric TMS studies investigating language production_. International Workshop on Language Production (online). November, 2021.  
-
-\*Garg, A., McQueen, J., Takashima, A., __Piai, V.__, Roelofs, A. *Neuroimaging evidence for shared lemma representations in speech production and comprehension.* International Workshop on Language Production (online). November, 2021.  
-
-Zheng, X., & __Piai, V.__. _Neural oscillation of interference control in the aging brain: evidence from spoken word production_. International Workshop on Language Production (online). November, 2021.  
-
-`2020`  
-Sierpowska, J., Bryant, K., Janssen, N., Freches, G., Römkens, M., Mangnus, M., Kessels, R., Roelofs, A., Mars, R., & __Piai, V.__ *Left temporal lobe language hubs – a comparative approach.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
-
-\*Camerino, I., Kessels, R., de Leeuw, F.-E., & __Piai, V.__ *Microstructural integrity of crucial white-matter tracts for category fluency in elderly with cerebral small vessel disease.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
-
-\*Garg, A., Takashima, A., __Piai, V.__, Roelofs, A., & McQueen, J. *fMRI evidence for shared lemma representations in speech production and comprehension.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
-
-\*Cao, Y., Alday, P., & __Piai, V.__ *Do alpha and beta oscillations dissociate in context-driven spoken-word production?* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
-
-\*Roos, N., Takashima, A., & __Piai, V.__ *Functional neuroanatomy of context-driven word retrieval: across-session consistency in fMRI.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
-
-\*Jodzio, A. and \*Garg, A. (shared first authors), Verhagen, L., Roelofs, A., McQueen, J., Indefrey, P., & __Piai, V.__ *A TMS investigation of left middle-MTG involvement in lemma access in speech production and comprehension.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
-
-\*Ferreira, J., Roelofs, A., & __Piai, V.__ *The role of the basal ganglia in inflectional encoding: An fMRI study of producing the past tense.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
-
-\*Letter, C. and Sierpowska, J. (shared first authors), & __Piai, V.__ *Corpus callosum involvement in language ability after left-hemispheric stroke.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
-
-Mascelloni, M., Liegeois-Chauvel, C., __Piai, V.__, McMahon, K., & de Zubicaray, G. *Intracranial EEG evidence of semantic interference and phonological facilitation in spoken word production.* Annual Meeting of the Society for the Neurobiology of Language. Virtual. October, 2020.  
-
-\*Janssen, N., Roelofs, A., Mangnus, M., Sierpowska, J., Kessels, R. P. C., & Piai, V. *Speed of word finding depends on ventral tract integrity in primary progressive aphasia.* International Neuropsychological Society Virtual Event. July, 2020.  
-
-\*Camerino, I. L., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ *White-matter microstructural integrity in small vessel disease with category fluency impairment.* International Neuropsychological Society Virtual Event. July, 2020.  
-
-Severijnen, G., Bosker, H. R., __Piai, V.__, & McQueen, J. *The role of talker-specific prosody in predictive speech perception.* 26th Architectures and Mechanisms for Language Processing Conference. Potsdam, Germany. September, 2020.  
-
-\*Hustá, C., Zheng, X., Papoutsi, C., & __Piai, V.__ *Why we speak affects how we speak: Electrophysiological signatures of word planning following verbal versus nonverbal material.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
-
-\*Roos, N. M., Takashima, A., & __Piai, V.__ *Functional anatomy of context-driven word retrieval: across-session consistency in fMRI.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
-
-\*Cao, Y. & __Piai, V.__  *Do alpha and beta oscillations dissociate in context-driven spoken-word production?* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
-
-\*Wets, I., Janssen, N. & __Piai, V.__  *Semi-spontaneous language production in Dutch speaking people with primary progressive aphasia.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
-
-\*Garg, A., __Piai, V.__, Takashima, A., McQueen, J.M., & Roelofs, A. *Investigating the lemma using fMRI – Linking production and comprehension.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
-
-\*Camerino, I. L., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ *White-matter microstructural integrity in small vessel disease with category fluency impairment.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
-
-\*Ferreira, J., Roelofs, A., & __Piai, V.__ *The role of the basal ganglia in inflectional encoding: An fMRI study of producing the past tense.* International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
-
-Sierpowska, J., Janssen, N., Kessels, R. P. C., Roelofs, A., & __Piai, V.__ _Lexical selection in word production and the white-matter system of the (pre)supplementary motor area_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2020.  
-
-__Piai, V.__, Dahlslätt, K., Verdonck-de Leeuw, I., Prins, J., Takes, R., NET-QUBIC Consortium, & Kessels, R. _Cognitive and speech functioning in HNC: baseline prevalence and possible causes_. Meeting of the International Cognition and Cancer Task Force. Denver, USA. February, 2020.  
-  
-`2019`  
-\*Ferreira, J., Roelofs, A., & __Piai, V.__ _The role of inhibition in inflectional encoding: Producing the past tense_. 25th Annual Conference on Architectures and Mechanisms for Language Processing. Moscow, Russia. September, 2019.  
-
-\*Janssen, N., Mangnus, M., Roelofs, A., Sierpowska, J., Kessels, R. P. C., & __Piai, V.__ _The role of the uncinate fasciculus and inferior longitudinal fasciculus in healthy and disordered language production_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
-
-\*Garg, A., __Piai, V.__, Takashima, A., McQueen, J.M., & Roelofs, _A. Linking production and comprehension – Investigating the lexical interface_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
-
-Vos, S., Kessels, R. P. C., & __Piai, V.__ _The effect of deep brain stimulation of the subthalamic nucleus on language processing in Parkinson’s Disease: a review_. 7th Scientific Meeting of the Federation of the European Societies of Neuropsychology. Milan, Italy, September 2019.  
-
-\*Garg, A., __Piai, V.__, Takashima, A., McQueen, J.M., & Roelofs, A. _Linking production and comprehension – Investigating the lexical interface_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
-
-\*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ _White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
-
-\*Dewenter, A. F., Sierpowska, J., Kessels, R. P. C., & __Piai, V.__ _Investigating the semantic control network and its structural decline in mild cognitive impairment and mild dementia_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
-
-Sierpowska, J., Janssen, N., Kessels, R. P. C., Roelofs, A., & __Piai, V.__ _The frontal aslant white matter tract (FAT) and semantic selection in word production_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
-
-\*Mangnus, M., Roelofs, A., Sierpowska, J., Kessels, R. P. C., __Piai, V.__, & Janssen, N. _The role of ventral fiber pathways in healthy and disordered language production_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
-
-\*Ferreira, J., Roelofs, A., & __Piai, V.__ _The role of inhibition in inflectional encoding: Producing the past tense_. Eleventh Annual Meeting of the Society for the Neurobiology of Language. Helsinki, Finland. August, 2019.  
-
-\*Abrahamse, R., Beynon, A. J., & __Piai, V.__ _Auditory discrimination in prelingually deaf early implanted cochlear implant users: an ERP study_. XXVIth Biennial Symposium of the International Evoked Response Audiometry Study Group (IERASG). Sydney, Australia. June, 2019.  
-
-\*Todorova, L., Neville, D., Knight, R.T., & __Piai, V.__ _Lexical-semantic and executive deficits revealed by computational modelling: a drift diffusion model perspective_. 26th Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2019.  
-
-`2018`  
-\*Garg, A., __Piai, V.__, McQueen, J.M., & Roelofs, A. _The perception-production interface: Insights from cumulative semantic effects_. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
-
-\*Camerino, I. L., Meyer, N. H., Sierpowska, J. M., Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ _Role of white matter lesions in cerebral small vessel disease: A voxel-based lesion symptom mapping study of language production_. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
-
-Rossetto, E., Klaus, J., & __Piai, V.__ _The lexical nature of alpha-beta desynchronisation in context-driven word production_. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
-
-Klaus, J., Schutter, D., & __Piai, V.__ _Oscillatory brain responses in language production following transient disruption of the left middle temporal gyrus: A cTBS-EEG study_. 10th International Workshop on Language Production. Nijmegen, the Netherlands. July, 2018.  
-
-\*Roos, N. & __Piai, V.__ _Context-dependent language processing: towards a clinical tool_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
-
-\*Camerino, I. L., Meyer, N. H., Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ _Role of white matter hyperintensity at specific locations in cerebral small vessel disease: A voxel-based lesion symptom mapping study_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
-
-\*Abrahamse, S., A., Langereis, M., Vermeulen, A., Beynon, A., & __Piai, V.__ _P300 versus MMN: The clinical potential of ERPs to assess auditory discrimination abilities_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
-
-\*Ferreira, J., Roelofs, A., & __Piai, V.__ _Role of basal ganglia in producing inflections_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
-
-\*Garg, A., __Piai, V.__, McQueen, J.M., & Roelofs, A. _The perception-production interface: Insights from cumulative semantic effects_. International Max Planck Research School for the Language Sciences Conference. Nijmegen, the Netherlands. June, 2018.  
-
-Jongman, S. R., __Piai, V.__, & Meyer, A. S. _Withholding speech: does the EEG signal reflect planning for production or attention?_ 31st Annual CUNY Conference on Human Sentence Processing. Davis, USA. March, 2018.  
 
 ## Supervision
 
