@@ -131,7 +131,7 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `2023`  
-\*Camerino, I. and \*Ferreira, J., Vonk, J. M., Kessels, R. P. C., de Leeuw, F.-E., Roelofs, A., Copland, D., & __Piai, V.__ (2023). Systematic review and meta-analyses of word production abilities in dysfunction of the basal ganglia: Stroke, small vessel disease, Parkinson’s disease, and Huntington’s disease. _Neuropsychology Review_. doi:[10.1007/s11065-022-09570-3](https://doi.org/10.1007/s11065-022-09570-3) <a href="https://osf.io/z9k6s/"><i class="ai ai-osf"></i> Open data</a>  
+\*Camerino, I. and \*Ferreira, J. (shared first authors), Vonk, J. M., Kessels, R. P. C., de Leeuw, F.-E., Roelofs, A., Copland, D., & __Piai, V.__ (2023). Systematic review and meta-analyses of word production abilities in dysfunction of the basal ganglia: Stroke, small vessel disease, Parkinson’s disease, and Huntington’s disease. _Neuropsychology Review_. doi:[10.1007/s11065-022-09570-3](https://doi.org/10.1007/s11065-022-09570-3) <a href="https://osf.io/z9k6s/"><i class="ai ai-osf"></i> Open data</a>  
 
 \*Roos, N. M., Takashima, A., & __Piai, V.__ (2023). Functional neuroanatomy of lexical access in contextually and visually guided spoken word production. _Cortex, 159_, 254–267. doi:[10.1016/j.cortex.2022.10.014](https://doi.org/10.1016/j.cortex.2022.10.014) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2022.00017_730">Open data</a>  
 
@@ -158,7 +158,7 @@ Pruijssen, J. T., Wenmakers, A., Kessels, R. P. C., __Piai, V.__, Meijer, F. J. 
 
 __Piai, V.__, Jansen, F., Dahlslätt, K., Verdonck‐de Leeuw, I. M., Prins, J., Leemans, R., Terhaard, C. H. J., Langendijk, J. A., Baatenburg de Jong, R. J., Smit, J. H., Takes, R., Kessels, R., & NET‐QUBIC Consortium. (2022). Prevalence of neurocognitive and perceived speech deficits in patients with head and neck cancer before treatment: Associations with demographic, behavioral, and disease‐related factors. _Head & Neck, 44_, 332-344. doi:[10.1002/hed.26930](https://doi.org/10.1002/hed.26930)  
 
-Hendriks, M. & van Ginkel, W. (shared first authors), Dijkstra, T., & __Piai, V.__ (2022). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience, 34 (2)_, 209–223. doi:[10.1162/jocn_a_01798](https://doi.org/10.1162/jocn_a_01798) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00052_114">Open data</a>  
+Hendriks, M. and van Ginkel, W. (shared first authors), Dijkstra, T., & __Piai, V.__ (2022). Dropping beans or spilling secrets: How idiomatic context bias affects prediction. _Journal of Cognitive Neuroscience, 34 (2)_, 209–223. doi:[10.1162/jocn_a_01798](https://doi.org/10.1162/jocn_a_01798) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2017.00052_114">Open data</a>  
 
 \*Janssen, N., Roelofs, A., van den Berg, E., Eikelboom, W. S., Holleman, M. A., in de Braek, D. M. J. M., Piguet, O., __Piai, V.__, & Kessels, R. P. C. (2022). The diagnostic value of language screening in Primary Progressive Aphasia: Validation and application of the Sydney Language Battery. _Journal of Speech, Language, and Hearing Research, 65_, 200-214. doi:[10.1044/2021_JSLHR-21-00024](https://doi.org/10.1044/2021_JSLHR-21-00024)  
 
