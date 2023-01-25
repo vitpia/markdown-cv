@@ -95,14 +95,20 @@ Dutch University Teaching Qualification (BKO)
 <br/>
 <br/>
 ### Co-Investigator
+`2022-2024`
+**Small Projects for NWA routes**, *Netherlands Organisation for Scientific Research (NWO)*, "Dynamic Assessment of Everyday Communication using Virtual Reality: proof of concept for persons with aphasia (DCOM-VR), main applicant dr. M. Ruiter  
+
+`2021-2025`
+**PhDs in Humanities 2021**, *Netherlands Organisation for Scientific Research (NWO)*, "Putting discourse particles in context: How people with acquired communication disorders use discourse particles", main applicant: prof. H. de Hoop, PhD candidate: Imke Wets, MA  
+
 `2020-2024`
-**Discovery Project**, *Australian Research Council*, "How the brain produces speech: Neuronal oscillations to neuromodulation"  
+**Discovery Project**, *Australian Research Council*, "How the brain produces speech: Neuronal oscillations to neuromodulation", main applicant: prof. de Zubicaray  
 
 `2016–2020`
-**Internal PhD-grant round**, *Radboud University, Donders Centre for Cognition*, “The lexical interface in the brain” (€ 234,000)	
+**Internal PhD-grant round**, *Radboud University, Donders Centre for Cognition*, “The lexical interface in the brain”, main applicants: prof. A. Roelofs, prof. J. McQueen (€ 234,000)	
 
 `2016`
-**Internal Utilisation Grant Round**, *Language in Interaction Consortium*, “SimpTell, an application for the training of elliptical language production style by patients with chronic Broca’s aphasia” (€ 25,000)
+**Internal Utilisation Grant Round**, *Language in Interaction Consortium*, “SimpTell, an application for the training of elliptical language production style by patients with chronic Broca’s aphasia”, main applicants: prof. A. Roelofs, dr. M. Ruiter (€ 25,000)
 
 
 ## Awards and Prizes
@@ -590,7 +596,8 @@ Jim Herring |
 Xiaochen Zheng | 
 Greta Kaufeld | 
 Kristijan Armeni | 
-Karen Dijkstra  
+Karen Dijkstra | 
+Federica Bartolozzi
 
 _Other universities_  
 Guilia Krethlow, University of Geneva
@@ -605,11 +612,11 @@ See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile f
 BMC Psychology; Brain; Brain and Development; Brain and Language; Brain Topography; Cerebral Cortex; Cognition; Collabra; Cortex; Emotion; Frontiers in Human Neuroscience; Frontiers in Language Sciences; Human Brain Mapping; Journal of Cognitive Neuroscience; Journal of Experiment Psychology: General; Journal of Experimental Psychology: Human Perception and Performance; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of the International Neuropsychological Society; Journal of Neurolinguistics; Journal of Neuroscience; Language and Speech; Language, Cognition and Neuroscience; Nature Communications; NeuroImage; Neuropsychologia; PLoS ONE; Proceedings of the National Academy of Sciences; Psychonomic Bulletin & Review; Quarterly Journal of Experimental Psychology
 
 ### Guest lectures
-`2021-2022`
+`2021, 2022`
 The role of the psychologist in awake brain mapping. Lectures organised by Vakdispuut Brainwave. _Utrecht University, the Netherlands_  
 `2020-present`
 Language testing during awake brain surgery (and beyond). _University of Groningen, the Netherlands_  
-`2019`
+`2019, 2022`
 Producing words: The eletrophysiology of memory and motor aspects of speaking. _University of Sao Paulo, Brazil_  
 
 ## Organisation
