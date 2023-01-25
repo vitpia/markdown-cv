@@ -96,7 +96,7 @@ Dutch University Teaching Qualification (BKO)
 <br/>
 ### Co-Investigator
 `2022-2024`
-**Small Projects for NWA routes**, *Netherlands Organisation for Scientific Research (NWO)*, "Dynamic Assessment of Everyday Communication using Virtual Reality: proof of concept for persons with aphasia (DCOM-VR), main applicant dr. M. Ruiter  
+**Small Projects for NWA routes**, *Netherlands Organisation for Scientific Research (NWO)*, "Dynamic Assessment of Everyday Communication using Virtual Reality: proof of concept for persons with aphasia (DCOM-VR)", main applicant: dr. M. Ruiter  
 
 `2021-2025`
 **PhDs in Humanities 2021**, *Netherlands Organisation for Scientific Research (NWO)*, "Putting discourse particles in context: How people with acquired communication disorders use discourse particles", main applicant: prof. H. de Hoop, PhD candidate: Imke Wets, MA  
@@ -130,6 +130,11 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 *Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of published papers available through my [website](https://vitoriapiai.science/publication/)*
 
 ### Journal Articles
+`2023`  
+Camerino, I. and Ferreira, J., Vonk, J. M., Kessels, R. P. C., de Leeuw, F.-E., Roelofs, A., Copland, D., & __Piai, V.__ (2023). Systematic review and meta-analyses of word production abilities in dysfunction of the basal ganglia: Stroke, small vessel disease, Parkinson’s disease, and Huntington’s disease. _Neuropsychology Review_. doi:[10.1007/s11065-022-09570-3](https://doi.org/10.1007/s11065-022-09570-3) <a href="https://osf.io/z9k6s/"><i class="ai ai-osf"></i> Open data</a>  
+
+Roos, N. M., Takashima, A., & __Piai, V.__ (2023). Functional neuroanatomy of lexical access in contextually and visually guided spoken word production. _Cortex, 159_, 254–267. doi:[10.1016/j.cortex.2022.10.014](https://doi.org/10.1016/j.cortex.2022.10.014) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="[https://doi.org/10.34973/72sn-vb83](https://doi.org/10.34973/72sn-vb83)">Open data</a>  
+
 `2022`  
 \*Chupina, I., Sierpowska, J., Zheng, X. Y., Dewenter, A., Piastra, M., & __Piai, V.__ (2022). Time course of right‐hemisphere recruitment during word production following left‐hemisphere damage: A single case of young stroke. _European Journal of Neuroscience_. doi:[10.1111/ejn.15813](https://doi.org/10.1111/ejn.15813)  
 
@@ -384,9 +389,6 @@ Sierpowska, J., Rofes, A., Mandonnet, E., ter Laan, M., & __Piai, V.__ _The AFTE
 
 __Piai, V.__ _Reconfiguration of the language network after brain damage_. Symposium “Cognitive Networks: Trends in Multimodal Approaches and Connectomics” at the 26th Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2019.    
 
-`2018`  
-\*Garg, A., __Piai, V.__, McQueen, J., & Roelofs, A. _The perception-production interface: Insights from cumulative semantic effects_. 26th Annual Conference on Architectures and Mechanisms for Language Processing. Hyderabad, India. February, 2018.   
-
 ## Supervision
 
 ### Postdoctoral researchers
@@ -630,4 +632,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: October 2022<br/><br/>
+<br/>Last updated: January 2023<br/><br/>
