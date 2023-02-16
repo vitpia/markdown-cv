@@ -547,7 +547,7 @@ Lecturer for “Applied Research Methods in Brain Studies”
 
 
 ### Radio and podcast
-[BNR nieuwsradio](https://neurosciencenews.com/language-connectivity-evolution-20959/) | 
+[BNR nieuwsradio](https://archive.is/nijD0) | 
 [Mindtrace Podcast: The SCIENCE of language](http://archive.is/wip/NENfJ) | 
 Science Today on CBS Radio News  
 
