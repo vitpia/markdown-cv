@@ -131,6 +131,10 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `2023`  
+\*Weterings, R., Kessels, R.P.C., de Leeuw, F.-E., & __Piai, V.__ (2023). Cognitive impairment after a stroke in young adults: a systematic review and meta-analysis. _International Journal of Stroke_. doi:[10.1177/17474930231159267](https://doi.org/10.1177/17474930231159267) <a href="https://osf.io/u236c/?view_only=2acb53b4ed0149da9d22d45281ce030c"><i class="ai ai-osf"></i> Open data</a>  
+
+\*Jodzio, A., __Piai, V.__, Verhagen, L., Cameron, I., & Indefrey, P. (2023). Validity of chronometric TMS for probing the time-course of word production: a modified replication. _Cerebral Cortex_.  
+
 \*Camerino, I. and \*Ferreira, J. (shared first authors), Vonk, J. M., Kessels, R. P. C., de Leeuw, F.-E., Roelofs, A., Copland, D., & __Piai, V.__ (2023). Systematic review and meta-analyses of word production abilities in dysfunction of the basal ganglia: Stroke, small vessel disease, Parkinson’s disease, and Huntington’s disease. _Neuropsychology Review_. doi:[10.1007/s11065-022-09570-3](https://doi.org/10.1007/s11065-022-09570-3) <a href="https://osf.io/z9k6s/"><i class="ai ai-osf"></i> Open data</a>  
 
 \*Roos, N. M., Takashima, A., & __Piai, V.__ (2023). Functional neuroanatomy of lexical access in contextually and visually guided spoken word production. _Cortex, 159_, 254–267. doi:[10.1016/j.cortex.2022.10.014](https://doi.org/10.1016/j.cortex.2022.10.014) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2022.00017_730">Open data</a>  
@@ -632,4 +636,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: January 2023<br/><br/>
+<br/>Last updated: March 2023<br/><br/>
