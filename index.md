@@ -135,7 +135,7 @@ __Piai, V.__, & Eikelboom, D. (2023). Brain Areas Critical for Picture Naming: A
 
 \*Ferreira, J., Roelofs, A., & __Piai, V.__ An fMRI study of inflectional encoding in spoken word production: Role of domain-general inhibition. _Neuropsychologia_, _188_, 108653. doi: [10.1016/j.neuropsychologia.2023.108653](https://doi.org/10.1016/j.neuropsychologia.2023.108653) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://doi.org/10.34973/ezs5-ca49">Open data</a>  
 
-\*Weterings, R., Kessels, R.P.C., de Leeuw, F.-E., & __Piai, V.__ (2023). Cognitive impairment after a stroke in young adults: a systematic review and meta-analysis. _International Journal of Stroke_. doi:[10.1177/17474930231159267](https://doi.org/10.1177/17474930231159267) <a href="https://osf.io/u236c/?view_only=2acb53b4ed0149da9d22d45281ce030c"><i class="ai ai-osf"></i> Open data</a>  
+\*Weterings, R., Kessels, R.P.C., de Leeuw, F.-E., & __Piai, V.__ (2023). Cognitive impairment after a stroke in young adults: a systematic review and meta-analysis. _International Journal of Stroke, 18(8)_, 888-897. doi:[10.1177/17474930231159267](https://doi.org/10.1177/17474930231159267) <a href="https://osf.io/u236c/?view_only=2acb53b4ed0149da9d22d45281ce030c"><i class="ai ai-osf"></i> Open data</a>  
 
 \*Jodzio, A., __Piai, V.__, Verhagen, L., Cameron, I., & Indefrey, P. (2023). Validity of chronometric TMS for probing the time-course of word production: a modified replication. _Cerebral Cortex, 33(12)_, 7816-7829.  
 
@@ -423,16 +423,14 @@ Yang Cao, _Radboud University_
 Sümeyye Sezer, with dr. Mark ter Laan, _Radboud University_  
 
 `2018-present`
-Matteo Mascelloni, with prof. Greig de Zubicaray, _Queensland University of Technology_, Australia  
 Adrian Jodzio, with prof. Peter Indefrey, _Radboud University_  
-
-`2017-present`
-João Ferreira, with prof. Ardi Roelofs, _Radboud University_  
 
 `2016-present`
 Arushi Garg, with prof. Ardi Roelofs and prof. James McQueen, _Radboud University_
 
 `Graduated`
+Matteo Mascelloni, with prof. Greig de Zubicaray, _Queensland University of Technology_, Australia, 2023  
+João Ferreira, with prof. Ardi Roelofs,  _Radboud University_, 2023  
 Ileana Camerino, _Radboud University_, 2022  
 Nikki Janssen, with prof. Ardi Roelofs and prof. Roy Kessels, _Radboud University_, 2020  
 Lara Todorova, with dr. David Neville, _Radboud University_, 2020  
@@ -640,4 +638,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: March 2023<br/><br/>
+<br/>Last partly updated: December 2023<br/><br/>
