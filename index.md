@@ -131,9 +131,13 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `2023`  
+__Piai, V.__, & Eikelboom, D. (2023). Brain Areas Critical for Picture Naming: A Systematic Review and Meta-Analysis of Lesion-Symptom Mapping Studies. _Neurobiology of Language, 4(2)_, 280–296. doi: [10.1162/nol_a_00097](https://doi.org/10.1162/nol_a_00097) <a href="https://osf.io/8xtp9/"><i class="ai ai-osf"></i> Open data</a>  
+
+\*Ferreira, J., Roelofs, A., & __Piai, V.__ An fMRI study of inflectional encoding in spoken word production: Role of domain-general inhibition. _Neuropsychologia_, _188_, 108653. doi: [10.1016/j.neuropsychologia.2023.108653](https://doi.org/10.1016/j.neuropsychologia.2023.108653) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://doi.org/10.34973/ezs5-ca49">Open data</a>  
+
 \*Weterings, R., Kessels, R.P.C., de Leeuw, F.-E., & __Piai, V.__ (2023). Cognitive impairment after a stroke in young adults: a systematic review and meta-analysis. _International Journal of Stroke_. doi:[10.1177/17474930231159267](https://doi.org/10.1177/17474930231159267) <a href="https://osf.io/u236c/?view_only=2acb53b4ed0149da9d22d45281ce030c"><i class="ai ai-osf"></i> Open data</a>  
 
-\*Jodzio, A., __Piai, V.__, Verhagen, L., Cameron, I., & Indefrey, P. (2023). Validity of chronometric TMS for probing the time-course of word production: a modified replication. _Cerebral Cortex_.  
+\*Jodzio, A., __Piai, V.__, Verhagen, L., Cameron, I., & Indefrey, P. (2023). Validity of chronometric TMS for probing the time-course of word production: a modified replication. _Cerebral Cortex, 33(12)_, 7816-7829.  
 
 \*Camerino, I. and \*Ferreira, J. (shared first authors), Vonk, J. M., Kessels, R. P. C., de Leeuw, F.-E., Roelofs, A., Copland, D., & __Piai, V.__ (2023). Systematic review and meta-analyses of word production abilities in dysfunction of the basal ganglia: Stroke, small vessel disease, Parkinson’s disease, and Huntington’s disease. _Neuropsychology Review_. doi:[10.1007/s11065-022-09570-3](https://doi.org/10.1007/s11065-022-09570-3) <a href="https://osf.io/z9k6s/"><i class="ai ai-osf"></i> Open data</a>  
 
