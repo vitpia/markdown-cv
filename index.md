@@ -319,7 +319,7 @@ __“TeleTaal”__, a telephone-based language assessment battery to assess pati
 
 ## Keynote Talks
 `2023`
-__Lexical selection, control, and the role of brain-based measures__. Science of Aphasia, Nice, France. September, 2023.  
+__Lexical selection, control, and the role of brain-based measures__. Science of Aphasia, Nice, France. September, 2023.  
 
 __Production is (not) comprehension (and what can the brain tell us about that?)__. Architectures and Mechanisms for Language Processing, San Sebastian, Spain. August, 2023.  
 
@@ -447,8 +447,11 @@ _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme
 __Main supervision: thesis__  
 _Co-supervision (by graduate students or post-docs in my group) is indicated_    
 <br/>
+`2023-2024`
+Adán Gracia-Gonzalez, _Radboud University_ | Xiangjie Zhang, _Radboud University_ | Elizaveta Vilenchik, _Radboud University_ 
+
 `2022-2023`
-Adán Gracia-Gonzalez, _Radboud University_ | Kai Koster, _Radboud University_ | Kirstin Bleumink, _Radboud University_ | Yunzhi Luo, _Radboud University_ | Jiachen Yao, _Radboud University_ (with dr. Ashley Lewis)  
+Kai Koster, _Radboud University_ | Kirstin Bleumink, _Radboud University_ | Yunzhi Luo, _Radboud University_ | Jiachen Yao, _Radboud University_ (with dr. Ashley Lewis)  
 
 `2021-2022`
 Nikita Boers, _Radboud University_ (with Natascha Roos) | Nora Kennis, _Radboud University_ (with dr. Xiaochen Zheng and dr. Angela de Bruin) | Owen Kapelle, _University of Groningen_ (with dr. Rinus Verdonschot)  
@@ -596,6 +599,7 @@ Team member for De Jonge Akademie on Wheels, _Openbaar Zeister Lyceum, Zeist_
 ## Professional Activities
 ### Doctoral Examination Board
 `2019-present`
+Jill Kries, _KU Leuven, Belgium_  
 Mansoureh Fahimi Hnazaee, _KU Leuven, Belgium_  
 Amie Fairs, _Radboud University, Nijmegen_  
 Ana Murteira, _Macquarie University, Sydney, Australia_
