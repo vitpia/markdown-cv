@@ -317,11 +317,17 @@ __"Quest"__, for Quick ESTimation of language functioning in Dutch *(with Adrià
 __“TeleTaal”__, a telephone-based language assessment battery to assess patients with mild language disorders _(Co-developer, with Djaina Satoer and Elke De Witte)_  
 
 
+## Keynote Talks
+`2023`
+__Lexical selection, control, and the role of brain-based measures__. Science of Aphasia, Nice, France. September, 2023.  
 
-## Invited Talks
+__Production is (not) comprehension (and what can the brain tell us about that?)__. Architectures and Mechanisms for Language Processing, San Sebastian, Spain. August, 2023.  
+
 `2022`
 __The neural basis of language production as we speak__. Science of Aphasia, Bordeaux, France. September, 2022.  
 
+
+## Invited Talks
 __Speaking: evidence from electrophysiology and brain lesions__. Special interest lecture at Donders MEG/EEG Toolkit, Radboud University, Nijmegen, the Netherlands. April, 2022.  
 
 `2021`
