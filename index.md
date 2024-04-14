@@ -5,7 +5,6 @@ title: Vitória Piai's CV
 # Vitória Piai    
 <br/>
 Associate Professor & Principal Investigator, Radboud University, Donders Centre for Cognition   
-Junior Principal Investigator, Radboud University Medical Center, Donders Centre for Medical Neuroscience
 
 Donders Institute for Brain, Cognition and Behaviour  
 Thomas van Aquinostraat 4  
@@ -387,26 +386,11 @@ __Where language production meets memory (or how)__. Center for Mind and Brain, 
 __The N450 in picture-word interference tasks__. Donders Discussion. Nijmegen, the Netherlands. October, 2011.  
 
 __Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrecht, the Netherlands. September, 2009.  
-
-## Conference Presentations
-_Oral presentations only in the past 5 years. Asterisks indicate (PhD or undergraduate) student lead authors._  
-<br/>
-`2022`  
-\*Kennis, N., Zheng, X., de Bruin, A., & __Piai, V.__ _The electrophysiology of voluntary and cued language switching​: Evidence from event related potentials and neuronal oscillations_. IMPRS conference 2022. Nijmegen, the Netherlands. June, 2022.  
-
-`2019`  
-\*Camerino, I. L., Sierpowska, J., Meyer, N. H.,  Tuladhar, A. M., Reid, A. T., Kessels, R. P. C., de Leeuw, F.-E., & __Piai, V.__ _White-matter bottleneck in small vessel disease: A lesion-symptom mapping study of executive-language functions_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
-
-Sierpowska, J., Bryant, K., Römkens, M., Mangnus, M., Janssen, N., Kessels, R., Roelofs, A., Mars, R., & __Piai, V.__ _The functional neuroanatomy of the left temporal lobe white matter – an interdisciplinary approach based on intraoperative and comparative studies_. 20th International Science of Aphasia Conference. Rome, Italy. September, 2019.  
-
-Sierpowska, J., Rofes, A., Mandonnet, E., ter Laan, M., & __Piai, V.__ _The AFTERCARE survey - The assessment and intervention survey for professionals working with individuals after brain surgery_. 14th European Low Grade Glioma Network Meeting. London, UK. June, 2019.  
-
-__Piai, V.__ _Reconfiguration of the language network after brain damage_. Symposium “Cognitive Networks: Trends in Multimodal Approaches and Connectomics” at the 26th Annual Meeting of the Cognitive Neuroscience Society. San Francisco, USA. March, 2019.    
-
+    
 ## Supervision
 
 ### Postdoctoral researchers
-`2022-present`
+`2022-2023`
 Britta Westner, _Radboud University_  
 
 `2018-2021`
@@ -448,7 +432,7 @@ __Main supervision: thesis__
 _Co-supervision (by graduate students or post-docs in my group) is indicated_    
 <br/>
 `2023-2024`
-Adán Gracia-Gonzalez, _Radboud University_ | Xiangjie Zhang, _Radboud University_ | Elizaveta Vilenchik, _Radboud University_ 
+Adán Gracia-Gonzalez, _Radboud University_ | Xiangjie Zhang, _Radboud University_ | Elizaveta Vilenchik, _Radboud University_ | Carleen Peetoom, _Radboud University_ | Sophie Reeders, _Radboud University_ 
 
 `2022-2023`
 Kai Koster, _Radboud University_ | Kirstin Bleumink, _Radboud University_ | Yunzhi Luo, _Radboud University_ | Jiachen Yao, _Radboud University_ (with dr. Ashley Lewis)  
@@ -542,7 +526,7 @@ Fleur Hartskeerl, *Radboud University*
 ## Teaching
 _Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
 `2017-present`
-Coordinator for "Neurobiology of Language" (2020-present); Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-present), "Neurobiology of Language" (2019-present)  
+Coordinator and Lecturer for "Neurobiology of Language" (2019-present); Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-present)  
 
 _Bachelor’s Programme in Psychology, Radboud University_  
 `2017-present`
@@ -599,6 +583,7 @@ Team member for De Jonge Akademie on Wheels, _Openbaar Zeister Lyceum, Zeist_
 ## Professional Activities
 ### Doctoral Examination Board
 `2019-present`
+Saskia Mooijman, _Radboud University, Nijmegen_  
 Jill Kries, _KU Leuven, Belgium_  
 Mansoureh Fahimi Hnazaee, _KU Leuven, Belgium_  
 Amie Fairs, _Radboud University, Nijmegen_  
@@ -634,7 +619,7 @@ BMC Psychology; Brain; Brain and Development; Brain and Language; Brain Topograp
 The role of the psychologist in awake brain mapping. Lectures organised by Vakdispuut Brainwave. _Utrecht University, the Netherlands_  
 `2020-present`
 Language testing during awake brain surgery (and beyond). _University of Groningen, the Netherlands_  
-`2019, 2022`
+`2019, 2022, 2024`
 Producing words: The eletrophysiology of memory and motor aspects of speaking. _University of Sao Paulo, Brazil_  
 
 ## Organisation
@@ -648,4 +633,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last partly updated: December 2023<br/><br/>
+<br/>Last partly updated: April 2024<br/><br/>
