@@ -327,6 +327,20 @@ __The neural basis of language production as we speak__. Science of Aphasia, Bor
 
 
 ## Invited Talks
+`2023`
+__Memory retrieval for spoken word production and its lateralisation__. Talk at symposium _New insights in the neurophysiology of language_, 18th European Congress of Clinical Neurophysiology, Marseille, France. May, 2023.  
+
+__The neural basis of language production as we speak__. City University of Hong Kong. June, 2023.  
+
+__Neural basis of language production as we speak: Lessons from lesion models and electrophysiology__. Katholieke Universiteit Leuven, Belgium. June, 2023.  
+
+__Picture naming to study word production: some steps further (and some methodological hurdles)__. Université de Genève, Switzerland. October, 2023.  
+
+__The neural basis of language production as we speak__. Université de Lille, France. November, 2023.  
+
+__What has 150+ years of language mapping given us?__ Talk at symposium _Explaining the brain: From neural mechanisms to computational models_, Dutch Society for Psychonomics, the Netherlands. December, 2023.  
+
+`2022`
 __Speaking: evidence from electrophysiology and brain lesions__. Special interest lecture at Donders MEG/EEG Toolkit, Radboud University, Nijmegen, the Netherlands. April, 2022.  
 
 `2021`
