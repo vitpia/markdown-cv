@@ -315,8 +315,8 @@ __“Syntest”__, a Dutch test for the comprehension of (complex) syntactic str
 __"Quest"__, for Quick ESTimation of language functioning in Dutch *(with Adrià Rofes)*  
 __“TeleTaal”__, a telephone-based language assessment battery to assess patients with mild language disorders _(Co-developer, with Djaina Satoer and Elke De Witte)_  
 
-
-## Keynote Talks
+## Invited Presentations
+### Keynote Talks
 `2023`
 __Lexical selection, control, and the role of brain-based measures__. Science of Aphasia, Nice, France. September, 2023.  
 
@@ -325,11 +325,25 @@ __Production is (not) comprehension (and what can the brain tell us about that?)
 `2022`
 __The neural basis of language production as we speak__. Science of Aphasia, Bordeaux, France. September, 2022.  
 
+`2020`
+__Neurale processen tijdens het spreken__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.  
 
-## Invited Talks
+`2019`
+__Context effects in language production examined with electrophysiology__. International Symposium on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
+
+`2017`
+__Taalverwerking in relatie tot geheugen: Van fundamenteel onderzoek naar klinische toepassing__. Afasieconferentie "State of the Art 2017". Zeist, the Netherlands. October, 2017.  
+
+
+## Symposium Talks
 `2023`
 __Memory retrieval for spoken word production and its lateralisation__. Talk at symposium _New insights in the neurophysiology of language_, 18th European Congress of Clinical Neurophysiology, Marseille, France. May, 2023.  
 
+__What has 150+ years of language mapping given us?__ Talk at symposium _Explaining the brain: From neural mechanisms to computational models_, Dutch Society for Psychonomics, the Netherlands. December, 2023.  
+
+
+## Invited Talks
+`2023`
 __The neural basis of language production as we speak__. City University of Hong Kong. June, 2023.  
 
 __Neural basis of language production as we speak: Lessons from lesion models and electrophysiology__. Katholieke Universiteit Leuven, Belgium. June, 2023.  
@@ -337,8 +351,6 @@ __Neural basis of language production as we speak: Lessons from lesion models an
 __Picture naming to study word production: some steps further (and some methodological hurdles)__. Université de Genève, Switzerland. October, 2023.  
 
 __The neural basis of language production as we speak__. Université de Lille, France. November, 2023.  
-
-__What has 150+ years of language mapping given us?__ Talk at symposium _Explaining the brain: From neural mechanisms to computational models_, Dutch Society for Psychonomics, the Netherlands. December, 2023.  
 
 `2022`
 __Speaking: evidence from electrophysiology and brain lesions__. Special interest lecture at Donders MEG/EEG Toolkit, Radboud University, Nijmegen, the Netherlands. April, 2022.  
@@ -355,14 +367,11 @@ __Conceptual and lexical retrieval in spoken word production__. IMPRS Conference
 
 __Memory and control in spoken word production: evidence from electrophysiology and brain lesions__. Institute of Cognitive Neuroscience, University College London. February, 2020.  
 
-__Neurale processen tijdens het spreken__. Werkverband Amsterdamse Psycholinguïsten Symposium. Amsterdam, the Netherlands. January, 2020.  
 
 `2019`
 __The effects of head and neck tumours on neurocognition before and after treatment__. Autumn Conference of the Dutch Workgroup for Head and Neck Tumours. Maastricht, the Netherlands. October, 2019.  
 
 __Interfering and facilitating contexts in spoken word production__. Brownbag Lab Seminars. University of Geneva, Switzerland. June, 2019.  
-
-__Context effects in language production examined with electrophysiology__. International Symposium on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
 
 __Comprehending and producing words: scalp and intracranial electrophysiology__. Satellite Seminar on Neurobiology of Language. Waseda University, Tokyo, Japan. February, 2019.  
 
@@ -376,10 +385,9 @@ __Key considerations for EEG and language studies__. School of Psychology and Cl
 __Oscillations in language research__. Summer Neurolinguistics School, National Research University Higher School of Economics, Moscow, Russia. May, 2018.  
 
 __Neuropsychologie en de Psychologie van Taal__. Nederlandse Vereniging voor Neuropsychologie Voorjaarsconferentie 2018. Utrecht, the Netherlands. April, 2018.  
+
 `2017`
 __Intracranial electrophysiology in language research__. National Research University, Higher School of Economics, Moscow, Russia. November, 2017.  
-
-__Taalverwerking in relatie tot geheugen: Van fundamenteel onderzoek naar klinische toepassing__. Afasieconferentie "State of the Art 2017". Zeist, the Netherlands. October, 2017.  
 
 __Language production and acquired language disorders__. International Radboud Summer School, Introduction to Cognitive Neuroscience. Nijmegen, the Netherlands. August, 2017. 
 
