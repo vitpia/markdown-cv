@@ -341,6 +341,8 @@ __Memory retrieval for spoken word production and its lateralisation__. Talk at 
 
 __What has 150+ years of language mapping given us?__ Talk at symposium _Explaining the brain: From neural mechanisms to computational models_, Dutch Society for Psychonomics, the Netherlands. December, 2023.  
 
+`2019`
+__Reconfiguration of the language network__ Talk at symposium _Cognitive Networks: Trends in Multimodal Approaches and Connectomics_, 26th Cognitive Neuroscience Society annual meeting, San Francisco, USA. March, 2019.    
 
 ## Invited Talks
 `2023`
