@@ -336,15 +336,21 @@ __Taalverwerking in relatie tot geheugen: Van fundamenteel onderzoek naar klinis
 
 
 ## Symposium Talks
-`2023`
-__Memory retrieval for spoken word production and its lateralisation__. Talk at symposium _New insights in the neurophysiology of language_, 18th European Congress of Clinical Neurophysiology, Marseille, France. May, 2023.  
+`2024`
+__Language and/or memory: How to slice the domain-cake?__ Symposium organisation and talk. 42nd European Workshop on Cognitive Neuropsychology, Italy. January, 2024.  
 
+`2023`
 __What has 150+ years of language mapping given us?__ Talk at symposium _Explaining the brain: From neural mechanisms to computational models_, Dutch Society for Psychonomics, the Netherlands. December, 2023.  
+__Memory retrieval for spoken word production and its lateralisation__. Talk at symposium _New insights in the neurophysiology of language_, 18th European Congress of Clinical Neurophysiology, Marseille, France. May, 2023.  
 
 `2019`
 __Reconfiguration of the language network.__ Talk at symposium _Cognitive Networks: Trends in Multimodal Approaches and Connectomics_, 26th Cognitive Neuroscience Society annual meeting, San Francisco, USA. March, 2019.    
 
 ## Invited Talks
+`2024`
+__What in the brain does the speaking?__. C-STAR lecture series. March, 2024.  
+__The part of language that is memory__. Colloquium UC Irvine Language Science. January, 2024.  
+
 `2023`
 __The neural basis of language production as we speak__. City University of Hong Kong. June, 2023.  
 
