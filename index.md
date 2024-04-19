@@ -335,7 +335,7 @@ __Context effects in language production examined with electrophysiology__. Inte
 __Taalverwerking in relatie tot geheugen: Van fundamenteel onderzoek naar klinische toepassing__. Afasieconferentie "State of the Art 2017". Zeist, the Netherlands. October, 2017.  
 
 
-## Symposium Talks
+### Symposium Talks
 `2024`
 __Language and/or memory: How to slice the domain-cake?__ Symposium organisation and talk. 42nd European Workshop on Cognitive Neuropsychology, Italy. January, 2024.  
 
@@ -346,7 +346,7 @@ __Memory retrieval for spoken word production and its lateralisation__. Talk at 
 `2019`
 __Reconfiguration of the language network.__ Talk at symposium _Cognitive Networks: Trends in Multimodal Approaches and Connectomics_, 26th Cognitive Neuroscience Society annual meeting, San Francisco, USA. March, 2019.    
 
-## Invited Talks
+### Invited Talks
 `2024`
 __What in the brain does the speaking?__. C-STAR lecture series. March, 2024.  
 __The part of language that is memory__. Colloquium UC Irvine Language Science. January, 2024.  
