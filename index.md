@@ -432,6 +432,7 @@ Jana Klaus, _Radboud University_
 ### PhD Candidates
 `2022-present`
 Irina Chupina, _Radboud University_  
+Christina Papoutsi, with prof. Antje Meyer and dr. Elli Tourtouri, _Radboud University and Max Planck Institute for Psycholinguistics_  
 
 `2021-present`
 Rosemarije Weterings, _Radboud University_  
@@ -440,7 +441,7 @@ Imke Wets, with prof. Helen de Hoop, dr. Marina Ruiter and dr. Lotte Hogeweg, _R
 `2019-present`
 Natascha Roos, _Radboud University_  
 Yang Cao, _Radboud University_  
-Sümeyye Sezer, with dr. Mark ter Laan, _Radboud University_  
+Sümeyye Sezer, with dr. Mark ter Laan, _Radboudumc_  
 
 `2018-present`
 Adrian Jodzio, with prof. Peter Indefrey, _Radboud University_  
