@@ -126,9 +126,13 @@ __Top 10% of review contributions to field of Psychology__, _Publons_
 __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most promising female researchers across Radboud University
 
 ## Publications
-*Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of published papers available through my [website](https://vitoriapiai.science/publication/)*
+*Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of published papers available through my [website](https://vitoriapiai.science/publication/)*  
+I conceived of, co-authored, edit, and mantain [Speaking: The free book](https://bookdown.org/v_piai_research/speaking/), a freely available introductory book on the (neuro)psychology of language production.   
 
 ### Journal Articles
+`2024`  
+
+
 `2023`  
 __Piai, V.__, & Eikelboom, D. (2023). Brain Areas Critical for Picture Naming: A Systematic Review and Meta-Analysis of Lesion-Symptom Mapping Studies. _Neurobiology of Language, 4(2)_, 280–296. doi: [10.1162/nol_a_00097](https://doi.org/10.1162/nol_a_00097) <a href="https://osf.io/8xtp9/"><i class="ai ai-osf"></i> Open data</a>  
 
@@ -317,6 +321,9 @@ __“TeleTaal”__, a telephone-based language assessment battery to assess pati
 
 ## Invited Presentations
 ### Keynote Talks
+`2024`
+__Beyond bare picture naming__. International Workshop on Language Production, Marseille, France. June, 2024.  
+
 `2023`
 __Lexical selection, control, and the role of brain-based measures__. Science of Aphasia, Nice, France. September, 2023.  
 
@@ -462,8 +469,11 @@ _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme
 __Main supervision: thesis__  
 _Co-supervision (by graduate students or post-docs in my group) is indicated_    
 <br/>
+`2024-2025`
+Adán Gracia-Gonzalez, _Radboud University_ | Xirong Hu, _Radboud University_  
+
 `2023-2024`
-Adán Gracia-Gonzalez, _Radboud University_ | Xiangjie Zhang, _Radboud University_ | Elizaveta Vilenchik, _Radboud University_ | Carleen Peetoom, _Radboud University_ | Sophie Reeders, _Radboud University_ 
+Xiangjie Zhang, _Radboud University_ | Elizaveta Vilenchik, _Radboud University_ | Carleen Peetoom, _Radboud University_ | Sophie Reeders, _Radboud University_ 
 
 `2022-2023`
 Kai Koster, _Radboud University_ | Kirstin Bleumink, _Radboud University_ | Yunzhi Luo, _Radboud University_ | Jiachen Yao, _Radboud University_ (with dr. Ashley Lewis)  
@@ -631,10 +641,12 @@ Xiaochen Zheng |
 Greta Kaufeld | 
 Kristijan Armeni | 
 Karen Dijkstra | 
-Federica Bartolozzi
+Federica Bartolozzi | 
+Rowan Sommers  
 
 _Other universities_  
-Guilia Krethlow, University of Geneva
+Guilia Krethlow, University of Geneva  
+Julie Franco, University of Geneva  
 
 ### Recruiting Committees
 `2016-present`
