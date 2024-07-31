@@ -127,16 +127,21 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ## Publications
 *Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of published papers available through my [website](https://vitoriapiai.science/publication/)*  
-I conceived of, co-authored, edit, and mantain [Speaking: The free book](https://bookdown.org/v_piai_research/speaking/), a freely available introductory book on the (neuro)psychology of language production.   
 
 ### Journal Articles
 `2024`  
+\*Roos, N.M., Chauvet, J. & __Piai, V.__ (2024). The Concise Language Paradigm (CLaP), a framework for studying the intersection of comprehension and production: electrophysiological properties. _Brain Structure and Function_. doi: [10.1007/s00429-024-02801-8](https://doi.org/10.1007/s00429-024-02801-8) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://doi.org/10.34973/19gn-7v46">Open data</a>  
 
+\*Kennis, N., Zheng, X., de Bruin, A., __Piai, V.__ (in press). Is switching more costly in cued than voluntary language switching? Evidence from behaviour and electrophysiology. _Bilingualism: Language and Cognition_.  
+
+__Piai, V.__, Oostenveld, R., Schoffelen, J. M., & Piastra, M. C. (2024). The impact of CSF‐filled cavities on scalp EEG and its implications. _Psychophysiology_. doi: [10.1111/psyp.14624](https://doi.org/10.1111/psyp.14624) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://doi.org/10.34973/n21s-tq29">Open data</a>  
+
+Cui, N., __Piai, V.__, & Zheng, X. Y. (2024). Domain‐general cognitive control processes in bilingual switching: Evidence from midfrontal theta oscillations. _European Journal of Neuroscience_. doi: [10.1111/ejn.16466](https://doi.org/10.1111/ejn.16466)  
 
 `2023`  
 __Piai, V.__, & Eikelboom, D. (2023). Brain Areas Critical for Picture Naming: A Systematic Review and Meta-Analysis of Lesion-Symptom Mapping Studies. _Neurobiology of Language, 4(2)_, 280–296. doi: [10.1162/nol_a_00097](https://doi.org/10.1162/nol_a_00097) <a href="https://osf.io/8xtp9/"><i class="ai ai-osf"></i> Open data</a>  
 
-\*Ferreira, J., Roelofs, A., & __Piai, V.__ An fMRI study of inflectional encoding in spoken word production: Role of domain-general inhibition. _Neuropsychologia_, _188_, 108653. doi: [10.1016/j.neuropsychologia.2023.108653](https://doi.org/10.1016/j.neuropsychologia.2023.108653) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://doi.org/10.34973/ezs5-ca49">Open data</a>  
+\*Ferreira, J., Roelofs, A., & __Piai, V.__ (2023). An fMRI study of inflectional encoding in spoken word production: Role of domain-general inhibition. _Neuropsychologia_, _188_, 108653. doi: [10.1016/j.neuropsychologia.2023.108653](https://doi.org/10.1016/j.neuropsychologia.2023.108653) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://doi.org/10.34973/ezs5-ca49">Open data</a>  
 
 \*Weterings, R., Kessels, R.P.C., de Leeuw, F.-E., & __Piai, V.__ (2023). Cognitive impairment after a stroke in young adults: a systematic review and meta-analysis. _International Journal of Stroke, 18(8)_, 888-897. doi:[10.1177/17474930231159267](https://doi.org/10.1177/17474930231159267) <a href="https://osf.io/u236c/?view_only=2acb53b4ed0149da9d22d45281ce030c"><i class="ai ai-osf"></i> Open data</a>  
 
@@ -300,9 +305,11 @@ Roelofs, A., __Piai, V.__, & Garrido Rodriguez, G. (2011). Attentional inhibitio
 Roelofs, A., __Piai, V.__, & Schriefers, H. (2011). Selective attention and distractor frequency in naming performance: Comment on Dhooge and Hartsuiker (2010). _Journal of Experimental Psychology: Learning, Memory, and Cognition_, _37_, 1032-1038. doi: [10.1037/a0023328](https://doi.org/10.1037/a0023328)  
   
 ### Book chapters
-Satoer, D., & __Piai, V.__ (2022). Speech and Language. In R. Kessels, E. van den Berg, R. Ponds, J. Spikman & M. van Zandvoort (Eds.), _Clinical Neuropsychology_. Boom.  
+__Piai, V.__, & Garg, A. (2024). A concise overview of the spatial and temporal underpinnings of lexical selection in spoken word production. _Reference Module in Neuroscience and Biobehavioral Psychology_. doi: [10.1016/B978-0-12-820480-1.00123-6](https://doi.org/10.1016/B978-0-12-820480-1.00123-6)  
 
-__Piai, V.__, & Borges, P. (in press). The electrophysiology of language production. In R. Hartsuiker & K. Strijkers (Eds.), _Cognitive processes of language production_. Psychology Press.  
+__Piai, V.__, & Borges, P. (2023). The electrophysiology of language production. In R. Hartsuiker & K. Strijkers (Eds.), _Cognitive processes of language production_. Psychology Press.  
+
+Satoer, D., & __Piai, V.__ (2022). Speech and Language. In R. Kessels, E. van den Berg, R. Ponds, J. Spikman & M. van Zandvoort (Eds.), _Clinical Neuropsychology_. Boom.  
 
 __Piai, V.__, & Zheng, X. (2019). Speaking waves: neuronal oscillations in language production. _Psychology of Learning and Motivation_, _71_, 265-302. doi: [10.1016/bs.plm.2019.07.002](https://doi.org/10.1016/bs.plm.2019.07.002)  
 
@@ -565,6 +572,9 @@ Fleur Hartskeerl, *Radboud University*
 
 
 ## Teaching
+
+I conceived of, co-authored, edit, and mantain [Speaking: The free book](https://bookdown.org/v_piai_research/speaking/), a freely available introductory book on the (neuro)psychology of language production.   
+
 _Research Master’s Programme in Cognitive Neuroscience, Radboud University_  
 `2017-present`
 Coordinator and Lecturer for "Neurobiology of Language" (2019-present); Lecturer for “Cognitive Neuroscience of Memory” (2017-2018), “Trends in Cognitive Sciences” (2018-present)  
@@ -676,4 +686,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last partly updated: April 2024<br/><br/>
+<br/>Last updated: August 2024<br/><br/>
