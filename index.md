@@ -678,7 +678,7 @@ Producing words: The eletrophysiology of memory and motor aspects of speaking. _
 ## Organisation
 `2019-present`
 Tutor for FieldTrip Toolkit, _Nijmegen, the Netherlands_  
-`2016-present`
+`2016-2022`
 Research committee member, _Department of Medical Psychology, Radboudumc, Nijmegen_  
 `2012`
 Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherlands_  
