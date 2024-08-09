@@ -130,7 +130,7 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `2024`  
-\*Roos, N.M., Chauvet, J. & __Piai, V.__ (2024). The Concise Language Paradigm (CLaP), a framework for studying the intersection of comprehension and production: electrophysiological properties. _Brain Structure and Function_. doi: [10.1007/s00429-024-02801-8](https://doi.org/10.1007/s00429-024-02801-8) ![Donders Repository](https://data.donders.ru.nl/resources/images/favicons/favicon-16x16.png)<a href="https://doi.org/10.34973/19gn-7v46">Open data</a>  
+\*Roos, N.M., Chauvet, J. & __Piai, V.__ (2024). The Concise Language Paradigm (CLaP), a framework for studying the intersection of comprehension and production: electrophysiological properties. _Brain Structure and Function_. doi: [10.1007/s00429-024-02801-8](https://doi.org/10.1007/s00429-024-02801-8) <a href="https://doi.org/10.34973/19gn-7v46">Open data</a>  
 
 \*Kennis, N., Zheng, X., de Bruin, A., __Piai, V.__ (in press). Is switching more costly in cued than voluntary language switching? Evidence from behaviour and electrophysiology. _Bilingualism: Language and Cognition_.  
 
