@@ -310,7 +310,7 @@ Roelofs, A., __Piai, V.__, & Garrido Rodriguez, G. (2011). Attentional inhibitio
 Roelofs, A., __Piai, V.__, & Schriefers, H. (2011). Selective attention and distractor frequency in naming performance: Comment on Dhooge and Hartsuiker (2010). _Journal of Experimental Psychology: Learning, Memory, and Cognition_, _37_, 1032-1038. doi: [10.1037/a0023328](https://doi.org/10.1037/a0023328)  
   
 ### Book chapters
-__Piai, V.__, & Garg, A. (2024). A concise overview of the spatial and temporal underpinnings of lexical selection in spoken word production. _Reference Module in Neuroscience and Biobehavioral Psychology_. doi: [10.1016/B978-0-12-820480-1.00123-6](https://doi.org/10.1016/B978-0-12-820480-1.00123-6)  
+__Piai, V.__, & Garg, A. (2024). A concise overview of the spatial and temporal underpinnings of lexical selection in spoken word production. _Reference Module in Neuroscience and Biobehavioral Psychology_.  
 
 __Piai, V.__, & Borges, P. (2023). The electrophysiology of language production. In R. Hartsuiker & K. Strijkers (Eds.), _Cognitive processes of language production_. Psychology Press.  
 
