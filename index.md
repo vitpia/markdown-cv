@@ -367,6 +367,7 @@ __Reconfiguration of the language network.__ Talk at symposium _Cognitive Networ
 
 ### Invited Talks
 `2024`
+__Neuronal oscillations for spoken word production: Degrees of operationalisation and abstraction__. ABC Seminar, Aalto University. December, 2024.   
 __What in the brain does the speaking?__. C-STAR lecture series. March, 2024.  
 __The part of language that is memory__. Colloquium UC Irvine Language Science. January, 2024.  
 
@@ -439,6 +440,9 @@ __Comprehending particle verbs__. Experimental Linguistics Talks Utrecht. Utrech
 ## Supervision
 
 ### Postdoctoral researchers
+`2024-2025`
+Natascha Roos, _Radboud University_  
+
 `2022-2023`
 Britta Westner, _Radboud University_  
 
@@ -458,7 +462,6 @@ Rosemarije Weterings, _Radboud University_
 Imke Wets, with prof. Helen de Hoop, dr. Marina Ruiter and dr. Lotte Hogeweg, _Radboud University_  
 
 `2019-present`
-Natascha Roos, _Radboud University_  
 Yang Cao, _Radboud University_  
 Sümeyye Sezer, with dr. Mark ter Laan, _Radboudumc_  
 
@@ -469,6 +472,7 @@ Adrian Jodzio, with prof. Peter Indefrey, _Radboud University_
 Arushi Garg, with prof. Ardi Roelofs and prof. James McQueen, _Radboud University_
 
 `Graduated`
+Natascha Roos, _Radboud University_, 2025  
 Matteo Mascelloni, with prof. Greig de Zubicaray, _Queensland University of Technology_, Australia, 2023  
 João Ferreira, with prof. Ardi Roelofs,  _Radboud University_, 2023  
 Ileana Camerino, _Radboud University_, 2022  
@@ -482,7 +486,7 @@ __Main supervision: thesis__
 _Co-supervision (by graduate students or post-docs in my group) is indicated_    
 <br/>
 `2024-2025`
-Adán Gracia-Gonzalez, _Radboud University_ | Xirong Hu, _Radboud University_  
+Adán Gracia-Gonzalez, _Radboud University_ | Xirong Hu, _Radboud University_ (with Irina Chupina) | Noor Jaasma, _Radboud University_ | Ekaterina Volodina, _European Master in Clinical Linguistics_  
 
 `2023-2024`
 Xiangjie Zhang, _Radboud University_ | Elizaveta Vilenchik, _Radboud University_ | Carleen Peetoom, _Radboud University_ | Sophie Reeders, _Radboud University_ 
@@ -662,6 +666,7 @@ Rowan Sommers
 _Other universities_  
 Guilia Krethlow, University of Geneva  
 Julie Franco, University of Geneva  
+Heidi Ala-Salomäki, Aalto University, Helsinki  
 
 ### Recruiting Committees
 `2016-present`
