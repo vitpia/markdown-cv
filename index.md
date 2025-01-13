@@ -129,14 +129,19 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 *Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of published papers available through my [website](https://vitoriapiai.science/publication/)*  
 
 ### Journal Articles
+`in press`  
+\*Wets, I., Bleumink, K., van Lier, L., Opheij, E., Hogeweg, L., de Hoop, H., __Piai, V.__, & Ruiter, M. B. (2024). Exploring the production of discourse particles by persons with aphasia. _Aphasiology_, 1–21. doi: [10.1080/02687038.2024.2432028](https://doi.org/10.1080/02687038.2024.2432028)  
+
+\*Papoutsi, C., Tourtouri, E., Piai, V., Lampe, L. F., & Meyer, A. S. (2025). Fast and slow errors: What naming latencies of errors reveal about the interplay of attentional control and word planning in speeded picture naming. _Journal of Experimental Psychology: Learning, Memory, and Cognition._
+
 `2024`  
-\*Roos, N.M., Chauvet, J. & __Piai, V.__ (2024). The Concise Language Paradigm (CLaP), a framework for studying the intersection of comprehension and production: electrophysiological properties. _Brain Structure and Function_. doi: [10.1007/s00429-024-02801-8](https://doi.org/10.1007/s00429-024-02801-8) <a href="https://doi.org/10.34973/19gn-7v46">Open data</a>  
+\*Roos, N.M., Chauvet, J. & __Piai, V.__ (2024). The Concise Language Paradigm (CLaP), a framework for studying the intersection of comprehension and production: electrophysiological properties. _Brain Structure and Function, 229_, 2097–2113. doi: [10.1007/s00429-024-02801-8](https://doi.org/10.1007/s00429-024-02801-8) <a href="https://doi.org/10.34973/19gn-7v46">Open data</a>  
 
-\*Kennis, N., Zheng, X., de Bruin, A., __Piai, V.__ (in press). Is switching more costly in cued than voluntary language switching? Evidence from behaviour and electrophysiology. _Bilingualism: Language and Cognition_.  
+\*Kennis, N., Zheng, X., de Bruin, A., __Piai, V.__ (in press). Is switching more costly in cued than voluntary language switching? Evidence from behaviour and electrophysiology. _Bilingualism: Language and Cognition_. doi: [doi:10.1017/S1366728924000452](https://doi.org/10.1017/S1366728924000452) <a href="https://data.ru.nl/collections/di/dcc/DSC_2021.00093_370>Open data</a>  
 
-__Piai, V.__, Oostenveld, R., Schoffelen, J. M., & Piastra, M. C. (2024). The impact of CSF‐filled cavities on scalp EEG and its implications. _Psychophysiology_. doi: [10.1111/psyp.14624](https://doi.org/10.1111/psyp.14624) <a href="https://doi.org/10.34973/n21s-tq29">Open data</a>  
+__Piai, V.__, Oostenveld, R., Schoffelen, J. M., & Piastra, M. C. (2024). The impact of CSF‐filled cavities on scalp EEG and its implications. _Psychophysiology, 61_(10), e14624. doi: [10.1111/psyp.14624](https://doi.org/10.1111/psyp.14624) <a href="https://doi.org/10.34973/n21s-tq29">Open data</a>  
 
-Cui, N., __Piai, V.__, & Zheng, X. Y. (2024). Domain‐general cognitive control processes in bilingual switching: Evidence from midfrontal theta oscillations. _European Journal of Neuroscience_. doi: [10.1111/ejn.16466](https://doi.org/10.1111/ejn.16466)  
+Cui, N., __Piai, V.__, & Zheng, X. Y. (2024). Domain‐general cognitive control processes in bilingual switching: Evidence from midfrontal theta oscillations. _European Journal of Neuroscience, 60_(5), 4813-4829. doi: [10.1111/ejn.16466](https://doi.org/10.1111/ejn.16466)  
 
 `2023`  
 __Piai, V.__, & Eikelboom, D. (2023). Brain Areas Critical for Picture Naming: A Systematic Review and Meta-Analysis of Lesion-Symptom Mapping Studies. _Neurobiology of Language, 4(2)_, 280–296. doi: [10.1162/nol_a_00097](https://doi.org/10.1162/nol_a_00097) <a href="https://osf.io/8xtp9/"><i class="ai ai-osf"></i> Open data</a>  
@@ -147,14 +152,14 @@ __Piai, V.__, & Eikelboom, D. (2023). Brain Areas Critical for Picture Naming: A
 
 \*Jodzio, A., __Piai, V.__, Verhagen, L., Cameron, I., & Indefrey, P. (2023). Validity of chronometric TMS for probing the time-course of word production: a modified replication. _Cerebral Cortex, 33(12)_, 7816-7829.  
 
-\*Camerino, I. and \*Ferreira, J. (shared first authors), Vonk, J. M., Kessels, R. P. C., de Leeuw, F.-E., Roelofs, A., Copland, D., & __Piai, V.__ (2023). Systematic review and meta-analyses of word production abilities in dysfunction of the basal ganglia: Stroke, small vessel disease, Parkinson’s disease, and Huntington’s disease. _Neuropsychology Review_. doi:[10.1007/s11065-022-09570-3](https://doi.org/10.1007/s11065-022-09570-3) <a href="https://osf.io/z9k6s/"><i class="ai ai-osf"></i> Open data</a>  
+\*Camerino, I. and \*Ferreira, J. (shared first authors), Vonk, J. M., Kessels, R. P. C., de Leeuw, F.-E., Roelofs, A., Copland, D., & __Piai, V.__ (2023). Systematic review and meta-analyses of word production abilities in dysfunction of the basal ganglia: Stroke, small vessel disease, Parkinson’s disease, and Huntington’s disease. _Neuropsychology Review, 34_, 1-26. doi:[10.1007/s11065-022-09570-3](https://doi.org/10.1007/s11065-022-09570-3) <a href="https://osf.io/z9k6s/"><i class="ai ai-osf"></i> Open data</a>  
 
 \*Roos, N. M., Takashima, A., & __Piai, V.__ (2023). Functional neuroanatomy of lexical access in contextually and visually guided spoken word production. _Cortex, 159_, 254–267. doi:[10.1016/j.cortex.2022.10.014](https://doi.org/10.1016/j.cortex.2022.10.014) <a href="https://data.donders.ru.nl/collections/di/dcc/DSC_2022.00017_730">Open data</a>  
 
 `2022`  
-\*Chupina, I., Sierpowska, J., Zheng, X. Y., Dewenter, A., Piastra, M., & __Piai, V.__ (2022). Time course of right‐hemisphere recruitment during word production following left‐hemisphere damage: A single case of young stroke. _European Journal of Neuroscience_. doi:[10.1111/ejn.15813](https://doi.org/10.1111/ejn.15813)  
+\*Chupina, I., Sierpowska, J., Zheng, X. Y., Dewenter, A., Piastra, M., & __Piai, V.__ (2022). Time course of right‐hemisphere recruitment during word production following left‐hemisphere damage: A single case of young stroke. _European Journal of Neuroscience, 56_(8), 5235-5259. doi:[10.1111/ejn.15813](https://doi.org/10.1111/ejn.15813)  
 
-Ruiter, M. B., Otters, M. C., __Piai, V.__, Lotgering, E. A. M., Theunissen, J. E. M. C., & Rietveld, T. C. M. (2022). A transcription-less quantitative analysis of aphasic discourse elicited with an adapted version of the Amsterdam-Nijmegen Everyday Language Test (ANELT). _Aphasiology_. doi:[10.1080/02687038.2022.2109124](https://doi.org/10.1080/02687038.2022.2109124)  
+Ruiter, M. B., Otters, M. C., __Piai, V.__, Lotgering, E. A. M., Theunissen, J. E. M. C., & Rietveld, T. C. M. (2022). A transcription-less quantitative analysis of aphasic discourse elicited with an adapted version of the Amsterdam-Nijmegen Everyday Language Test (ANELT). _Aphasiology, 37_(10), 1556–1575. doi:[10.1080/02687038.2022.2109124](https://doi.org/10.1080/02687038.2022.2109124)  
 
 León-Cabrera, P., __Piai, V.__, Morís, J., & Rodríguez-Fornells, A. (2022). Alpha power decreases associated with prediction in written and spoken sentence comprehension. _Neuropsychologia, 173_, 108286. doi:[10.1016/j.neuropsychologia.2022.108286](https://doi.org/10.1016/j.neuropsychologia.2022.108286)  
 
