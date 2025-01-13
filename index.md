@@ -137,7 +137,7 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 `2024`  
 \*Roos, N.M., Chauvet, J. & __Piai, V.__ (2024). The Concise Language Paradigm (CLaP), a framework for studying the intersection of comprehension and production: electrophysiological properties. _Brain Structure and Function, 229_, 2097–2113. doi: [10.1007/s00429-024-02801-8](https://doi.org/10.1007/s00429-024-02801-8) <a href="https://doi.org/10.34973/19gn-7v46">Open data</a>  
 
-\*Kennis, N., Zheng, X., de Bruin, A., __Piai, V.__ (in press). Is switching more costly in cued than voluntary language switching? Evidence from behaviour and electrophysiology. _Bilingualism: Language and Cognition_. doi: [doi:10.1017/S1366728924000452](https://doi.org/10.1017/S1366728924000452) <a href="https://data.ru.nl/collections/di/dcc/DSC_2021.00093_370>Open data</a>  
+\*Kennis, N., Zheng, X., de Bruin, A., __Piai, V.__ (in press). Is switching more costly in cued than voluntary language switching? Evidence from behaviour and electrophysiology. _Bilingualism: Language and Cognition_. doi: [doi:10.1017/S1366728924000452](https://doi.org/10.1017/S1366728924000452) <a href="https://data.ru.nl/collections/di/dcc/DSC_2021.00093_370">Open data</a>  
 
 __Piai, V.__, Oostenveld, R., Schoffelen, J. M., & Piastra, M. C. (2024). The impact of CSF‐filled cavities on scalp EEG and its implications. _Psychophysiology, 61_(10), e14624. doi: [10.1111/psyp.14624](https://doi.org/10.1111/psyp.14624) <a href="https://doi.org/10.34973/n21s-tq29">Open data</a>  
 
