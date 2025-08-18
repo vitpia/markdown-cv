@@ -654,6 +654,7 @@ Team member for De Jonge Akademie on Wheels, _Openbaar Zeister Lyceum, Zeist_
 ## Professional Activities
 ### Doctoral Examination Board
 `2019-present`
+Emma Depuydt, _Ghent University, Belgium_  
 Saskia Mooijman, _Radboud University, Nijmegen_  
 Jill Kries, _KU Leuven, Belgium_  
 Mansoureh Fahimi Hnazaee, _KU Leuven, Belgium_  
