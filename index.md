@@ -129,7 +129,15 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 *Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of published papers available through my [website](https://vitoriapiai.science/publication/)*  
 
 ### Journal Articles
-`in press`  
+`2025`  
+__Piai, V.__, Madan, C. R., & Francken, J. C. (2025). Language and/or memory: How to slice the domain-cake? _Cognitive Neuropsychology_, 1–17. doi: [10.1080/02643294.2025.2535037](https://doi.org/10.1080/02643294.2025.2535037)  
+
+\*Chupina, I., Westner, B. U., Roelofs, A., & __Piai, V.__ (2025). Speakers preplan lexical and phonological representations in semantically constraining linguistic contexts. _Cognitive Neuropsychology_, 1–22. doi: [10.1080/02643294.2025.2515831](https://doi.org/10.1080/02643294.2025.2515831)  
+
+Spiegelenber, J.P., Verburgt. E., den Hertog. H., et al. (2025). Role of inflammation and haemostasis on aetiology and prognosis in young patients with ischaemic stroke: study protocol of the Observational Dutch Young Symptomatic StrokE study—EXTended (ODYSSEY-nEXT) – a multicentre prospective cohort study. _BMJ Open_, 15:e096330. doi: [10.1136/bmjopen-2024-096330](https://bmjopen.bmj.com/content/15/3/e096330)  
+
+Zheng, X. Y. & __Piai, V.__ (2025). Neural Oscillations in the Aging Brain Associated With Interference Control in Word Production. _Neurobiology of Language_. doi: [10.1162/nol.a.15](https://doi.org/10.1162/nol.a.15)  
+
 \*Wets, I., Bleumink, K., van Lier, L., Opheij, E., Hogeweg, L., de Hoop, H., __Piai, V.__, & Ruiter, M. B. (2024). Exploring the production of discourse particles by persons with aphasia. _Aphasiology_, 1–21. doi: [10.1080/02687038.2024.2432028](https://doi.org/10.1080/02687038.2024.2432028)  
 
 \*Papoutsi, C., Tourtouri, E., Piai, V., Lampe, L. F., & Meyer, A. S. (2025). Fast and slow errors: What naming latencies of errors reveal about the interplay of attentional control and word planning in speeded picture naming. _Journal of Experimental Psychology: Learning, Memory, and Cognition._
