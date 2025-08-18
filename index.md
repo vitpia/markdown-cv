@@ -366,6 +366,9 @@ __Memory retrieval for spoken word production and its lateralisation__. Talk at 
 __Reconfiguration of the language network.__ Talk at symposium _Cognitive Networks: Trends in Multimodal Approaches and Connectomics_, 26th Cognitive Neuroscience Society annual meeting, San Francisco, USA. March, 2019.    
 
 ### Invited Talks
+`2025`
+__The neural basis of language production: not all frontal cortex__. SPEC Webinar Series: Cross-disciplinary approaches to animal communication, language, and culture. São Paulo, June, 2025.
+
 `2024`
 __Neuronal oscillations for spoken word production: Degrees of operationalisation and abstraction__. ABC Seminar, Aalto University. December, 2024.   
 __What in the brain does the speaking?__. C-STAR lecture series. March, 2024.  
