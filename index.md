@@ -131,15 +131,21 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `2025`  
+\*Wets, I., Jiskoot, L., van den Berg, E., Janssen, N., & __Piai, V.__ (2025). Semi-spontaneous language production in Dutch-speaking individuals with primary progressive aphasia. _Cognitive Neuropsychology, 1–11._ doi: [10.1080/02643294.2025.2556493](https://doi.org/10.1080/02643294.2025.2556493)  
+
+Volfart, A., McMahon, K. L., Liégeois-Chauvel, C., __Piai, V.__, & de Zubicaray, G. (2025). Are the ventral anterior temporal lobes involved in accessing conceptual knowledge during spoken word production? fMRI evidence from auditory naming. _Cortex, 192_, 35–52. doi: [10.1016/j.cortex.2025.08.010](https://doi.org/10.1016/j.cortex.2025.08.010)  
+
+Khan, A. U., Hoy, C. W., Anderson, K. L., __Piai, V.__, King-Stephens, D., Laxer, K. D., Weber, P., Lin, J. J., Knight, R. T., & Bentley, J. N. (2025). Neural dynamics of proactive and reactive cognitive control in medial and lateral prefrontal cortex. _iScience, 28(9)_, 113375. doi: [10.1016/j.isci.2025.113375](https://doi.org/10.1016/j.isci.2025.113375)  
+
 __Piai, V.__, Madan, C. R., & Francken, J. C. (2025). Language and/or memory: How to slice the domain-cake? _Cognitive Neuropsychology_, 1–17. doi: [10.1080/02643294.2025.2535037](https://doi.org/10.1080/02643294.2025.2535037)  
 
 \*Chupina, I., Westner, B. U., Roelofs, A., & __Piai, V.__ (2025). Speakers preplan lexical and phonological representations in semantically constraining linguistic contexts. _Cognitive Neuropsychology_, 1–22. doi: [10.1080/02643294.2025.2515831](https://doi.org/10.1080/02643294.2025.2515831)  
 
 Spiegelenber, J.P., Verburgt. E., den Hertog. H., et al. (2025). Role of inflammation and haemostasis on aetiology and prognosis in young patients with ischaemic stroke: study protocol of the Observational Dutch Young Symptomatic StrokE study—EXTended (ODYSSEY-nEXT) – a multicentre prospective cohort study. _BMJ Open_, 15:e096330. doi: [10.1136/bmjopen-2024-096330](https://bmjopen.bmj.com/content/15/3/e096330)  
 
-Zheng, X. Y. & __Piai, V.__ (2025). Neural Oscillations in the Aging Brain Associated With Interference Control in Word Production. _Neurobiology of Language 6: nol.a.15_. doi: [10.1162/nol.a.15](https://doi.org/10.1162/nol.a.15)  
+Zheng, X. Y. & __Piai, V.__ (2025). Neural Oscillations in the Aging Brain Associated With Interference Control in Word Production. _Neurobiology of Language, 6_: nol.a.15. doi: [10.1162/nol.a.15](https://doi.org/10.1162/nol.a.15)  
 
-\*Wets, I., Bleumink, K., van Lier, L., Opheij, E., Hogeweg, L., de Hoop, H., __Piai, V.__, & Ruiter, M. B. (2024). Exploring the production of discourse particles by persons with aphasia. _Aphasiology_, 1–21. doi: [10.1080/02687038.2024.2432028](https://doi.org/10.1080/02687038.2024.2432028)  
+\*Wets, I., Bleumink, K., van Lier, L., Opheij, E., Hogeweg, L., de Hoop, H., __Piai, V.__, & Ruiter, M. B. (2025). Exploring the production of discourse particles by persons with aphasia. _Aphasiology_, 1–21. doi: [10.1080/02687038.2024.2432028](https://doi.org/10.1080/02687038.2024.2432028)  
 
 \*Papoutsi, C., Tourtouri, E., Piai, V., Lampe, L. F., & Meyer, A. S. (2025). Fast and slow errors: What naming latencies of errors reveal about the interplay of attentional control and word planning in speeded picture naming. _Journal of Experimental Psychology: Learning, Memory, and Cognition._ doi:[10.1037/xlm0001472](https://doi.org/10.1037/xlm0001472)  
 
