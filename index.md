@@ -622,6 +622,10 @@ Heidi Ala-Salomäki, Aalto University, Helsinki
 `2016-present`
 _Radboud University_, _Max Planck Institute for Psycholinguistics_
 
+### Scientific Board
+`2023-present`
+Science of Aphasia
+
 ### Ad-hoc Reviewer
 See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) (no longer up-to-date) profile for details  
 `2012-present`
