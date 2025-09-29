@@ -5,6 +5,7 @@ title: Vitória Piai's CV
 # Vitória Piai    
 <br/>
 Associate Professor & Principal Investigator, Radboud University, Donders Centre for Cognition   
+Research Associate, Max Planck Institute for Psycholinguistics   
 
 Donders Institute for Brain, Cognition and Behaviour  
 Thomas van Aquinostraat 4  
@@ -655,6 +656,7 @@ Team member for De Jonge Akademie on Wheels, _Openbaar Zeister Lyceum, Zeist_
 ### Doctoral Examination Board
 `2019-present`
 Emma Depuydt, _Ghent University, Belgium_  
+Maxime Verwoert, _Maastricht University, Netherlands_  
 Saskia Mooijman, _Radboud University, Nijmegen_  
 Jill Kries, _KU Leuven, Belgium_  
 Mansoureh Fahimi Hnazaee, _KU Leuven, Belgium_  
@@ -685,14 +687,14 @@ Heidi Ala-Salomäki, Aalto University, Helsinki
 _Radboud University_, _Max Planck Institute for Psycholinguistics_
 
 ### Ad-hoc Reviewer
-See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) profile for details  
+See my [Publons](https://publons.com/author/469708/vitoria-piai#stats) (no longer up-to-date) profile for details  
 `2012-present`
 BMC Psychology; Brain; Brain and Development; Brain and Language; Brain Topography; Cerebral Cortex; Cognition; Collabra; Cortex; Emotion; Frontiers in Human Neuroscience; Frontiers in Language Sciences; Human Brain Mapping; Journal of Cognitive Neuroscience; Journal of Experiment Psychology: General; Journal of Experimental Psychology: Human Perception and Performance; Journal of Experimental Psychology: Learning, Memory, and Cognition; Journal of the International Neuropsychological Society; Journal of Neurolinguistics; Journal of Neuroscience; Language and Speech; Language, Cognition and Neuroscience; Nature Communications; NeuroImage; Neuropsychologia; PLoS ONE; Proceedings of the National Academy of Sciences; Psychonomic Bulletin & Review; Quarterly Journal of Experimental Psychology
 
 ### Guest lectures
 `2021, 2022`
 The role of the psychologist in awake brain mapping. Lectures organised by Vakdispuut Brainwave. _Utrecht University, the Netherlands_  
-`2020-present`
+`2020-2022`
 Language testing during awake brain surgery (and beyond). _University of Groningen, the Netherlands_  
 `2019, 2022, 2024`
 Producing words: The eletrophysiology of memory and motor aspects of speaking. _University of Sao Paulo, Brazil_  
