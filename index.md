@@ -501,101 +501,33 @@ Lara Todorova, with dr. David Neville, _Radboud University_, 2020
 _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics_    
 <br/>
 __Main supervision: thesis__  
-_Co-supervision (by graduate students or post-docs in my group) is indicated_    
 <br/>
-`2024-2025`
-Adán Gracia-Gonzalez, _Radboud University_ | Xirong Hu, _Radboud University_ (with Irina Chupina) | Noor Jaasma, _Radboud University_ | Ekaterina Volodina, _European Master in Clinical Linguistics_  
-
-`2023-2024`
-Xiangjie Zhang, _Radboud University_ | Elizaveta Vilenchik, _Radboud University_ | Carleen Peetoom, _Radboud University_ | Sophie Reeders, _Radboud University_ 
-
-`2022-2023`
-Kai Koster, _Radboud University_ | Kirstin Bleumink, _Radboud University_ | Yunzhi Luo, _Radboud University_ | Jiachen Yao, _Radboud University_ (with dr. Ashley Lewis)  
-
-`2021-2022`
-Nikita Boers, _Radboud University_ (with Natascha Roos) | Nora Kennis, _Radboud University_ (with dr. Xiaochen Zheng and dr. Angela de Bruin) | Owen Kapelle, _University of Groningen_ (with dr. Rinus Verdonschot)  
-
-`2020-2021`
-Pauline van Barschot, _Radboud University_ | Rosemarije Weterings, _European Master in Clinical Linguistics_ (with Joao Ferreira) | Seniz Canıbek, _Radboud University_ | Leonie de Regt, _Radboud University_  
-
-`2020`
-Priscila Borges, _European Master in Clinical Linguistics_ | Irina Chupina, _European Master in Clinical Linguistics_ | Christina Papoutsi, _Utrecht University_ | Imke Wets, *Radboud University*  
-
-`2019`
-Cecília Hustá, _University of Groningen_ (with dr. Xiaochen Zheng)  
-
-`2018-2019`
-Anna Dewenter, *Radboud University* (with dr. Joanna Sierpowska)  
-
-`2018`
-Laura ten Dijke, *University of Amsterdam* | Karleen van Dijk, *Radboud University*  
-
-`2017-2018`
-Elena Rossetto, *University of Trento* (with dr. Jana Klaus) | Natascha Roos, *Radboud University* | Rosanne Abrahamse, *Radboud University*  
-
-`2017`
-Manon Jacobs, *Radboud University* (with Nikki Janssen) | Tessa Ruijs, *University of Amsterdam*
+`2017-present`
+35 students from various institutions: Radboud University (NL), European Master in Clinical Linguistics, University of Groningen (NL), Utrecht University (NL), University of Amsterdam (NL), University of Trento (Italy)
 <br/>    
+
 __Co-supervision: thesis__  
 _My role is secondary_    
-`2021`
-Hajira Mumtaz, _European Master in Clinical Linguistics_ (with dr. Willemijn Doedens)
-
-`2019-2020`
-Giulio Severijnen, *Radboud University* (with prof. James McQueen)
-
-`2018-2019`
-Margot Magnus, *Radboud University* (with Nikki Janssen)
-
-`2017-2018`
-Manon Hendriks, *Radboud University* (with prof. Ton Dijkstra)
-
-`2010-2011`
-Svetlana Gerakakis, *Radboud University* (with prof. Ardi Roelofs)
-
-`2009-2010`
-Gabriela Garrido Rodriguez, *Radboud University* (with prof. Ardi Roelofs)
+`2009-present`
+6 students from various institutions: Radboud University (NL), European Master in Clinical Linguistics
 <br/>    
+
 __Internship__  
 _Co-supervision by graduate students or post-docs in my group is indicated_    
-`2022`
- Ali Lotfi, _Radboud University_ (with Yang Cao)  
- 
-`2021`
-Lydia Huang, _Radboud University_ (with Yang Cao) | Dilys Eikelboom, _Radboud University_ (with Adrian Jodzio) | Sevilay Tokgöz, _Radboud University_ (with Anna Dewenter)  
-
-`2020`
-Juliette Vertregt, _University of Groningen_  
-
-`2017`
-Anne Billot, *Pierre-and-Marie-Curie University, France* | Nathalie Meyer, *École Polytechnique Fédérale de Lausanne, Switzerland*  
+`2017-present`
+7 students from various institutions: Radboud University (NL), University of Groningen (NL), Pierre-and-Marie-Curie University (France), École Polytechnique Fédérale de Lausanne (Switzerland)  
 
 
 ### Bachelor's Students
 __Honours thesis__  
-`2019-2020`
-Laurie Marsman, *Radboud University* (with dr. Giesje Nefs) | Joran Muller, *Radboud University*  
-
-`2018-2019`
-Tamar Ardesch, *Radboud University* (with Anna Dewenter)  
-
-`2017-2018`
-Rosemarije Weterings, *Radboud University* (with dr. Marina Ruiter)  
+`2017-2020`
+4 students from Radboud University 
 <br/>
+
 __Thesis__  
-`2020-2021`
-Mirthe van Dijk, *University of Amsterdam* | Adán Gracia, *University of Amsterdam* | 
-Julia Chauvet, *University of Amsterdam* (with Natascha Roos)  
-  
-`2020`
-Sjoerd van Erp, *Radboud University* (with Ileana Camerino and Joao Ferreira)  
-
-`2012`
-Ingeborg Roete, *Radboud University*  
+`2012-2021`
+5 students from various institutions: Radboud University (NL), University of Amsterdam (NL)   
 <br/>
-__Internship__  
-`2021`
-Fleur Hartskeerl, *Radboud University*  
 
 
 ## Teaching
