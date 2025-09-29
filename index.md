@@ -501,7 +501,6 @@ Lara Todorova, with dr. David Neville, _Radboud University_, 2020
 _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme in Clinical Linguistics_    
 <br/>
 __Main supervision: thesis__  
-<br/>
 `2017-present`
 35 students from various institutions: Radboud University (NL), European Master in Clinical Linguistics, University of Groningen (NL), Utrecht University (NL), University of Amsterdam (NL), University of Trento (Italy)
 <br/>    
@@ -513,7 +512,6 @@ _My role is secondary_
 <br/>    
 
 __Internship__  
-_Co-supervision by graduate students or post-docs in my group is indicated_    
 `2017-present`
 7 students from various institutions: Radboud University (NL), University of Groningen (NL), Pierre-and-Marie-Curie University (France), École Polytechnique Fédérale de Lausanne (Switzerland)  
 
@@ -521,7 +519,7 @@ _Co-supervision by graduate students or post-docs in my group is indicated_
 ### Bachelor's Students
 __Honours thesis__  
 `2017-2020`
-4 students from Radboud University 
+4 students from Radboud University (NL) 
 <br/>
 
 __Thesis__  
@@ -648,4 +646,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: August 2025<br/><br/>
+<br/>Last updated: October 2025<br/><br/>
