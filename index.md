@@ -137,16 +137,16 @@ __Piai, V.__, Madan, C. R., & Francken, J. C. (2025). Language and/or memory: Ho
 
 Spiegelenber, J.P., Verburgt. E., den Hertog. H., et al. (2025). Role of inflammation and haemostasis on aetiology and prognosis in young patients with ischaemic stroke: study protocol of the Observational Dutch Young Symptomatic StrokE study—EXTended (ODYSSEY-nEXT) – a multicentre prospective cohort study. _BMJ Open_, 15:e096330. doi: [10.1136/bmjopen-2024-096330](https://bmjopen.bmj.com/content/15/3/e096330)  
 
-Zheng, X. Y. & __Piai, V.__ (2025). Neural Oscillations in the Aging Brain Associated With Interference Control in Word Production. _Neurobiology of Language_. doi: [10.1162/nol.a.15](https://doi.org/10.1162/nol.a.15)  
+Zheng, X. Y. & __Piai, V.__ (2025). Neural Oscillations in the Aging Brain Associated With Interference Control in Word Production. _Neurobiology of Language 6: nol.a.15_. doi: [10.1162/nol.a.15](https://doi.org/10.1162/nol.a.15)  
 
 \*Wets, I., Bleumink, K., van Lier, L., Opheij, E., Hogeweg, L., de Hoop, H., __Piai, V.__, & Ruiter, M. B. (2024). Exploring the production of discourse particles by persons with aphasia. _Aphasiology_, 1–21. doi: [10.1080/02687038.2024.2432028](https://doi.org/10.1080/02687038.2024.2432028)  
 
-\*Papoutsi, C., Tourtouri, E., Piai, V., Lampe, L. F., & Meyer, A. S. (2025). Fast and slow errors: What naming latencies of errors reveal about the interplay of attentional control and word planning in speeded picture naming. _Journal of Experimental Psychology: Learning, Memory, and Cognition._
+\*Papoutsi, C., Tourtouri, E., Piai, V., Lampe, L. F., & Meyer, A. S. (2025). Fast and slow errors: What naming latencies of errors reveal about the interplay of attentional control and word planning in speeded picture naming. _Journal of Experimental Psychology: Learning, Memory, and Cognition._ doi:[10.1037/xlm0001472](https://doi.org/10.1037/xlm0001472)  
 
 `2024`  
 \*Roos, N.M., Chauvet, J. & __Piai, V.__ (2024). The Concise Language Paradigm (CLaP), a framework for studying the intersection of comprehension and production: electrophysiological properties. _Brain Structure and Function, 229_, 2097–2113. doi: [10.1007/s00429-024-02801-8](https://doi.org/10.1007/s00429-024-02801-8) <a href="https://doi.org/10.34973/19gn-7v46">Open data</a>  
 
-\*Kennis, N., Zheng, X., de Bruin, A., __Piai, V.__ (in press). Is switching more costly in cued than voluntary language switching? Evidence from behaviour and electrophysiology. _Bilingualism: Language and Cognition_. doi: [doi:10.1017/S1366728924000452](https://doi.org/10.1017/S1366728924000452) <a href="https://data.ru.nl/collections/di/dcc/DSC_2021.00093_370">Open data</a>  
+\*Kennis, N., Zheng, X., de Bruin, A., __Piai, V.__ (in press). Is switching more costly in cued than voluntary language switching? Evidence from behaviour and electrophysiology. _Bilingualism: Language and Cognition, 28(2)_, 387-400. doi: [doi:10.1017/S1366728924000452](https://doi.org/10.1017/S1366728924000452) <a href="https://data.ru.nl/collections/di/dcc/DSC_2021.00093_370">Open data</a>  
 
 __Piai, V.__, Oostenveld, R., Schoffelen, J. M., & Piastra, M. C. (2024). The impact of CSF‐filled cavities on scalp EEG and its implications. _Psychophysiology, 61_(10), e14624. doi: [10.1111/psyp.14624](https://doi.org/10.1111/psyp.14624) <a href="https://doi.org/10.34973/n21s-tq29">Open data</a>  
 
