@@ -476,6 +476,9 @@ Joanna Sierpowska, _Radboud University_
 Jana Klaus, _Radboud University_
 
 ### PhD Candidates
+`2025-present`
+Anaëlle Filisetti, with dr. Anahita Basirat, _University of Lille, France_   
+
 `2022-present`
 Irina Chupina, _Radboud University_  
 Christina Papoutsi, with prof. Antje Meyer and dr. Elli Tourtouri, _Radboud University and Max Planck Institute for Psycholinguistics_  
