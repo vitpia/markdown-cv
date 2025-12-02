@@ -132,6 +132,10 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `2025`  
+\*Wets, I., __Piai, V.__, Jiskoot, L.C., Berg, E. van den, Janssen, N., Hogeweg, L., Ruiter, M.B. & Hoop, H. de (2025). The use of discourse particles in oral picture description by individuals with primary progressive aphasia. _Cortex, 193_, 134-143. doi:[10.1016/j.cortex.2025.10.005](https://doi.org/10.1016/j.cortex.2025.10.005)  
+
+Visser, M., Jansen, M.G., Frankenmolen, N.L., Camerino, I.L., Brazil, I.A., __Piai, V.__, Hendriks, M.P.H., Kessels, R.P.C. & Oosterman, J.M. (2025). Investigating subjective use of self-initiated internal memory strategy use across the healthy adult lifespan. _Aging, Neuropsychology, and Cognition, 32(6)_, 1042-1066. doi:[10.1080/13825585.2025.2555436](https://doi.org/10.1080/13825585.2025.2555436)  
+
 \*Wets, I., Jiskoot, L., van den Berg, E., Janssen, N., & __Piai, V.__ (2025). Semi-spontaneous language production in Dutch-speaking individuals with primary progressive aphasia. _Cognitive Neuropsychology, 1–11._ doi: [10.1080/02643294.2025.2556493](https://doi.org/10.1080/02643294.2025.2556493)  
 
 Volfart, A., McMahon, K. L., Liégeois-Chauvel, C., __Piai, V.__, & de Zubicaray, G. (2025). Are the ventral anterior temporal lobes involved in accessing conceptual knowledge during spoken word production? fMRI evidence from auditory naming. _Cortex, 192_, 35–52. doi: [10.1016/j.cortex.2025.08.010](https://doi.org/10.1016/j.cortex.2025.08.010)  
