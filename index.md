@@ -96,6 +96,9 @@ Dutch University Teaching Qualification (BKO)
 <br/>
 <br/>
 ### Co-Investigator
+`2025–2028`
+**Internal PhD-grant round**, *University of Lille*, main applicants: dr. Anahita Basirat	 
+
 `2022-2024`
 **Small Projects for NWA routes**, *Netherlands Organisation for Scientific Research (NWO)*, "Dynamic Assessment of Everyday Communication using Virtual Reality: proof of concept for persons with aphasia (DCOM-VR)", main applicant: dr. M. Ruiter  
 
