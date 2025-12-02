@@ -69,8 +69,9 @@ Dutch University Teaching Qualification (BKO)
 
 ## Competitive Funding
 ### Principal Investigator
-`2022–2026`
-**Vidi**, *Netherlands Organisation for Scientific Research (NWO)*, “Fingerprints of language: towards a neurophysiological theory of retrieval from memory in speaking” (€ 800,000)
+`2022–2027`
+**Vidi**, *Netherlands Organisation for Scientific Research (NWO)*, “Fingerprints of language: towards a neurophysiological theory of retrieval from memory in speaking” (€ 800,000)  
+**Aspasia premium**, *Netherlands Organisation for Scientific Research (NWO)* (€ 40,000)
 
 `2021–2025`
 **Internal PhD-grant round**, *Radboud University, Donders Centre for Cognition*, “Let's have that conversation: Examining the demands of language use through the lens of young stroke” (€ 250,000)
