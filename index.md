@@ -363,6 +363,9 @@ __“TeleTaal”__, a telephone-based language assessment battery to assess pati
 
 ## Invited Presentations
 ### Keynote Talks
+`2026`
+__Taking time seriously__. Organization for Human Brain Mapping, Bordeaux, France. June, 2026.  
+
 `2024`
 __Beyond bare picture naming__. International Workshop on Language Production, Marseille, France. June, 2024.  
 
@@ -396,6 +399,10 @@ __Memory retrieval for spoken word production and its lateralisation__. Talk at 
 __Reconfiguration of the language network.__ Talk at symposium _Cognitive Networks: Trends in Multimodal Approaches and Connectomics_, 26th Cognitive Neuroscience Society annual meeting, San Francisco, USA. March, 2019.    
 
 ### Invited Talks
+`2026`
+__Studying language dysfunction: part of the interdisciplinary approach__. The Future of the Psychology of Language Workshop. Max Planck Institute for Psycholinguistics. Nijmegen, June, 2026.  
+__What is the language network? Moving through operationalisations and degrees of abstraction__. NeuroHumanities, Seminar & Round Table. Institute of Neurosciences, Univerisity of Barcelona. March, 2026.  
+
 `2025`
 __The neural basis of language production: not all frontal cortex__. SPEC Webinar Series: Cross-disciplinary approaches to animal communication, language, and culture. São Paulo, June, 2025.
 
