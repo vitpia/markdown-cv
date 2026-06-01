@@ -134,10 +134,17 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 *Asterisks indicate (PhD or undergraduate) student lead authors. Publication list also available in [Google Scholar](https://scholar.google.com/citations?hl=en&amp;user=epKM9H0AAAAJ) and [ORCID](https://orcid.org/0000-0002-4860-5952). Full-texts of published papers available through my [website](https://vitoriapiai.science/publication/)*  
 
 ### Journal Articles
-`2025`  
-\*Wets, I., __Piai, V.__, Jiskoot, L.C., Berg, E. van den, Janssen, N., Hogeweg, L., Ruiter, M.B. & Hoop, H. de (2025). The use of discourse particles in oral picture description by individuals with primary progressive aphasia. _Cortex, 193_, 134-143. doi: [10.1016/j.cortex.2025.10.005](https://doi.org/10.1016/j.cortex.2025.10.005)  
+`2026`  
+Li, H., Schellekens, M. M. I., __Piai, V.__, Kessels, R. P. C., de Leeuw, F.-E., & Tuladhar, A. M. (2026). Cognitive performance after stroke at a young age from a brain network perspective. _Trends in Neurosciences, 49(5)_, 403–414. doi:[10.1016/j.tins.2026.03.008](https://doi.org/10.1016/j.tins.2026.03.008)  
 
-Visser, M., Jansen, M.G., Frankenmolen, N.L., Camerino, I.L., Brazil, I.A., __Piai, V.__, Hendriks, M.P.H., Kessels, R.P.C. & Oosterman, J.M. (2025). Investigating subjective use of self-initiated internal memory strategy use across the healthy adult lifespan. _Aging, Neuropsychology, and Cognition, 32(6)_, 1042-1066. doi: [10.1080/13825585.2025.2555436](https://doi.org/10.1080/13825585.2025.2555436)  
+Depuydt, E., Oostenveld, R., De Letter, M., van Mierlo, P., & Piai, V. (2026). The Impact of Brain Tumors and Craniotomy Lesions on Scalp EEG. _Brain Topography, 39(2)_. doi:[10.1007/s10548-026-01178-7](https://doi.org/10.1007/s10548-026-01178-7)  
+
+Schellekens, M. M. I., Li, H., Wijnands, M., Papounidou, A., Boot, E. M., Verhoeven, J. I., Ekker, M. S., van Alebeek, M. E., Brouwers, P. J. A. M., Arntz, R. M., van Dijk, G. W., Gons, R. A. R., van Uden, I. W. M., Heijer, T. den, van Tuijl, J. H., de Laat, K. F., van Norden, A. G. W., Vermeer, S. E., van Zagten, M. S. G., … Tuladhar, A. M. (2026). Lesion locations are associated with cognitive impairment after ischemic stroke in young adults. _NeuroImage: Clinical, 49_, 103930. doi: [10.1016/j.nicl.2025.103930](https://doi.org/10.1016/j.nicl.2025.103930)  
+
+`2025`  
+\*Wets, I., __Piai, V.__, Jiskoot, L.C., Berg, E. van den, Janssen, N., Hogeweg, L., Ruiter, M.B., & Hoop, H. de (2025). The use of discourse particles in oral picture description by individuals with primary progressive aphasia. _Cortex, 193_, 134-143. doi: [10.1016/j.cortex.2025.10.005](https://doi.org/10.1016/j.cortex.2025.10.005)  
+
+Visser, M., Jansen, M.G., Frankenmolen, N.L., Camerino, I.L., Brazil, I.A., __Piai, V.__, Hendriks, M.P.H., Kessels, R.P.C., & Oosterman, J.M. (2025). Investigating subjective use of self-initiated internal memory strategy use across the healthy adult lifespan. _Aging, Neuropsychology, and Cognition, 32(6)_, 1042-1066. doi: [10.1080/13825585.2025.2555436](https://doi.org/10.1080/13825585.2025.2555436)  
 
 \*Wets, I., Jiskoot, L., van den Berg, E., Janssen, N., & __Piai, V.__ (2025). Semi-spontaneous language production in Dutch-speaking individuals with primary progressive aphasia. _Cognitive Neuropsychology, 1–11._ doi: [10.1080/02643294.2025.2556493](https://doi.org/10.1080/02643294.2025.2556493)  
 
