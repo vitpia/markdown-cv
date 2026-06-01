@@ -505,7 +505,6 @@ Rosemarije Weterings, _Radboud University_
 Imke Wets, with prof. Helen de Hoop, dr. Marina Ruiter and dr. Lotte Hogeweg, _Radboud University_  
 
 `2019-present`
-Yang Cao, _Radboud University_  
 Sümeyye Sezer, with dr. Mark ter Laan, _Radboudumc_  
 
 `2018-present`
@@ -515,6 +514,7 @@ Adrian Jodzio, with prof. Peter Indefrey, _Radboud University_
 Arushi Garg, with prof. Ardi Roelofs and prof. James McQueen, _Radboud University_
 
 `Graduated`
+Yang Cao, _Radboud University_, 2026  
 Natascha Roos, _Radboud University_, 2025  
 Matteo Mascelloni, with prof. Greig de Zubicaray, _Queensland University of Technology_, Australia, 2023  
 João Ferreira, with prof. Ardi Roelofs,  _Radboud University_, 2023  
@@ -527,24 +527,24 @@ _I am an associated partner of the Erasmus+ Mundus Joint Master Degree programme
 <br/>
 __Main supervision: thesis__  
 `2017-present`
-35 students from various institutions: Radboud University (NL), European Master in Clinical Linguistics, University of Groningen (NL), Utrecht University (NL), University of Amsterdam (NL), University of Trento (Italy)
+50+ students from various institutions: Radboud University (NL), European Master in Clinical Linguistics, University of Groningen (NL), Utrecht University (NL), University of Amsterdam (NL), University of Trento (Italy)
 <br/>    
 
 __Co-supervision: thesis__  
 _My role is secondary_    
 `2009-present`
-6 students from various institutions: Radboud University (NL), European Master in Clinical Linguistics
+10+ students from various institutions: Radboud University (NL), European Master in Clinical Linguistics
 <br/>    
 
 __Internship__  
 `2017-present`
-7 students from various institutions: Radboud University (NL), University of Groningen (NL), Pierre-and-Marie-Curie University (France), École Polytechnique Fédérale de Lausanne (Switzerland)  
+10+ students from various institutions: Radboud University (NL), University of Groningen (NL), Pierre-and-Marie-Curie University (France), École Polytechnique Fédérale de Lausanne (Switzerland)  
 
 
 ### Bachelor's Students
 __Honours thesis__  
-`2017-2020`
-4 students from Radboud University (NL) 
+`2017-present`
+5 students from Radboud University (NL) 
 <br/>
 
 __Thesis__  
@@ -636,7 +636,9 @@ Greta Kaufeld |
 Kristijan Armeni | 
 Karen Dijkstra | 
 Federica Bartolozzi | 
-Rowan Sommers  
+Rowan Sommers | 
+Cecília Hustá | 
+Hao Li  
 
 _Other universities_  
 Guilia Krethlow, University of Geneva  
