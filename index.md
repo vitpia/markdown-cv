@@ -135,9 +135,9 @@ __Frye Stipend__, _Radboud University, Nijmegen_, Awarded yearly to the ten most
 
 ### Journal Articles
 `2026`  
-Li, H., Schellekens, M. M. I., __Piai, V.__, Kessels, R. P. C., de Leeuw, F.-E., & Tuladhar, A. M. (2026). Cognitive performance after stroke at a young age from a brain network perspective. _Trends in Neurosciences, 49(5)_, 403–414. doi:[10.1016/j.tins.2026.03.008](https://doi.org/10.1016/j.tins.2026.03.008)  
+Li, H., Schellekens, M. M. I., __Piai, V.__, Kessels, R. P. C., de Leeuw, F.-E., & Tuladhar, A. M. (2026). Cognitive performance after stroke at a young age from a brain network perspective. _Trends in Neurosciences, 49(5)_, 403–414. doi: [10.1016/j.tins.2026.03.008](https://doi.org/10.1016/j.tins.2026.03.008)  
 
-Depuydt, E., Oostenveld, R., De Letter, M., van Mierlo, P., & Piai, V. (2026). The Impact of Brain Tumors and Craniotomy Lesions on Scalp EEG. _Brain Topography, 39(2)_. doi:[10.1007/s10548-026-01178-7](https://doi.org/10.1007/s10548-026-01178-7)  
+Depuydt, E., Oostenveld, R., De Letter, M., van Mierlo, P., & Piai, V. (2026). The Impact of Brain Tumors and Craniotomy Lesions on Scalp EEG. _Brain Topography, 39(2)_. doi: [10.1007/s10548-026-01178-7](https://doi.org/10.1007/s10548-026-01178-7)  
 
 Schellekens, M. M. I., Li, H., Wijnands, M., Papounidou, A., Boot, E. M., Verhoeven, J. I., Ekker, M. S., van Alebeek, M. E., Brouwers, P. J. A. M., Arntz, R. M., van Dijk, G. W., Gons, R. A. R., van Uden, I. W. M., Heijer, T. den, van Tuijl, J. H., de Laat, K. F., van Norden, A. G. W., Vermeer, S. E., van Zagten, M. S. G., … Tuladhar, A. M. (2026). Lesion locations are associated with cognitive impairment after ischemic stroke in young adults. _NeuroImage: Clinical, 49_, 103930. doi: [10.1016/j.nicl.2025.103930](https://doi.org/10.1016/j.nicl.2025.103930)  
 
