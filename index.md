@@ -400,7 +400,7 @@ __Reconfiguration of the language network.__ Talk at symposium _Cognitive Networ
 
 ### Invited Talks
 `2026`
-__Studying language dysfunction: part of the interdisciplinary approach__. The Future of the Psychology of Language Workshop. Max Planck Institute for Psycholinguistics. Nijmegen, June, 2026.  
+__Studying language dysfunction: part of the interdisciplinary approach__. The Future of the Psychology of Language Workshop. Max Planck Institute for Psycholinguistics. Nijmegen, June, 2026.  
 __What is the language network? Moving through operationalisations and degrees of abstraction__. NeuroHumanities, Seminar & Round Table. Institute of Neurosciences, Univerisity of Barcelona. March, 2026.  
 
 `2025`
@@ -677,4 +677,4 @@ Co-organiser of Psycholinguistics in Flanders Meeting, _Nijmegen, the Netherland
 Organiser of the Language Division Meetings, _Donders Centre for Cognition_
 
 <br/>
-<br/>Last updated: December 2025<br/><br/>
+<br/>Last updated: June 2026<br/><br/>
